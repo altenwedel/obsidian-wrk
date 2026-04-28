@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "e726fdd25525a697",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8a66096c83afec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70f67c1108527cde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCL/26269 website remake/26269 website remake.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "26269 website remake"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b928e2de66a2833a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d5054818bb49d2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "affec8c40e509fea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "be69c38bf3c258e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ead0589b42240be5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "877eafe6be0398fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4754e836dc4178e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "560c47ce61f2e1d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BCM/26276 kwaliteitsprogramma/26276 kwaliteitsprogramma.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 26276 kwaliteitsprogramma"
+            }
+          },
+          {
+            "id": "6945ed6cac5b8bc9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BCM/26276 kwaliteitsprogramma/20 brondocumenten/vergelijkingsmateriaal/intern-BCM/Leiderdorp-OudeGemeentehuis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Leiderdorp-OudeGemeentehuis"
+            }
+          },
+          {
+            "id": "39bd4766e60c05df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3998276de05bf28f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "50bec6556b0d02d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BCM/26276 kwaliteitsprogramma/20 brondocumenten/vergelijkingsmateriaal/intern-BCM/Leiderdorp-OudeGemeentehuis.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Leiderdorp-OudeGemeentehuis"
+            }
+          },
+          {
+            "id": "335f25b6d28a7962",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "a9e5e265deb58531",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "affec8c40e509fea",
+  "lastOpenFiles": [
+    "SCL/26269 website remake/20 brondocumenten/literatuur/260428-concurrentieanalyse.md",
+    "SCL/26269 website remake/20 brondocumenten/literatuur",
+    "SCL/26269 website remake/SCL 25208 promotie Studio Claro/00 project.md",
+    "SCL/26269 website remake/26269 website remake.md",
+    "SCL/26269 website remake/20 brondocumenten/notities/260114-claude-chat-warmtenet-artikel.md",
+    "README.md.tmp.52064.1777389863752",
+    "SCL/26269 website remake/90 templates/template-sterartikel.md",
+    "SCL/26269 website remake/90 templates/template-versiecover.md",
+    "SCL/26269 website remake/90 templates",
+    "SCL/26269 website remake/20 brondocumenten/notities/260114-mario-warmtetransitie-websiteversie.md",
+    "SCL/26269 website remake/20 brondocumenten/notities",
+    "SCL/26269 website remake/SCL 25208 promotie Studio Claro/depublicatielijst-studio-claro.xlsx",
+    "SCL/26269 website remake/20 brondocumenten/materiaal/260212-motivatiebrief-svd.md",
+    "SCL/26269 website remake/20 brondocumenten/materiaal/260212-cv-sicko-van-dijk.md",
+    "SCL/26269 website remake/20 brondocumenten/materiaal",
+    "SCL/26269 website remake/30 deliverables/sterartikelen/260105-participatie-zonder-valse-start.md",
+    "SCL/26269 website remake/30 deliverables/sterartikelen/260127-edam-volendam-gemeenteraad.md",
+    "SCL/26269 website remake/30 deliverables/sterartikelen/260126-leusden-in-balans.md",
+    "SCL/26269 website remake/30 deliverables/sterartikelen/260126-leusden-in-balans.md.tmp.52064.1777389587133",
+    "SCL/26269 website remake/30 deliverables/sterartikelen",
+    "BCM/26276 kwaliteitsprogramma/30 deliverables/pva-fase-1.md",
+    "SCL/26269 website remake/SCL 25208 promotie Studio Claro",
+    "BCM/26276 kwaliteitsprogramma/20 brondocumenten/intake-historische-bestanden.md",
+    "BCM/26276 kwaliteitsprogramma/20 brondocumenten/notities/260428-chat-claudeai-tool-architectuur.md",
+    "BCM/26276 kwaliteitsprogramma/20 brondocumenten/notities/260428 stand van zaken.md",
+    "BCM/26276 kwaliteitsprogramma/30 deliverables/beoordelingsmatrix/beoordelingsmatrix-v04.md",
+    "BCM/26276 kwaliteitsprogramma/20 brondocumenten/literatuur/claude-projects-kennisarchitectuur.md",
+    "BCM/26276 kwaliteitsprogramma/20 brondocumenten/literatuur/drie-niveau-framework-ai.md",
+    "BCM/26276 kwaliteitsprogramma/20 brondocumenten/literatuur/ACDR-waarden-mensen-beweging.md",
+    "BCM/26276 kwaliteitsprogramma/20 brondocumenten/notities/260426 stand van zaken.md",
+    "BCM/26276 kwaliteitsprogramma/20 brondocumenten/notities/260210 intake bespreking Linda.md",
+    "BCM/26276 kwaliteitsprogramma/20 brondocumenten/notities/260414 bespreking Simone.md",
+    "BCM/26276 kwaliteitsprogramma/20 brondocumenten/notities/260318-bespreking Jacqueline R.md",
+    "BCM/26276 kwaliteitsprogramma/20 brondocumenten/notities/260212 bespreking met Simone.md",
+    "BCM/26276 kwaliteitsprogramma/20 brondocumenten/notities/260310-learning-log.md",
+    "BCM/26276 kwaliteitsprogramma/30 deliverables/beoordelingstool/---",
+    "VRK/26277 subsidie aanvraag/30 deliverables/asset briefing/assets/color-card.svg"
+  ]
+}
