@@ -13,7 +13,7 @@ vimeo: true
 klant: "Stichting Philadelphia Zorg"
 wp_categorieen: ["animatie", "realisatie"]
 tags: ["Inclusie", "Stichting Philadelphia Zorg", "Zorg"]
-samenvatting: "https://vimeo.com/343914635"
+samenvatting: "Philadelphia maakte in 2018 een jaar van groei door, met méér zeer tevreden cliënten en verwanten, méér nieuwe locaties, betrokken medewerkers. Resultaat en"
 ---
 
 https://vimeo.com/343914635

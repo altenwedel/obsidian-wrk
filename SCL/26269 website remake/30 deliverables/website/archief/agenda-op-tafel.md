@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["design"]
 tags: []
-samenvatting: "!14640 inspiratiesessie mobhttps://www.lateral.nu/lateral.nu/wp-content/uploads/2014/09/14640-inspiratiesessie-mob-1024x772.jpg"
+samenvatting: "Hoe maak je van een inspiratiesessie een actiedag? Beaumont Communicatie organiseerde voor de Provincie Noord Brabant een creatieve bijeenkomst. De agenda lag"
 ---
 
 ![14640 inspiratiesessie [mob]](https://www.lateral.nu/lateral.nu/wp-content/uploads/2014/09/14640-inspiratiesessie-mob-1024x772.jpg)

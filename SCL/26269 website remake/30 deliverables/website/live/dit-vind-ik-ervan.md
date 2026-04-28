@@ -13,7 +13,7 @@ vimeo: true
 klant: "Amerpoort"
 wp_categorieen: ["animatie"]
 tags: ["Amerpoort", "Ditvindikervan", "Inclusie"]
-samenvatting: "https://vimeo.com/301196512"
+samenvatting: "Dit vind ik ervan!  is inmiddels gebruikt door meer dan 35.000 mensen om te vertellen hoe het met ze gaat en wat ze er van vinden. Hoe zo'n gesprek verloopt?"
 ---
 
 https://vimeo.com/301196512

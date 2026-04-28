@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["design"]
 tags: []
-samenvatting: "!15810-board-designhttps://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/15810-board-design-1024x724.png"
+samenvatting: "Voor studenten van de  Hogeschool van Amsterdam  ontwikkelde  Beaumont Communicatie Management  een serious game over duurzaam investeren voor de Body of"
 ---
 
 ![15810-board-design](https://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/15810-board-design-1024x724.png)

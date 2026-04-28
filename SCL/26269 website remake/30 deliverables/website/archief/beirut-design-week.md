@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/227534797"
+samenvatting: "Inspiratie voor verandering. De designweek draait om menselijke behoeften. De plek is … MENA Design Research Center. Video Short voor Beaumont Communicatie."
 ---
 
 https://vimeo.com/227534797

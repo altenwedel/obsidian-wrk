@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/220703110"
+samenvatting: "Hoe kan hulp bij het huishouden u helpen om langer thuis te blijven wonen? Wilt u een eenvoudige uitleg over hulp bij het huishouden? Bekijk dan het filmpje."
 ---
 
 https://vimeo.com/220703110

@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["animatie", "design", "illustratie"]
 tags: []
-samenvatting: "!2014-09-18_20-24-03https://www.lateral.nu/lateral.nu/wp-content/uploads/2014/09/2014-09-18_20-24-03.png"
+samenvatting: "Het spannende online spel ‘Op weg naar NUL’ houdt jongeren uit Noord-Brabant bij de les en laat zien wat de consequenties kunnen zijn van slordig weggedrag. De"
 ---
 
 ![2014-09-18_20-24-03](https://www.lateral.nu/lateral.nu/wp-content/uploads/2014/09/2014-09-18_20-24-03.png)

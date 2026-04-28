@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/169514485"
+samenvatting: "Mijn Geld en Zo weet veel van geld. En hoe je dingen moet regelen. Ze nemen dingen van je over. Of ze spreken af waar ze je mee helpen. Met jou maken ze een"
 ---
 
 https://vimeo.com/169514485

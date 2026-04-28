@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: ["Laaggeletterdheid", "Participatie"]
-samenvatting: "https://vimeo.com/528747987"
+samenvatting: "Lezen is een uitstekende manier om meer te weten te komen over je rechten als het gaat om stemmen voor de Tweede Kamer. Als je dat moeilijk vindt is het goed"
 ---
 
 https://vimeo.com/528747987

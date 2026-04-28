@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["animatie", "design"]
 tags: []
-samenvatting: "!https://www.lateral.nu/lateral.nu/wp-content/uploads/2013/07/12318-inter3actief-b-1024x576.jpg"
+samenvatting: "Minimale animatie, geproduceerd voor Dudok Wonen om interne stakeholders een overzicht te geven van de ambities voor 2020. Directeur Bedrijfsvoering Nicole"
 ---
 
 ![](https://www.lateral.nu/lateral.nu/wp-content/uploads/2013/07/12318-inter3actief-b-1024x576.jpg)

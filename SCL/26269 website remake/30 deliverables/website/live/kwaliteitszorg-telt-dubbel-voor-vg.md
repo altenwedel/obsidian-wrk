@@ -13,7 +13,7 @@ vimeo: true
 klant: "Lijn5"
 wp_categorieen: ["animatie"]
 tags: ["Inclusie", "Lijn5", "Zorg"]
-samenvatting: "https://vimeo.com/272038017"
+samenvatting: "Hoe leg je kwaliteitszorg uit in de gehandicaptenzorg"
 ---
 
 https://vimeo.com/272038017

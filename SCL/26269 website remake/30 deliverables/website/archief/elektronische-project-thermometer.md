@@ -13,7 +13,7 @@ vimeo: true
 klant: "Provincie Noord-Holland"
 wp_categorieen: ["animatie"]
 tags: ["Provincie Noord-Holland"]
-samenvatting: "https://vimeo.com/260708998"
+samenvatting: "De Provincie Noord-Holland heeft een nieuw tool voor het monitoren van projecten. Een geïntegreerde oplossing die teamwerken ondersteunt."
 ---
 
 https://vimeo.com/260708998

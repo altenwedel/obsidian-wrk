@@ -13,7 +13,7 @@ vimeo: true
 klant: "Gemeente Purmerend"
 wp_categorieen: ["animatie"]
 tags: ["Gebiedscommunicatie", "Gemeente Purmerend"]
-samenvatting: "https://vimeo.com/423495803"
+samenvatting: "Klik om de interactieve wijkwandeling te bekijken."
 ---
 
 https://vimeo.com/423495803

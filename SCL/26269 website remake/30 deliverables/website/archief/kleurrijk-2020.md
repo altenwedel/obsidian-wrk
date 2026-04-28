@@ -13,7 +13,7 @@ vimeo: false
 klant: "NAPK"
 wp_categorieen: ["animatie"]
 tags: ["NAPK"]
-samenvatting: "https://www.youtube.com/watch?v=jwWHEB0Lqr4"
+samenvatting: "De Nederlandse Associatie voor Podiumkunsten wenst iedereen een kleurrijk 2020.  We maakten daarvoor een korte en flitsende animatie voor stakeholders."
 ---
 
 https://www.youtube.com/watch?v=jwWHEB0Lqr4

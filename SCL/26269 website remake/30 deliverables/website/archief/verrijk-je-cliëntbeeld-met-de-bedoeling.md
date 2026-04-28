@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["realisatie"]
 tags: []
-samenvatting: "!verrijk-je-clientbeeldhttps://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/verrijk-je-clientbeeld.jpg"
+samenvatting: "Door  Erica Meijerman  ontwikkeld spel voor locatiemanagers van Philadelphia. Bedoeld om op een speelse manier met teamleden te bespreken hoeveel je van elkaar"
 ---
 
 ![verrijk-je-clientbeeld](https://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/verrijk-je-clientbeeld.jpg)

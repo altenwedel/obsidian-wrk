@@ -13,7 +13,7 @@ vimeo: false
 klant: "Gemeente Amsterdam"
 wp_categorieen: ["animatie"]
 tags: ["Gemeente Amsterdam", "Inclusie", "Participatie"]
-samenvatting: "!https://studioclaro.nl/wp-content/uploads/2023/11/overzicht-onderdelen-1024x384.jpg"
+samenvatting: "Waarom een toegankelijk stemproces belangrijk is  Als overheid hoor je het stemproces zo toegankelijk mogelijk te maken voor  alle burgers . Kunnen stemmen"
 ---
 
 ![](https://studioclaro.nl/wp-content/uploads/2023/11/overzicht-onderdelen-1024x384.jpg)

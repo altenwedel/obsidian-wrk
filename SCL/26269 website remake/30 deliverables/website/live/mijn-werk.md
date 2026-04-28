@@ -13,7 +13,7 @@ vimeo: true
 klant: "Philadelphia"
 wp_categorieen: ["animatie"]
 tags: ["Inclusie", "Philadelphia", "Zorg"]
-samenvatting: "https://vimeo.com/306971451"
+samenvatting: "Maak kennis met het werk van Philadelphia. Door te zien wat ze voor je doen in je buurt, via je coach en voor je werk. Wat langere informatieve clips die het"
 ---
 
 https://vimeo.com/306971451

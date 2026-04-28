@@ -13,7 +13,7 @@ vimeo: true
 klant: "Rijkswaterstaat"
 wp_categorieen: ["animatie"]
 tags: ["Rijkswaterstaat"]
-samenvatting: "https://vimeo.com/138755738"
+samenvatting: "Animatie voor intern gebruik over de manier waarop de afdeling Publieksmonitoring RWS gebruikers in kaart brengt. De animatie volgt de lotgevallen van een"
 ---
 
 https://vimeo.com/138755738

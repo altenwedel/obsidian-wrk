@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["design", "realisatie"]
 tags: []
-samenvatting: "!15805-map-fronthttps://www.lateral.nu/wp-content/uploads/2015/06/15805-map-front-1024x724.png"
+samenvatting: "Geerpark in Vlijmen wil zich van zijn beste kant laten zien. Daarom werd er in Adobe Edge Animate een interactieve kaart ontwikkeld om platform onafhankelijk"
 ---
 
 ![15805-map-front](https://www.lateral.nu/wp-content/uploads/2015/06/15805-map-front-1024x724.png)

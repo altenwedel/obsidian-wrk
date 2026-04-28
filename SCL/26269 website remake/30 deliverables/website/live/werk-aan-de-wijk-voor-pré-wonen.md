@@ -13,7 +13,7 @@ vimeo: true
 klant: "Pre Wonen"
 wp_categorieen: ["concept", "illustratie", "realisatie"]
 tags: ["Gebiedscommunicatie", "Inclusie", "Laaggeletterdheid"]
-samenvatting: "https://vimeo.com/67719645"
+samenvatting: "Actief in maatschappelijk middenveld  Pré Wonen beheert in de regio’s Zuid-Kennemerland en IJmond eengezinswoningen en appartementen voor een brede doelgroep."
 ---
 
 https://vimeo.com/67719645

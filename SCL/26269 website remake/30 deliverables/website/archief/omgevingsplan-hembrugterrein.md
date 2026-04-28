@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/205340560"
+samenvatting: "De gemeente Zaanstad betrekt burgers actief bij het ontwikkelen van het Hembrugterrein."
 ---
 
 https://vimeo.com/205340560

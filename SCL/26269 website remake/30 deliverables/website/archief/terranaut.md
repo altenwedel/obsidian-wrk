@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["illustratie", "realisatie"]
 tags: []
-samenvatting: "!16223550196_714750b037_ohttps://www.lateral.nu/lateral.nu/wp-content/uploads/2015/02/16223550196_714750b037_o-1024x576.jpg"
+samenvatting: "Het is onderhand een soort traditie geworden. Een leuke attentie bedenken voor de mensen waar je mee mag werken. Dit jaar zijn het patches voor Terranauts."
 ---
 
 ![16223550196_714750b037_o](https://www.lateral.nu/lateral.nu/wp-content/uploads/2015/02/16223550196_714750b037_o-1024x576.jpg)

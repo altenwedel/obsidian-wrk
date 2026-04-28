@@ -13,7 +13,7 @@ vimeo: true
 klant: "Beaumont Communicatie"
 wp_categorieen: ["animatie"]
 tags: ["Beaumont Communicatie", "Gebiedscommunicatie", "Gemeente Purmerend"]
-samenvatting: "https://vimeo.com/240969335"
+samenvatting: "Inzet van gaming bij buurtgesprekken over bijvoorbeeld leefbaarheid. Goed ingezet door Linda Troost en Simone Schouten, Lateral mocht het spel bedenken en de"
 ---
 
 https://vimeo.com/240969335

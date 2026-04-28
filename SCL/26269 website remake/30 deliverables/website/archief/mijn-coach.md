@@ -13,7 +13,7 @@ vimeo: true
 klant: "Stichting Philadelphia Zorg"
 wp_categorieen: ["animatie"]
 tags: ["Inclusie", "Stichting Philadelphia Zorg", "Zorg"]
-samenvatting: "https://vimeo.com/207069063"
+samenvatting: "Jongeren met een licht verstandelijke beperking zijn een bijzondere doelgroep voor gemeenten. Philadelphia biedt gemeenten een bijzonder compleet aanbod aan"
 ---
 
 https://vimeo.com/207069063

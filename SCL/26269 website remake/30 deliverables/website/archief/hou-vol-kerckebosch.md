@@ -13,7 +13,7 @@ vimeo: true
 klant: "Gemeente Zeist"
 wp_categorieen: ["animatie"]
 tags: ["Gemeente Zeist"]
-samenvatting: "https://vimeo.com/410502057"
+samenvatting: "Een korte update uit de wijk Kerckebosch in Zeist tijdens de coronatijd."
 ---
 
 https://vimeo.com/410502057

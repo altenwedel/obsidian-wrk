@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/80210320"
+samenvatting: "Provincie Noord Brabant wilde in twee minuten laten zien welke acties er in 2012 en 2013 gevoerd zijn om de verkeersveiligheid te verbeteren."
 ---
 
 https://vimeo.com/80210320

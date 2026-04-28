@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: ["Laaggeletterdheid", "Netwerk Basisvaardigheden"]
-samenvatting: "https://vimeo.com/406919846"
+samenvatting: "In Nederland hebben 2,5 miljoen mensen moeite met lezen, schrijven, rekenen of omgaan met de computer. Dat is 1 op de 9 volwassenen. Voor de Bibliotheek in"
 ---
 
 https://vimeo.com/406919846

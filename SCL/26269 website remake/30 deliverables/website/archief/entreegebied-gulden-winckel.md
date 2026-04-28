@@ -13,7 +13,7 @@ vimeo: true
 klant: "Gemeente Amsterdam"
 wp_categorieen: ["animatie"]
 tags: ["Gebiedscommunicatie", "Gemeente Amsterdam"]
-samenvatting: "https://vimeo.com/450763281"
+samenvatting: "Eind september 2019 begon het participatietraject voor Entreegebied Gulden Winckel, een Amsterdamse buurt bij afslag S103 van de Ringweg A10. Voor een"
 ---
 
 https://vimeo.com/450763281

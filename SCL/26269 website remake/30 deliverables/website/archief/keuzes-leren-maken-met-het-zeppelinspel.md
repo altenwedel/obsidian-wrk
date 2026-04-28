@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["design", "illustratie", "realisatie"]
 tags: []
-samenvatting: "!G001-Zeppelinhttps://www.lateral.nu/wp-content/uploads/2015/06/G001-Zeppelin-1024x633.pnghttps://www.lateral.nu/wp-content/uploads/2015/06/G001-Zeppelin.png"
+samenvatting: "Anna Blokhuis  en  Jan Boudewijn  ontwikkelden een keuzespel om mensen met een verstandelijke beperking te laten oefenen met alleen beslissingen nemen en"
 ---
 
 [![G001-Zeppelin](https://www.lateral.nu/wp-content/uploads/2015/06/G001-Zeppelin-1024x633.png)](https://www.lateral.nu/wp-content/uploads/2015/06/G001-Zeppelin.png)

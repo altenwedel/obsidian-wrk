@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["design", "realisatie"]
 tags: []
-samenvatting: "!team-EZ-Zoetermeerhttps://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/team-EZ-Zoetermeer.jpg"
+samenvatting: "Team EZ van de  Gemeente Zoetermeer  wilde graag weten hoe de ondernemers staan ten opzichte van het innovatiebeleid. Lateral verzorgde de online vragenlijst"
 ---
 
 ![team-EZ-Zoetermeer](https://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/team-EZ-Zoetermeer.jpg)

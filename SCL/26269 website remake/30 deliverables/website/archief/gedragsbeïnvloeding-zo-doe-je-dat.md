@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "!Sessiehttps://www.lateral.nu/wp-content/uploads/2015/09/Sessie.jpg"
+samenvatting: "Op donderdag 10 september verzorgden Beaumont Communicatie en Management en adviesbureau D&B op een inspirerende locatie in Utrecht de workshop"
 ---
 
 ![Sessie](https://www.lateral.nu/wp-content/uploads/2015/09/Sessie.jpg)

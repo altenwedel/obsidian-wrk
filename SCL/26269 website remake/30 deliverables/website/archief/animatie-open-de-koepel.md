@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/145129710"
+samenvatting: "University College Haarlem geeft de kans om met de koepel in Haarlem de geschiedenis te herschrijven. De binnenstad over het Spaarne te trekken. Een gastvrije"
 ---
 
 https://vimeo.com/145129710

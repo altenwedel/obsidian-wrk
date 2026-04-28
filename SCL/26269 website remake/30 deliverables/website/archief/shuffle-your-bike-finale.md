@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/91101894"
+samenvatting: "Video intro voor bijeenkomst"
 ---
 
 https://vimeo.com/91101894

@@ -13,7 +13,7 @@ vimeo: true
 klant: "NAPK"
 wp_categorieen: ["animatie"]
 tags: ["Kunst", "NAPK"]
-samenvatting: "https://vimeo.com/269313876"
+samenvatting: "De Nederlandse Associatie voor Podiumkunsten brengt verslag uit over het jaar 2017. We mochten meewerken aan een animatie die in verschillende bedrijven in"
 ---
 
 https://vimeo.com/269313876

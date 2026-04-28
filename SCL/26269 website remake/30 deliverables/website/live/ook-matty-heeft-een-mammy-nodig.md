@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: ["Medisch"]
-samenvatting: "https://vimeo.com/423208639"
+samenvatting: "De  Jeugdreuma Vereniging Nederland  wilde tijdens de algemene ledenvergadering haar jaarplan presenteren en vroeg ons om het plan in een korte animatie samen"
 ---
 
 https://vimeo.com/423208639

@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: ["Duurzaamheid", "Gebiedscommunicatie"]
-samenvatting: "https://vimeo.com/510241553"
+samenvatting: "Op de Schipholweg, ter hoogte van de Europaweg, komt een vitaal, stedelijk knooppunt waar openbaar vervoer, wonen, werken en nieuwe voorzieningen, zoals"
 ---
 
 https://vimeo.com/510241553

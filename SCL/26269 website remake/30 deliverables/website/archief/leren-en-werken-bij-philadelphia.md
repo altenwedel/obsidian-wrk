@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/67384371"
+samenvatting: "Informatieve Animatie voor gemeenten"
 ---
 
 https://vimeo.com/67384371

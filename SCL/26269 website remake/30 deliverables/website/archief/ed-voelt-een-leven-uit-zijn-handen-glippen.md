@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["copy"]
 tags: []
-samenvatting: "!OLYMPUS DIGITAL CAMERAhttps://www.lateral.nu/lateral.nu/wp-content/uploads/2014/07/squeek.jpg"
+samenvatting: "Het jongetje heeft lang blond haar. Er plakt bloed op. Hij is net zo oud als mijn eigen zoon. Ik buig me over hem heen, bekijk zijn ogen. De ene pupil"
 ---
 
 ![OLYMPUS DIGITAL CAMERA](https://www.lateral.nu/lateral.nu/wp-content/uploads/2014/07/squeek.jpg)

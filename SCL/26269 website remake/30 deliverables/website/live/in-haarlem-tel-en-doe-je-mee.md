@@ -13,7 +13,7 @@ vimeo: false
 klant: "Gemeente Haarlem"
 wp_categorieen: ["animatie", "design"]
 tags: ["Gemeente Haarlem", "Inclusie", "Laaggeletterdheid"]
-samenvatting: "https://www.youtube.com/watch?v=mJ6qiMLkq2E"
+samenvatting: "De  Gemeente Haarlem  en de  Gemeente Zandvoort  wilden verschillende onderwerpen binnen het sociaal domein op een toegankelijke manier presenteren. We hielpen"
 ---
 
 https://www.youtube.com/watch?v=mJ6qiMLkq2E

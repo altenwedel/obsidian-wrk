@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["design", "illustratie", "realisatie"]
 tags: []
-samenvatting: "!DSC01014https://www.lateral.nu/wp-content/uploads/2015/06/DSC01014.jpghttps://www.lateral.nu/wp-content/uploads/2015/06/DSC01014.jpg"
+samenvatting: "Woningcorporatie Woonwaard in Alkmaar wilde in gesprek met haar stakeholders, maar moest daarvoor wel een mogelijk kennisverschil overbruggen. Daarom werd er"
 ---
 
 [![DSC01014](https://www.lateral.nu/wp-content/uploads/2015/06/DSC01014.jpg)](https://www.lateral.nu/wp-content/uploads/2015/06/DSC01014.jpg)

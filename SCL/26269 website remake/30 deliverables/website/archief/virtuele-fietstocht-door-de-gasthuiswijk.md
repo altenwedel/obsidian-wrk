@@ -13,7 +13,7 @@ vimeo: true
 klant: "Beaumont Communicatie"
 wp_categorieen: ["animatie"]
 tags: ["Beaumont Communicatie", "Gebiedscommunicatie"]
-samenvatting: "https://vimeo.com/456894714/6e16f4f1f6"
+samenvatting: "De  gemeente Leiden  wil bewoners van de Gasthuiswijk laten zien hoe de wijk er in de toekomst bij kan komen te liggen.  Bureau wUrck  ontwikkelde een 3D"
 ---
 
 https://vimeo.com/456894714/6e16f4f1f6

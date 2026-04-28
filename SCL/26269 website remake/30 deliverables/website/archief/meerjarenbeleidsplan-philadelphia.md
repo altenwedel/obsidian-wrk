@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://www.vimeo.com/150693077"
+samenvatting: "De plannen van Stichting Philadelphia Zorg voor de komende jaren samengevat in vijf minuten. Een begeleider en een cliënt vatten de ontwikkelingen in hun eigen"
 ---
 
 https://www.vimeo.com/150693077

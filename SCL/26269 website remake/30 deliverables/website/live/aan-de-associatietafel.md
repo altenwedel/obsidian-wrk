@@ -13,7 +13,7 @@ vimeo: false
 klant: "BPD"
 wp_categorieen: ["concept", "design", "gesprekshulp"]
 tags: ["Participatie"]
-samenvatting: "!https://studioclaro.nl/wp-content/uploads/2023/11/Picture1-1024x576.jpg"
+samenvatting: "Er is nu nog niks te beleven  BPD Gebiedsontwikkeling en Gemeente Delft vernieuwen het stationsgebied Delft Campus. Hoe vraag je aan omwonenden en bezoekers"
 ---
 
 ![](https://studioclaro.nl/wp-content/uploads/2023/11/Picture1-1024x576.jpg)

@@ -13,7 +13,7 @@ vimeo: false
 klant: "Beaumont Communicatie"
 wp_categorieen: ["animatie"]
 tags: ["Beaumont Communicatie", "Gebiedscommunicatie", "Gemeente Purmerend"]
-samenvatting: "https://www.youtube.com/watch?v=KdQpbH_SzCw"
+samenvatting: "Wie zijn je buren straks, op het meest ondernemende bedrijventerrein van Noord Holland? Voor de gemeente Purmerend stelde Beaumont Communicatie nog eens drie"
 ---
 
 https://www.youtube.com/watch?v=KdQpbH_SzCw

@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: ["Reclame", "Voorlichting"]
-samenvatting: "https://vimeo.com/66517836"
+samenvatting: "Animaties uit Wijnwijs in 60 seconden. Een gedurfd concept, ontwikkeld voor De Wijnbeurs, om geïnteresseerden in wijn in zeer korte tijd meer te leren over"
 ---
 
 https://vimeo.com/66517836

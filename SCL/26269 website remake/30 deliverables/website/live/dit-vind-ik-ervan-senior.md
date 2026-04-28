@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["illustratie", "realisatie"]
 tags: ["Ditvindikervan", "Inclusie", "Laaggeletterdheid", "Zorg"]
-samenvatting: "https://vimeo.com/328588732"
+samenvatting: "Ontstaan in de gehandicaptensector"
 ---
 
 https://vimeo.com/328588732

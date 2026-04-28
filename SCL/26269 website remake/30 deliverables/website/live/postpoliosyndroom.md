@@ -13,7 +13,7 @@ vimeo: true
 klant: "Amsterdam UMC"
 wp_categorieen: ["animatie", "illustratie"]
 tags: ["Amsterdam UMC", "Medisch", "Zorg"]
-samenvatting: "https://vimeo.com/298264668"
+samenvatting: "Het postpolio syndroom is een aandoening waarbij polio patiënten kracht verliezen, klachten hebben van pijn en vermoeidheid, telkens minder kunnen, en te maken"
 ---
 
 https://vimeo.com/298264668

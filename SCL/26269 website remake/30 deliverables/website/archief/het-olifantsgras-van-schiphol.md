@@ -13,7 +13,7 @@ vimeo: true
 klant: "Beaumont Communicatie"
 wp_categorieen: ["animatie"]
 tags: ["Beaumont Communicatie", "Duurzaamheid", "Gebiedscommunicatie"]
-samenvatting: "https://vimeo.com/249314836"
+samenvatting: "De Miscanthus-groep is een collectief van boeren die Olifantsgras verbouwen bij Schiphol Trade Park. Een gewas met een energetische waarde van steenkool, dat"
 ---
 
 https://vimeo.com/249314836

@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/66518788"
+samenvatting: "Een kort informatiefilmpje over de gang van zaken bij CityBox."
 ---
 
 https://vimeo.com/66518788

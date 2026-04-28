@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["illustratie"]
 tags: []
-samenvatting: "!084a8849f4738a9bd2972abaf931ccabhttps://www.lateral.nu/lateral.nu/wp-content/uploads/2014/04/084a8849f4738a9bd2972abaf931ccab.jpghttps://www.behance.net/galler"
+samenvatting: "Personal work by Claudia Dominguez"
 ---
 
 [![084a8849f4738a9bd2972abaf931ccab](https://www.lateral.nu/lateral.nu/wp-content/uploads/2014/04/084a8849f4738a9bd2972abaf931ccab.jpg)](https://www.behance.net/gallery/Splashes/11687397)

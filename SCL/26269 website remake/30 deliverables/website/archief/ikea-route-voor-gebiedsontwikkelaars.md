@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["illustratie", "realisatie"]
 tags: ["Gebiedscommunicatie"]
-samenvatting: "https://vimeo.com/335674675"
+samenvatting: "Oosterwolders  doen alles zelf.  Ze bedenken hun eigen woningen, wegen en waterpartijen en ze regelen samen de gemeenschappelijke voorzieningen. Een"
 ---
 
 https://vimeo.com/335674675

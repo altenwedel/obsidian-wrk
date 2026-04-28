@@ -13,7 +13,7 @@ vimeo: true
 klant: "Beaumont Communicatie"
 wp_categorieen: ["animatie"]
 tags: ["Beaumont Communicatie", "Gebiedscommunicatie", "Participatie"]
-samenvatting: "https://vimeo.com/291297914"
+samenvatting: "SITE urban development bestaat nog maar 10 jaar. Toch hebben ze iedere dag te maken met complexe vraagstukken waar vakkennis en levenservaring voor nodig is."
 ---
 
 https://vimeo.com/291297914

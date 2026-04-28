@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["illustratie", "realisatie"]
 tags: ["Gebiedscommunicatie"]
-samenvatting: "https://vimeo.com/341176308"
+samenvatting: "Hoe praat je over stedelijke vernieuwing wanneer je moeilijk leest. Bijvoorbeeld omdat Nederlands niet je eerste taal is? De  gemeente Purmerend  en "
 ---
 
 https://vimeo.com/341176308

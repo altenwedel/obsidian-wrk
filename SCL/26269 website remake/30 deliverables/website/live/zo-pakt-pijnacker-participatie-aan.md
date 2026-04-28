@@ -13,7 +13,7 @@ vimeo: true
 klant: "Gemeente Pijnacker Nootdorp"
 wp_categorieen: ["animatie", "copy"]
 tags: ["Participatie"]
-samenvatting: "https://player.vimeo.com/video/851730425"
+samenvatting: "Denkwijzer, werkwijzer en stappenplan   Participatie  is voor Pijnacker-Nootdorp belangrijk. Meepraten, meedenken of meedoen zorgt voor verbinding tussen"
 ---
 
 https://player.vimeo.com/video/851730425

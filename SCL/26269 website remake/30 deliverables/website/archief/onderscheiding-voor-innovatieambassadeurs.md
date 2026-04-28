@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["realisatie"]
 tags: []
-samenvatting: "!WP_20150812_12_52_05_Pro-1024x576https://www.lateral.nu/wp-content/uploads/2015/09/WP_20150812_12_52_05_Pro-1024x576-1024x576.jpg"
+samenvatting: "Philadelphia werkt met meer dan honderd innovatie ambassadeurs in regio's, clusters en stafafdelingen aan de toekomst van de zorg. Om deze voortrekkers te"
 ---
 
 ![WP_20150812_12_52_05_Pro-1024x576](https://www.lateral.nu/wp-content/uploads/2015/09/WP_20150812_12_52_05_Pro-1024x576-1024x576.jpg)

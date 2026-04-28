@@ -13,7 +13,7 @@ vimeo: true
 klant: "Tuberculosefonds"
 wp_categorieen: ["copy", "illustratie"]
 tags: ["Inclusie", "Medisch", "Tuberculosefonds"]
-samenvatting: "https://vimeo.com/450135940"
+samenvatting: "De afdeling  Revalidatiegeneeskunde  van het Amsterdam UMC wilde de patiëntinformatie voor de  diabetische voet  verbeteren en vroeg ons om nieuw materiaal te"
 ---
 
 https://vimeo.com/450135940

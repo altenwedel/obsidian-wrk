@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/228118480"
+samenvatting: "De Fietstelweek zorg er voor dat je sneller, beter en slimmer kunt fietsen. Deze animatie legt uit hoe de app werkt."
 ---
 
 https://vimeo.com/228118480

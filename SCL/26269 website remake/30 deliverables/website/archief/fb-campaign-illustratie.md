@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["illustratie"]
 tags: []
-samenvatting: "!activatieposthttps://www.lateral.nu/lateral.nu/wp-content/uploads/2014/06/activatiepost.png"
+samenvatting: "Account:  Beaumont Communicatie  ( Linda Troost )"
 ---
 
 ![activatiepost](https://www.lateral.nu/lateral.nu/wp-content/uploads/2014/06/activatiepost.png)

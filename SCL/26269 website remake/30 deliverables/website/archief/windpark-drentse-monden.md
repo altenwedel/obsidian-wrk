@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["realisatie"]
 tags: []
-samenvatting: "!dmohttps://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/dmo.jpg"
+samenvatting: "Informatieve website voor de initiatiefnemers van het  Windpark Drentse Monden Oostermoer ."
 ---
 
 ![dmo](https://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/dmo.jpg)

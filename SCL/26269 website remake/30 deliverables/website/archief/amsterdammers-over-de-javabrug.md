@@ -13,7 +13,7 @@ vimeo: true
 klant: "Beaumont Communicatie"
 wp_categorieen: ["animatie"]
 tags: ["Beaumont Communicatie", "Gebiedscommunicatie", "Gemeente Amsterdam"]
-samenvatting: "https://vimeo.com/270405197"
+samenvatting: "Amsterdammers maken straks op de Javabrug een #SprongOverHetIJ. Wat vinden zij van deze maatregel? Voor Gemeente Amsterdam vroegen Daniel Nagel, Erika Sollie"
 ---
 
 https://vimeo.com/270405197

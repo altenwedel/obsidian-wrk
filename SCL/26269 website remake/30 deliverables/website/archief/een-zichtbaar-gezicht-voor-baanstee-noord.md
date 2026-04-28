@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["copy", "design", "realisatie"]
 tags: []
-samenvatting: "!bano01https://www.lateral.nu/wp-content/uploads/2015/06/bano01.jpg"
+samenvatting: "Gemeente Purmerend wilde meer smoel in de presentatie van ontwikkelgebied Baanstee Noord. Voor Beaumont Communicatie ontwikkelden we een responsieve tweetalige"
 ---
 
 ![bano01](https://www.lateral.nu/wp-content/uploads/2015/06/bano01.jpg)

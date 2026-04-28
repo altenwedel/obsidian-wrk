@@ -13,7 +13,7 @@ vimeo: true
 klant: "UMCG"
 wp_categorieen: ["animatie", "illustratie", "realisatie"]
 tags: ["Medisch", "UMCG", "Veiligheid", "Zorg"]
-samenvatting: "https://vimeo.com/300253136"
+samenvatting: "Je wilt zeker weten dat hij goed zit, een neusmaagsonde. Want als je hem verkeerd hebt ingebracht gebeuren er ongelukken. Maar hoe controleer je dat? Deze"
 ---
 
 https://vimeo.com/300253136

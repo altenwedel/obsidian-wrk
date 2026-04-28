@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["animatie"]
 tags: ["Gebiedscommunicatie"]
-samenvatting: "https://www.youtube.com/watch?v=MhfMfndQlpU"
+samenvatting: "DELVA en SITE ontwikkelden in opdracht van Gemeente Rotterdam en Havenbedrijf Rotterdam een raamwerk voor de ‘doorontwikkeling’ van  Merwe-Vierhavens (M4H) als"
 ---
 
 https://www.youtube.com/watch?v=MhfMfndQlpU

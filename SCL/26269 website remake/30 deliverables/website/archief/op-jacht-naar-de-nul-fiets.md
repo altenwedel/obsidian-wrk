@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["illustratie"]
 tags: []
-samenvatting: "!6b75744592b851feab0d712d14b0daf8https://www.lateral.nu/lateral.nu/wp-content/uploads/2014/04/6b75744592b851feab0d712d14b0daf8.jpg"
+samenvatting: "Actie ansichtkaart voor Provincie Brabant"
 ---
 
 ![6b75744592b851feab0d712d14b0daf8](https://www.lateral.nu/lateral.nu/wp-content/uploads/2014/04/6b75744592b851feab0d712d14b0daf8.jpg)

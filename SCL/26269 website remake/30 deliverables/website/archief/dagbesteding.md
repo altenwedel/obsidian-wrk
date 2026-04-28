@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/235318104"
+samenvatting: "Hebt u begeleiding nodig om iets buitenshuis te doen? Dan is dagbesteding misschien iets voor u. De gemeente Amsterdam maakt Wmo informatie toegankelijk."
 ---
 
 https://vimeo.com/235318104

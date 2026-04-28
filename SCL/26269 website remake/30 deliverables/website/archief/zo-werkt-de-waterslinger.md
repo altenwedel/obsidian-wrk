@@ -13,7 +13,7 @@ vimeo: true
 klant: "Gemeente Zeist"
 wp_categorieen: ["animatie"]
 tags: ["Duurzaamheid", "Gemeente Zeist", "Inclusie", "Laaggeletterdheid"]
-samenvatting: "https://vimeo.com/341124246"
+samenvatting: "Een van de meest duurzame woonwijken van Nederland heeft een uniek waterbeheersysteem. De gemeente Heusden vroeg Beaumont Communicatie om een animatie te"
 ---
 
 https://vimeo.com/341124246

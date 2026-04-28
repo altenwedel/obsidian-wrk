@@ -13,7 +13,7 @@ vimeo: true
 klant: "Beaumont Communicatie"
 wp_categorieen: ["animatie"]
 tags: ["Beaumont Communicatie", "Duurzaamheid", "Gebiedscommunicatie"]
-samenvatting: "https://vimeo.com/269944934"
+samenvatting: "Op 17 mei opende C-Bèta, de circulaire hotspot op Schiphol Trade Park haar deuren. De plek waar de circulaire economie gaat overschakelen van praten naar doen"
 ---
 
 https://vimeo.com/269944934

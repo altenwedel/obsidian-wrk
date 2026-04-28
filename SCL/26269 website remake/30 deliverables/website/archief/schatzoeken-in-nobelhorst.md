@@ -13,7 +13,7 @@ vimeo: true
 klant: "Gemeente Almere"
 wp_categorieen: ["animatie"]
 tags: ["Gebiedscommunicatie", "Gemeente Almere"]
-samenvatting: "https://vimeo.com/91103699"
+samenvatting: "Nobelhorst  is écht een dorp in de stad Almere: sociaal, divers qua bewoners en uitstraling én duurzaam. Hier ken je je buren en spelen kinderen fijn op"
 ---
 
 https://vimeo.com/91103699

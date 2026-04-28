@@ -13,7 +13,7 @@ vimeo: true
 klant: "Gemeente Amsterdam"
 wp_categorieen: ["animatie"]
 tags: ["Gemeente Amsterdam", "Inclusie", "Laaggeletterdheid"]
-samenvatting: "https://vimeo.com/219212696"
+samenvatting: "De gemeente Amsterdam wil Wmo informatie toegankelijk maken voor mensen die minder goed kunnen lezen. We mochten meedenken over de vorm en de inhoud van de"
 ---
 
 https://vimeo.com/219212696

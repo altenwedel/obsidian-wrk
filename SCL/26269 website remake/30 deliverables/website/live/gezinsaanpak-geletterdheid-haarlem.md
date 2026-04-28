@@ -13,7 +13,7 @@ vimeo: false
 klant: "Gemeente Haarlem"
 wp_categorieen: ["illustratie", "realisatie"]
 tags: ["Gemeente Haarlem", "Inclusie", "Laaggeletterdheid"]
-samenvatting: "!https://studioclaro.nl/wp-content/uploads/2023/11/002-1024x439.jpg"
+samenvatting: "Het gezin als startpunt   In Haarlem zijn zo'n 15.000 mensen laaggeletterd. Om deze groep terug te dringen en de cyclus van laaggeletterdheid te doorbreken,"
 ---
 
 ![](https://studioclaro.nl/wp-content/uploads/2023/11/002-1024x439.jpg)

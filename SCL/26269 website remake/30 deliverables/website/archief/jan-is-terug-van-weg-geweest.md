@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["copy"]
 tags: []
-samenvatting: "!autohttps://www.lateral.nu/lateral.nu/wp-content/uploads/2014/05/auto.jpgHij zit direct achter me. Knipperend. Toeterend. Een enorme vrachtwagen. In mijn"
+samenvatting: "Hij zit direct achter me. Knipperend. Toeterend. Een enorme vrachtwagen. In mijn spiegel zie ik maar de helft van de grille. Het lijkt alsof ik onder stroom"
 ---
 
 ![auto](https://www.lateral.nu/lateral.nu/wp-content/uploads/2014/05/auto.jpg)Hij zit direct achter me. Knipperend. Toeterend. Een enorme vrachtwagen. In mijn spiegel zie ik maar de helft van de grille. Het lijkt alsof ik onder stroom sta. Waar komt die nou weer vandaan? Heb ik dat enorme ding dan niet gezien? Hoeveel heb ik eigenlijk gemist? Hoe lang ben ik al aan het knikkebollen? Ik schud wild mijn hoofd. Mijn ogen willen dicht. Ik sla op mijn benen. Mijn hoofd. Schreeuw tegen mezelf. En parkeer zo snel mogelijk de auto in de berm.

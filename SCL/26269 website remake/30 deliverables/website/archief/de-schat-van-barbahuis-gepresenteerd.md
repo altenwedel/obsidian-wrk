@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["design", "realisatie"]
 tags: []
-samenvatting: "!002https://www.lateral.nu/wp-content/uploads/2015/06/0021.png"
+samenvatting: "Eind januari vierde het netwerk van  Barbahuis  de positieve evaluatie van het concept.  De Bouwer & Partners  ontwikkelde een aantrekkelijke publicatie, die"
 ---
 
 ![002](https://www.lateral.nu/wp-content/uploads/2015/06/0021.png)

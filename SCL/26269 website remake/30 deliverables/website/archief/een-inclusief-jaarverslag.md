@@ -13,7 +13,7 @@ vimeo: false
 klant: "Stichting Philadelphia Zorg"
 wp_categorieen: ["animatie", "copy", "design", "realisatie"]
 tags: ["Inclusie", "Stichting Philadelphia Zorg"]
-samenvatting: "!Voorbeeld van de opbouw van een thema-pagina.https://studioclaro.nl/wp-content/uploads/2022/05/overzicht-opbouw-1024x729.jpgOpbouw van de landingspagina's"
+samenvatting: "Opbouw van de landingspagina's"
 ---
 
 ![Voorbeeld van de opbouw van een thema-pagina.](https://studioclaro.nl/wp-content/uploads/2022/05/overzicht-opbouw-1024x729.jpg)*Opbouw van de landingspagina's*

@@ -13,7 +13,7 @@ vimeo: true
 klant: "Gemeente Pekela"
 wp_categorieen: ["animatie", "copy"]
 tags: ["Gebiedscommunicatie", "Gemeente Pekela"]
-samenvatting: "https://studioclaro.nl/wp-content/uploads/2024/05/24132_mien_pekelerdaip_4-1080p.mp4"
+samenvatting: "Gemeente Pekela werkt samen met haar inwoners aan een heldere visie voor de toekomst van het Pekelder Hoofddiep. Samen met de zeer betrokken"
 ---
 
 https://studioclaro.nl/wp-content/uploads/2024/05/24132_mien_pekelerdaip_4-1080p.mp4

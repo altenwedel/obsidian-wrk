@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie", "design"]
 tags: []
-samenvatting: "https://vimeo.com/45233773"
+samenvatting: "Eetlokaal LT  is een sociaal restaurant in de Indische buurt in Amsterdam. Bij Eetlokaal LT werken jongeren met afstand tot de arbeidsmarkt en een auditieve"
 ---
 
 https://vimeo.com/45233773

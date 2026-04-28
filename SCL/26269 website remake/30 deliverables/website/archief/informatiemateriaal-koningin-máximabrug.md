@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["design", "realisatie"]
 tags: []
-samenvatting: "!15806 maximabrug 11"
+samenvatting: "Informatiepanelen voor expositie in het informatiecentrum van de nieuwe  Koningin Máximabrug  in Alphen aan den Rijn en aanvullende kaarten voor"
 ---
 
 [![15806 maximabrug [11] xs_Pagina_1_resize](https://www.lateral.nu/wp-content/uploads/2015/07/15806-maximabrug-11-xs_Pagina_1_resize.jpg)](https://www.lateral.nu/wp-content/uploads/2015/07/15806-maximabrug-11-xs_Pagina_1_resize.jpg)

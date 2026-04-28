@@ -13,7 +13,7 @@ vimeo: true
 klant: "Provincie Noord-Holland"
 wp_categorieen: ["animatie"]
 tags: ["Participatie", "Provincie Noord-Holland"]
-samenvatting: "https://vimeo.com/262872224"
+samenvatting: "De Provincie Noord-Holland werkt in het veld veel samen met amateur archeologen. Onder water wordt dat praktisch gezien een stuk moeilijker. Daarom kiest de"
 ---
 
 https://vimeo.com/262872224

@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie", "copy"]
 tags: ["Duurzaamheid", "Gebiedscommunicatie"]
-samenvatting: "https://vimeo.com/699573371"
+samenvatting: "Op 1 januari 2022 komt de milieuzone naar Haarlem. Vrachtwagens met een te lage emissieklasse mogen dan niet meer het centrum en de omringende wijken in."
 ---
 
 https://vimeo.com/699573371

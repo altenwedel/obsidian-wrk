@@ -13,7 +13,7 @@ vimeo: false
 klant: "Gemeente Amsterdam"
 wp_categorieen: ["animatie"]
 tags: ["Gemeente Amsterdam", "Inclusie", "Participatie"]
-samenvatting: "!https://studioclaro.nl/wp-content/uploads/2023/03/IMG_2329.jpg"
+samenvatting: "Zo lag de flyer, samen met de stempassen en een overzicht van de stemlocaties op de mat bij alle stemgerechtigden in Amsterdam."
 ---
 
 ![](https://studioclaro.nl/wp-content/uploads/2023/03/IMG_2329.jpg)

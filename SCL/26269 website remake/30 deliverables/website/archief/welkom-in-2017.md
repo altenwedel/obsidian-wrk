@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/199087322"
+samenvatting: "Beaumont heet collega's, cliënten en belangstellenden welkom in het nieuwe jaar"
 ---
 
 https://vimeo.com/199087322

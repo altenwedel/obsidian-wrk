@@ -13,7 +13,7 @@ vimeo: true
 klant: "Gemeente Amsterdam"
 wp_categorieen: ["animatie"]
 tags: ["Gemeente Amsterdam", "GGD Amsterdam", "Laaggeletterdheid", "Medisch", "Zorg"]
-samenvatting: "https://vimeo.com/293827228"
+samenvatting: "Je kind krijgt een TBC prik. En dan? Mag het onder de douche? Krijgt het kind koorts? Wanneer mag je bellen? We mochten met de GGD Amsterdam en het"
 ---
 
 https://vimeo.com/293827228

@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["realisatie"]
 tags: []
-samenvatting: "!001https://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/001.jpg"
+samenvatting: "Het cultureel veranderingsprogramma De Bedoeling krijgt begin 2015 een vervolg in de interactieve druk bezochte leeromgeving op het Philadelphia intranet, met"
 ---
 
 ![001](https://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/001.jpg)

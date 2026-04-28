@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["design"]
 tags: []
-samenvatting: "!kopwest-004https://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/kopwest-004.png"
+samenvatting: "Is zelfbouwen eng, of valt het in de praktijk wel mee? De  Gemeente Purmerend  vertelt aspirant kopers in  KopWest  in vijf opeenvolgende  Facebook  posts hoe"
 ---
 
 ![kopwest-004](https://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/kopwest-004.png)

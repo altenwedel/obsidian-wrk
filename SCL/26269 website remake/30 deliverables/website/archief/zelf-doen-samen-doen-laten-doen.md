@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/181927803"
+samenvatting: "Mijn Geld en Zo helpt je met geld. Deze video legt uit op welke manier. Je kiest voor zelf doen, samen doen of laten doen."
 ---
 
 https://vimeo.com/181927803

@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["copy"]
 tags: []
-samenvatting: "!stop lichthttps://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/stop-licht.jpg“Heeft hij zijn nek gebroken? Dat hoorde ik als eerste. Joyce vertelde"
+samenvatting: "“Heeft hij zijn nek gebroken? Dat hoorde ik als eerste. Joyce vertelde later dat ik als een lappenpop door de lucht vloog. Ze schreeuwde nog. ‘Auto!’ En ik"
 ---
 
 ![stop licht](https://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/stop-licht.jpg)“Heeft hij zijn nek gebroken? Dat hoorde ik als eerste. Joyce vertelde later dat ik als een lappenpop door de lucht vloog. Ze schreeuwde nog. ‘Auto!’ En ik maar trappen. Ik was moe, koud en had dorst. Snel naar huis. Eventjes dat oranje licht meepikken. Dóór. Maar het oranje licht was een knipperlicht. En er kwam een roze Twingo van de snelweg. Daarna lag ik opeens op de stoep. En hield Joyce me in de stabiele zijligging. Ze leert voor verpleegster.

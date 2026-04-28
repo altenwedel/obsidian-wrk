@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["copy", "realisatie"]
 tags: []
-samenvatting: "!riahttps://www.lateral.nu/wp-content/uploads/2016/08/ria.jpg"
+samenvatting: "Voor Philadelphia Zorg was 2015 het jaar waarin een nieuw cliëntwaarderingsonderzoek werd ingevoerd, waarin vijfenvijftig locaties de overstap maakten naar"
 ---
 
 ![ria](https://www.lateral.nu/wp-content/uploads/2016/08/ria.jpg)

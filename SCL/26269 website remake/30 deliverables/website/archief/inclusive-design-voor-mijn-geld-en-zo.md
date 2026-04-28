@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["design", "realisatie"]
 tags: []
-samenvatting: "!inclusive design - mijn geld en zohttps://www.lateral.nu/wp-content/uploads/2015/11/011-1024x646.png"
+samenvatting: "Inclusive design  is vormgeven en schrijven voor doelgroepen met een beperking. Beperkte taalvaardigheid bijvoorbeeld, of moeite met abstract denken. De"
 ---
 
 ![inclusive design - mijn geld en zo](https://www.lateral.nu/wp-content/uploads/2015/11/011-1024x646.png)

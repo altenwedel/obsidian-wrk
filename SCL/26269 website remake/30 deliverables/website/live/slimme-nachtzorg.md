@@ -13,7 +13,7 @@ vimeo: false
 klant: "Stichting Philadelphia Zorg"
 wp_categorieen: ["animatie", "illustratie"]
 tags: ["Stichting Philadelphia Zorg", "Zorg"]
-samenvatting: "https://www.youtube.com/watch?v=qSpQ3GHjQCA"
+samenvatting: "Toezichthoudende domotica wordt gezien als een veelbelovende ontwikkeling in de zorg voor mensen met een verstandelijke beperking. Het roept ook vragen op."
 ---
 
 https://www.youtube.com/watch?v=qSpQ3GHjQCA

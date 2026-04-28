@@ -13,7 +13,7 @@ vimeo: false
 klant: "Beaumont Communicatie"
 wp_categorieen: ["animatie"]
 tags: ["Beaumont Communicatie", "Gebiedscommunicatie", "Gemeente Texel"]
-samenvatting: "https://www.youtube.com/watch?v=d71-Do4aFro"
+samenvatting: "Samen delen, én wonen.  Gemeente Texel  pakt dat bij  Buurtskap de Tuunen  helemaal anders aan. Een stevige positionering en communicatie helpen bij hIn"
 ---
 
 https://www.youtube.com/watch?v=d71-Do4aFro

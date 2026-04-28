@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/114505349"
+samenvatting: "Meedenken over de Zaanbrug. Joris Smits vertelt hoe dat kan."
 ---
 
 https://vimeo.com/114505349

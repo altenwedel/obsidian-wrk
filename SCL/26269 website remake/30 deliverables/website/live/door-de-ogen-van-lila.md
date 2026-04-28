@@ -13,7 +13,7 @@ vimeo: true
 klant: "Lijn5"
 wp_categorieen: ["animatie"]
 tags: ["Lijn5", "Zorg"]
-samenvatting: "https://vimeo.com/367106419"
+samenvatting: "Hoe voelt het als kind wanneer je in aanraking komt met jeugdhulpverlening? Voor kinderen aan het begin van een behandeltraject is nog veel onduidelijk. Wij"
 ---
 
 https://vimeo.com/367106419

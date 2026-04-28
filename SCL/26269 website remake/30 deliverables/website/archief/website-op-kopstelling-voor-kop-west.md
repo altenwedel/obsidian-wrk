@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["design", "realisatie"]
 tags: []
-samenvatting: "!003https://www.lateral.nu/wp-content/uploads/2015/06/003-1024x929.pnghttps://www.lateral.nu/wp-content/uploads/2015/06/003.png"
+samenvatting: "Purmerend  krijgt er een stukje stad bij:  Kop West , waar je woont in de sfeer van een vestingstadje aan het water.  Beaumont Communicatie  ontwikkelde een"
 ---
 
 [![003](https://www.lateral.nu/wp-content/uploads/2015/06/003-1024x929.png)](https://www.lateral.nu/wp-content/uploads/2015/06/003.png)

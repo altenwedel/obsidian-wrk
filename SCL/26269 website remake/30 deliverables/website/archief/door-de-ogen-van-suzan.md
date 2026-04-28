@@ -13,7 +13,7 @@ vimeo: true
 klant: "Lijn5"
 wp_categorieen: ["animatie"]
 tags: ["Lijn5", "Zorg"]
-samenvatting: "https://vimeo.com/367106489"
+samenvatting: "Hoe voelt het als ouder wanneer je gezin in aanraking komt met jeugdhulpverlening? Veel ouders geven aan dat ze zich amper gezien en gehoord voelen. Lijn5"
 ---
 
 https://vimeo.com/367106489

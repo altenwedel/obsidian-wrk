@@ -13,7 +13,7 @@ vimeo: true
 klant: "Beaumont Communicatie"
 wp_categorieen: ["animatie"]
 tags: ["Beaumont Communicatie"]
-samenvatting: "https://vimeo.com/384231514"
+samenvatting: "Beaumont Communicatie zet in 2020 in op verbinding. Wij mochten het verbeelden. Omdat iedereen anders is."
 ---
 
 https://vimeo.com/384231514

@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie", "concept", "copy", "illustratie"]
 tags: ["Laaggeletterdheid", "Participatie"]
-samenvatting: "https://vimeo.com/211219464"
+samenvatting: "Philadelphia wil samen met bewoners, familie, medewerkers, vrijwilligers, buren en bekenden bouwen aan een mooie plek om te wonen. Ons Thuis was een proof of"
 ---
 
 https://vimeo.com/211219464

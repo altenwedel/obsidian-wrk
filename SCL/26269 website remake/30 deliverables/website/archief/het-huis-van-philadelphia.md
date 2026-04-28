@@ -13,7 +13,7 @@ vimeo: true
 klant: "Stichting Philadelphia Zorg"
 wp_categorieen: ["animatie"]
 tags: ["Inclusie", "Stichting Philadelphia Zorg", "Zorg"]
-samenvatting: "https://vimeo.com/197718050"
+samenvatting: "Een huis waar je met plezier woont, werkt en op bezoek komt. Dat is de gedachte achter Het Huis van Philadelphia. Een thuis bouwen voor mensen met een"
 ---
 
 https://vimeo.com/197718050

@@ -13,7 +13,7 @@ vimeo: true
 klant: "Gemeente Amsterdam"
 wp_categorieen: ["animatie"]
 tags: ["Gemeente Amsterdam"]
-samenvatting: "https://vimeo.com/411324775"
+samenvatting: "Amsterdam wil vakantieverhuur vanaf 1 juli 2020 verbieden in drie wijken in het centrum van de stad. De leefbaarheid staat daar ernstig onder druk . In de"
 ---
 
 https://vimeo.com/411324775

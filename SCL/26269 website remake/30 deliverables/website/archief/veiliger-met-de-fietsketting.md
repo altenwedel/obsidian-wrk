@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["illustratie", "realisatie"]
 tags: ["Mobiliteit"]
-samenvatting: "https://www.youtube.com/watch?v=g4j6RhAfDMI"
+samenvatting: "E-bikes, speed pedelecs, elektrische bakfietsen; het wordt flink druk op het fietspad. Ook snelheidsverschillen worden groter en sommige fietsers beginnen zich"
 ---
 
 https://www.youtube.com/watch?v=g4j6RhAfDMI

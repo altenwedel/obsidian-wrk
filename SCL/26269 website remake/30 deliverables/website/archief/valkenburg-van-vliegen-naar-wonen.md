@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/117763286"
+samenvatting: "Uitleg over hergebruik van het terrein van Marinevliegkamp Valkenburg."
 ---
 
 https://vimeo.com/117763286

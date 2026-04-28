@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/89923475"
+samenvatting: "Kijk hier voor de final edit op de website van  Stichting Philadelphia Zorg ."
 ---
 
 https://vimeo.com/89923475

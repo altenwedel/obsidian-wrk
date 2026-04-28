@@ -13,7 +13,7 @@ vimeo: true
 klant: "Beaumont Communicatie"
 wp_categorieen: ["animatie"]
 tags: ["Beaumont Communicatie", "Gebiedscommunicatie", "Gemeente Amsterdam"]
-samenvatting: "https://vimeo.com/258587148"
+samenvatting: "Rondkijken op het Anton de Komplein"
 ---
 
 https://vimeo.com/258587148

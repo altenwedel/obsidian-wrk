@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: ["Kunst"]
-samenvatting: "https://player.vimeo.com/video/122997392"
+samenvatting: "Voor 376 Nederlandse Musea lieten de Museumvereniging en de Bankgiroloterij een gepersonaliseerde versie maken van de Greet Egbers animatie Het Museumspel."
 ---
 
 https://player.vimeo.com/video/122997392

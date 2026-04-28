@@ -13,7 +13,7 @@ vimeo: true
 klant: "Gemeente Ede"
 wp_categorieen: ["animatie"]
 tags: ["Gebiedscommunicatie", "Gemeente Ede", "Mobiliteit"]
-samenvatting: "https://vimeo.com/289304005"
+samenvatting: "Iedere rit is een lot. De gemeente Ede stimuleert fietsforenzen met een aantrekkelijke actie. Beaumont Communicatie ontwikkelde er een aanstekelijke campagne"
 ---
 
 https://vimeo.com/289304005

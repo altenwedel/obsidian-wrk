@@ -13,7 +13,7 @@ vimeo: false
 klant: "GGD Amsterdam"
 wp_categorieen: ["design", "illustratie"]
 tags: []
-samenvatting: "!https://studioclaro.nl/wp-content/uploads/2021/01/20483-bedfiets-1024x576.pngPost Intensive Care revalidatie begint in de Intensive Care"
+samenvatting: "Post Intensive Care revalidatie begint in de Intensive Care"
 ---
 
 ![](https://studioclaro.nl/wp-content/uploads/2021/01/20483-bedfiets-1024x576.png)*Post Intensive Care revalidatie begint in de Intensive Care*

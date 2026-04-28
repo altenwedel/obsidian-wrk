@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["copy", "design"]
 tags: []
-samenvatting: "https://issuu.com/sickoatze/docs/jaarplan2013picto"
+samenvatting: "De plannen van Philadelphia voor 2013, uitgelegd aan de cliëntenraad."
 ---
 
 https://issuu.com/sickoatze/docs/jaarplan2013picto

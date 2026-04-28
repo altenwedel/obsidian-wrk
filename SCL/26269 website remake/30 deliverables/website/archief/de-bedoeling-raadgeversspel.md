@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["realisatie"]
 tags: []
-samenvatting: "!raadgeversspelhttps://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/raadgeversspel.jpg"
+samenvatting: "Door  Erica Meijerman  ontwikkeld spel voor locatiemanagers van Philadelphia. Schakel een raadgever in om met je team het gesprek te openen over een vraagstuk"
 ---
 
 ![raadgeversspel](https://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/raadgeversspel.jpg)

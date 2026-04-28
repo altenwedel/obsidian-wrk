@@ -13,7 +13,7 @@ vimeo: true
 klant: "Beaumont Communicatie"
 wp_categorieen: ["design"]
 tags: ["Beaumont Communicatie", "Maastricht Bereikbaar", "Mobiliteit"]
-samenvatting: "https://vimeo.com/290946609"
+samenvatting: "Anderhalf jaar geleden mochten we Beaumont Communicatie helpen met de 'brögkske um' borden voor Maastricht Bereikbaar. Samen met Daniel Nagel, Erika Sollie en"
 ---
 
 https://vimeo.com/290946609

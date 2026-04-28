@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["design"]
 tags: []
-samenvatting: "!16894-vrijwilligers-fbhttps://www.lateral.nu/wp-content/uploads/2016/04/16894-vrijwilligers-fb-1024x536.jpg"
+samenvatting: "Hoe prikkel je jonge ambitieuze duursporters om als teamplayer een bijdrage te leveren aan de solo-sport bij uitstek? De  Nederlandse Triathlon Bond  vroeg om"
 ---
 
 ![16894-vrijwilligers-fb](https://www.lateral.nu/wp-content/uploads/2016/04/16894-vrijwilligers-fb-1024x536.jpg)

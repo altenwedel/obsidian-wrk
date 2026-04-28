@@ -13,7 +13,7 @@ vimeo: true
 klant: "Beaumont Communicatie"
 wp_categorieen: ["animatie"]
 tags: ["Beaumont Communicatie", "Provincie Noord-Holland"]
-samenvatting: "https://vimeo.com/376390907"
+samenvatting: "De Provincie Noord-Holland introduceert een nieuwe en meer efficiënte manier van samenwerken met online documenten. De animatie werd in samenwerking met de"
 ---
 
 https://vimeo.com/376390907

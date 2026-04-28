@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/238617491"
+samenvatting: "Beaumont Communicatie bezocht Shankill Road, de City quays, het Titanic museum en een binnenstad zonder prullenbakken."
 ---
 
 https://vimeo.com/238617491

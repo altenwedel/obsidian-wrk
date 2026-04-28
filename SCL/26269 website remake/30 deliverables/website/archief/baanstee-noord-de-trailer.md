@@ -13,7 +13,7 @@ vimeo: true
 klant: "Beaumont Communicatie"
 wp_categorieen: ["animatie"]
 tags: ["Beaumont Communicatie", "Gebiedscommunicatie", "Gemeente Purmerend"]
-samenvatting: "https://vimeo.com/272115780"
+samenvatting: "Hoe breng je een industrieterrein onder de aandacht? Voor de gemeente Purmerend bedacht Beaumont Communicatie een pakkende trailer waarin alle pluspunten"
 ---
 
 https://vimeo.com/272115780

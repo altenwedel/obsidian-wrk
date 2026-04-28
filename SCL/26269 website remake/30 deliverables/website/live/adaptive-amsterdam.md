@@ -13,7 +13,7 @@ vimeo: true
 klant: "Beaumont Communicatie"
 wp_categorieen: ["animatie", "design"]
 tags: ["Beaumont Communicatie", "Gebiedscommunicatie"]
-samenvatting: "https://vimeo.com/496410902"
+samenvatting: "Voor  Cas2021 , de wereldwijde online climate adaptation summit 2021 mochten we een Engelse versie voor het side event  Water & Heritage for climate adaption"
 ---
 
 https://vimeo.com/496410902

@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["illustratie"]
 tags: []
-samenvatting: "!11079137_829918120435816_3102180995521020761_ohttps://lateral.nu/wp-content/uploads/2015/06/11079137_829918120435816_3102180995521020761_o-1024x727.png"
+samenvatting: "Buitengewoon veel respons van senioren op diverse online vragen (FaceBook) over verkeersveiligheid, in een compact medium."
 ---
 
 ![11079137_829918120435816_3102180995521020761_o](https://lateral.nu/wp-content/uploads/2015/06/11079137_829918120435816_3102180995521020761_o-1024x727.png)

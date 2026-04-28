@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/219212696"
+samenvatting: "Wat is mantelzorg en welke ondersteuning is er voor mantelzorgers? Wilt u een eenvoudige uitleg over mantelzorg? Bekijk dan het filmpje. De gemeente Amsterdam"
 ---
 
 https://vimeo.com/219212696

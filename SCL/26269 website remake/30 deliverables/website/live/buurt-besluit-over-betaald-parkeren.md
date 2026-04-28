@@ -13,7 +13,7 @@ vimeo: true
 klant: "Gemeente Haarlem"
 wp_categorieen: ["animatie", "design", "illustratie"]
 tags: []
-samenvatting: "https://vimeo.com/514971390"
+samenvatting: "Betaald parkeren in de buurt"
 ---
 
 https://vimeo.com/514971390

@@ -13,7 +13,7 @@ vimeo: true
 klant: "Stichting Philadelphia Zorg"
 wp_categorieen: ["design"]
 tags: ["Laaggeletterdheid", "Stichting Philadelphia Zorg", "Veiligheid"]
-samenvatting: "https://vimeo.com/345765280"
+samenvatting: "De wasdroger is het elektrische apparaat dat het vaakste binnenbranden veroorzaakt. Daarom wilde Stichting Philadelphia Zorg een handig informatieblad laten"
 ---
 
 https://vimeo.com/345765280

@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/191159792"
+samenvatting: "Haarlem opent De Koepel. En zo kan het er uit komen te zien! Een samenvatting in beeld van de plannen tot nu toe."
 ---
 
 https://vimeo.com/191159792

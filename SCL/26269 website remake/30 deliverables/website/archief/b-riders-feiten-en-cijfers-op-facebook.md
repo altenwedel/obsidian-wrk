@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["illustratie"]
 tags: []
-samenvatting: "!15802-distancia-01https://lateral.nu/wp-content/uploads/2015/06/15802-distancia-01.pngDe Provincie Noord Brabant houdt de aandacht vast van forenzenfietsers"
+samenvatting: "De Provincie Noord Brabant houdt de aandacht vast van forenzenfietsers met informatieve facebookposts. Goed getimede, contrastrijke illustraties en"
 ---
 
 ![15802-distancia-01](https://lateral.nu/wp-content/uploads/2015/06/15802-distancia-01.png)De Provincie Noord Brabant houdt de aandacht vast van forenzenfietsers met informatieve facebookposts. Goed getimede, contrastrijke illustraties en infographics worden opvallend vaak bekeken.

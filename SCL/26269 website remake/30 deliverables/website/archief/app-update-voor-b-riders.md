@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["design"]
 tags: []
-samenvatting: "!11329789_400564300068148_4528168505520146854_nhttps://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/11329789_400564300068148_4528168505520146854_n.png"
+samenvatting: "De app voor B-Riders verdiende in 2015 een update. Beaumont ontwikkelde een nieuwe app voor de provincie Noord Brabant, Lateral maakte de user experience."
 ---
 
 ![11329789_400564300068148_4528168505520146854_n](https://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/11329789_400564300068148_4528168505520146854_n.png)

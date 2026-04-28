@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["illustratie", "realisatie"]
 tags: ["Ditvindikervan", "Inclusie", "Laaggeletterdheid", "Zorg"]
-samenvatting: "https://vimeo.com/330235721"
+samenvatting: "Wie weet heb je een soa. Vervelend. Dan is het wel zo prettig als de gebruiksaanwijzing voor de zelfafnameset die je van de GGD Amsterdam meekrijgt zo"
 ---
 
 https://vimeo.com/330235721

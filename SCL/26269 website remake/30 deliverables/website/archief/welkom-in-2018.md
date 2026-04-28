@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/249233621"
+samenvatting: "Beaumont Communicatie begroet het nieuwe jaar. Lateral mag het in beeld brengen."
 ---
 
 https://vimeo.com/249233621

@@ -13,7 +13,7 @@ vimeo: true
 klant: "Gemeente Almere"
 wp_categorieen: ["animatie"]
 tags: ["Gebiedscommunicatie", "Gemeente Almere"]
-samenvatting: "https://www.vimeo.com/43370936"
+samenvatting: "De zorgwereld is aan het kantelen. De gemeente krijgt er een complex pakket van taken en verantwoordelijkheden bij. Dat vraagt om een nieuwe kijk op"
 ---
 
 https://www.vimeo.com/43370936

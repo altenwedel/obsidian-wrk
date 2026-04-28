@@ -13,7 +13,7 @@ vimeo: false
 klant: ""
 wp_categorieen: ["copy"]
 tags: []
-samenvatting: "!boemhttps://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/boem.jpgHet begon allemaal op carnavalsavond. De 18-jarige Jelle had pas zijn rijbewijs"
+samenvatting: "Het begon allemaal op carnavalsavond. De 18-jarige Jelle had pas zijn rijbewijs gehaald en stond op het punt om met een stel vrienden op wintersport te gaan."
 ---
 
 ![boem](https://www.lateral.nu/lateral.nu/wp-content/uploads/2015/06/boem.jpg)Het begon allemaal op carnavalsavond. De 18-jarige Jelle had pas zijn rijbewijs gehaald en stond op het punt om met een stel vrienden op wintersport te gaan. Omdat een van hen onverwacht naar een begrafenis moest, werden de reisplannen een paar dagen uitgesteld. Geen probleem voor de vrienden, want het was toch carnaval dat weekend. Uitgedost in hun splinternieuwe clownspakken, rode pruiken en met hun feestneuzen op, reden de jongens in vol ornaat terug naar het dorp. De stemming zat er al goed in. Tot een van de vrienden grappig wilde zijn en aan de feestneus van Jelle trok die achter het stuur zat. Jelle verloor de macht over het stuur en reed eerst met 70 km per uur rechts de berm in, gooide vervolgens het stuur om en botste frontaal tegen een tegenligger op de andere weghelft.

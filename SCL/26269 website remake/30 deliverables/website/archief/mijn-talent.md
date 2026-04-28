@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/217147662"
+samenvatting: "Begeleiders van Philadelphia vertellen over hun talent en het talent van cliënten."
 ---
 
 https://vimeo.com/217147662

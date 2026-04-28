@@ -13,7 +13,7 @@ vimeo: true
 klant: "NAPK"
 wp_categorieen: ["animatie"]
 tags: ["Kunst", "NAPK"]
-samenvatting: "https://vimeo.com/459061576"
+samenvatting: "71 gezelschappen en ensembles kregen op Prinsjesdag te horen dat er in de miljoenennota alsnog een bedrag van € 60 miljoen voor ze was opgenomen. Een goed"
 ---
 
 https://vimeo.com/459061576

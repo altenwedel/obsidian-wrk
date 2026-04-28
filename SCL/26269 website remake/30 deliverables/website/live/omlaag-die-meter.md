@@ -13,7 +13,7 @@ vimeo: true
 klant: "Gemeente Zeist"
 wp_categorieen: ["animatie"]
 tags: ["Duurzaamheid", "Gemeente Zeist", "Inclusie", "Laaggeletterdheid"]
-samenvatting: "https://vimeo.com/317198346"
+samenvatting: "Mijn Groene Huis helpt huishoudens in de gemeente Zeist met energiebesparing via kleine maatregelen en nieuwe gewoontes.  Animatie gemaakt voor de gemeente"
 ---
 
 https://vimeo.com/317198346

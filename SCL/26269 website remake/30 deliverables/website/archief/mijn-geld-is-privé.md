@@ -13,7 +13,7 @@ vimeo: true
 klant: ""
 wp_categorieen: ["animatie"]
 tags: []
-samenvatting: "https://vimeo.com/169497000"
+samenvatting: "Cliënten van Cordaan krijgen te maken met de Kleine Kasgeld Regeling. Het brengt een aantal praktische wijzigingen mee, die lastig kunnen zijn als je geld"
 ---
 
 https://vimeo.com/169497000
