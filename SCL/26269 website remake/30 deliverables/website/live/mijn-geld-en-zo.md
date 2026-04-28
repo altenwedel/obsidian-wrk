@@ -5,7 +5,7 @@ slug: "2417-2"
 date: 2016-06-06
 laatst_gewijzigd: 2026-04-28
 status: concept
-actie: depubliceren
+actie: behouden
 type: concept
 thema: overig
 formaat: video
@@ -30,4 +30,5 @@ Illustraties: Claudia Dominguez
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden voor herschrijven
 - **2026-04-28** — Geïmporteerd uit WordPress export

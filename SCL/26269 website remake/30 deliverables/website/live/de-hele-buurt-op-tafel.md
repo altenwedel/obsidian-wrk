@@ -5,7 +5,7 @@ slug: "hele-buurt-op-tafel"
 date: 2017-11-02
 laatst_gewijzigd: 2026-04-28
 status: concept
-actie: depubliceren
+actie: behouden
 type: concept
 thema: participatie
 formaat: video
@@ -36,4 +36,5 @@ Bekijk ook:
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden voor herschrijven
 - **2026-04-28** — Geïmporteerd uit WordPress export

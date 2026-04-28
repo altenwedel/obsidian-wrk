@@ -4,7 +4,7 @@ post_id: 2047
 slug: "duurzame-poster-voor-duurzame-buurtendag"
 date: 2015-09-10
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -26,4 +26,5 @@ Ontwerp: Lateral (Claudia Dominguez)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

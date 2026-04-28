@@ -4,7 +4,7 @@ post_id: 2287
 slug: "bumpers-voor-velsen"
 date: 2015-11-09
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -26,4 +26,5 @@ Animatie: [Sicko van Dijk](https://lateral.nu/)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,7 +4,7 @@ post_id: 2323
 slug: "animatie-open-de-koepel"
 date: 2015-12-01
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -28,4 +28,5 @@ University College Haarlem geeft de kans om met de koepel in Haarlem de geschied
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,7 +4,7 @@ post_id: 2353
 slug: "meerjarenbeleidsplan-philadelphia"
 date: 2016-01-04
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -31,4 +31,5 @@ De plannen van Stichting Philadelphia Zorg voor de komende jaren samengevat in v
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

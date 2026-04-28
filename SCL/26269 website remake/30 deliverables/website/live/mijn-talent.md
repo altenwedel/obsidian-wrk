@@ -5,7 +5,7 @@ slug: "mijn-talent"
 date: 2017-05-12
 laatst_gewijzigd: 2026-04-28
 status: concept
-actie: depubliceren
+actie: behouden
 type: concept
 thema: overig
 formaat: video
@@ -29,4 +29,5 @@ Animatie: Claudia Dominguez
 
 ## Log
 
+- **2026-04-28** — Hersteld als reserve voor herschrijven
 - **2026-04-28** — Geïmporteerd uit WordPress export

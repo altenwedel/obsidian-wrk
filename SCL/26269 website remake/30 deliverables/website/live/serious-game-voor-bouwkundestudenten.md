@@ -5,7 +5,7 @@ slug: "duurzaam-strategiespel-voor-bouwkundestudenten"
 date: 2015-06-26
 laatst_gewijzigd: 2026-04-28
 status: concept
-actie: depubliceren
+actie: behouden
 type: concept
 thema: overig
 formaat: standaard
@@ -33,4 +33,5 @@ Voor studenten van de [Hogeschool van Amsterdam](https://www.hva.nl/) ontwikkeld
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden voor herschrijven
 - **2026-04-28** — Geïmporteerd uit WordPress export

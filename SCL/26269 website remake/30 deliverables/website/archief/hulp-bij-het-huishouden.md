@@ -4,7 +4,7 @@ post_id: 2837
 slug: "hulp-bij-het-huishouden"
 date: 2017-09-21
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -27,4 +27,5 @@ Illustraties: Claudia Dominguez
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

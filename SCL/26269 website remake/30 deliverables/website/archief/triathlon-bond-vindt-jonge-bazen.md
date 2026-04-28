@@ -4,7 +4,7 @@ post_id: 2379
 slug: "triathlon-baas"
 date: 2016-03-12
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -36,4 +36,5 @@ Copy & Art: [Sicko van Dijk](https://lateral.nu/)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

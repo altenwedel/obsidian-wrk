@@ -4,7 +4,7 @@ post_id: 2366
 slug: "minimaties"
 date: 2016-02-28
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -41,4 +41,5 @@ Voice Over: [Jet Putter](https://www.jetputter.nl/)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

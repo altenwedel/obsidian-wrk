@@ -4,7 +4,7 @@ post_id: 2357
 slug: "meerjarenbeleidsplan-voor-clienten"
 date: 2016-02-14
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -28,4 +28,5 @@ De plannen van Stichting Philadelphia Zorg voor de komende jaren samengevat voor
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,7 +4,7 @@ post_id: 1762
 slug: "enjoy-the-ride-with-real-subtitles"
 date: 2015-06-18
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -27,4 +27,5 @@ Onder de [B-Riders](https://www.briders.nl/) die in 2015 opstappen zijn ook expa
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

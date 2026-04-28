@@ -4,7 +4,7 @@ post_id: 2223
 slug: "onderscheiding-voor-innovatieambassadeurs"
 date: 2015-09-16
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -32,4 +32,5 @@ Productie doosje: [Budgetdoosjes](https://www.budgetdoosjes.nl/)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

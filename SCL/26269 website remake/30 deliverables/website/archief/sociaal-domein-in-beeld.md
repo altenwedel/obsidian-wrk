@@ -4,7 +4,7 @@ post_id: 2834
 slug: "sociaal-domein"
 date: 2017-09-27
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: inclusief
@@ -44,4 +44,5 @@ Illustraties: Claudia Dominguez
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

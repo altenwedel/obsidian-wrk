@@ -4,7 +4,7 @@ post_id: 2348
 slug: "intro-sociale-media"
 date: 2015-12-20
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -27,4 +27,5 @@ Managers van Stichting Philadelphia Zorg krijgen training in sociale media. Late
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

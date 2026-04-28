@@ -33,4 +33,5 @@ Voice Over: [Jet Putter](https://www.jetputter.nl/)
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden voor herschrijven
 - **2026-04-28** — Geïmporteerd uit WordPress export

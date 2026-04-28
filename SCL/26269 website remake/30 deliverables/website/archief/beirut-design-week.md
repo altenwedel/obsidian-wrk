@@ -4,7 +4,7 @@ post_id: 2780
 slug: "beirut-design-week"
 date: 2017-05-26
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -26,4 +26,5 @@ Concept & animatie: Sicko van Dijk
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,7 +4,7 @@ post_id: 2403
 slug: "jaar-ria-gea-karin-en-jamie-lee"
 date: 2016-06-01
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -44,4 +44,5 @@ Fotografie: [Harry Meijer](https://www.harrymeijer.com/home.html)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

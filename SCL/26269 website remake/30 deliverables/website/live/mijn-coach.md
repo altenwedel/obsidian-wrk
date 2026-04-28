@@ -5,7 +5,7 @@ slug: "mijn-coach"
 date: 2017-03-06
 laatst_gewijzigd: 2026-04-28
 status: concept
-actie: depubliceren
+actie: behouden
 type: concept
 thema: inclusief
 formaat: video
@@ -27,4 +27,5 @@ Illustraties: Claudia Dominguez
 
 ## Log
 
+- **2026-04-28** — Hersteld als reserve voor herschrijven
 - **2026-04-28** — Geïmporteerd uit WordPress export
