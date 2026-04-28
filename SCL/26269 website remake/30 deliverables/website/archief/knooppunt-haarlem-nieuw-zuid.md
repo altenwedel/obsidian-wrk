@@ -4,8 +4,8 @@ post_id: 4819
 slug: "knooppunt-haarlem-nieuw-zuid"
 date: 2021-02-09
 laatst_gewijzigd: 2026-04-28
-status: gepubliceerd
-actie: twijfel
+status: verwijderd
+actie: depubliceren
 type: referentie
 thema: gebiedsontwikkeling
 formaat: video
@@ -30,4 +30,5 @@ Voice over: Danique Bauer
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

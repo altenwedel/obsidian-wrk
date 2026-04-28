@@ -5,7 +5,7 @@ slug: "samen-beschermen-we-elkaar"
 date: 2020-09-09
 laatst_gewijzigd: 2026-04-28
 status: concept
-actie: depubliceren
+actie: behouden
 type: concept
 thema: gezondheid
 formaat: galerij
@@ -35,4 +35,5 @@ Whatsapp Animatie: [Public Cinema](https://public-cinema.com/) ([Peter Kasbergen
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

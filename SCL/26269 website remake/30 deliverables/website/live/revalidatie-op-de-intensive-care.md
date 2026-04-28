@@ -5,7 +5,7 @@ slug: "revalidatie-op-de-intensive-care"
 date: 2021-01-05
 laatst_gewijzigd: 2026-04-28
 status: gepubliceerd
-actie: twijfel
+actie: behouden
 type: artikel
 thema: overig
 formaat: standaard
@@ -33,4 +33,5 @@ Net als bij andere revalidatietrajecten, zoals de diabetische voet, is er een br
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

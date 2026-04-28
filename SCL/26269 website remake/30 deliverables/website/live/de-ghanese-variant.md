@@ -5,7 +5,7 @@ slug: "covid-ghanese-variant"
 date: 2020-11-20
 laatst_gewijzigd: 2026-04-28
 status: gepubliceerd
-actie: twijfel
+actie: behouden
 type: artikel
 thema: gezondheid
 formaat: galerij
@@ -53,4 +53,5 @@ Onderzoeksprogramma naar gezondheidsverschillen tussen bevolkingsgroepen in Amst
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

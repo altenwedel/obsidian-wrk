@@ -4,8 +4,8 @@ post_id: 4260
 slug: "kunst-voor-de-sluisbuurt"
 date: 2020-07-15
 laatst_gewijzigd: 2026-04-28
-status: gepubliceerd
-actie: twijfel
+status: verwijderd
+actie: depubliceren
 type: artikel
 thema: participatie
 formaat: video
@@ -84,4 +84,5 @@ Montage: Sicko van Dijk
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -5,7 +5,7 @@ slug: "transvitievisie-warmte-urk"
 date: 2021-02-11
 laatst_gewijzigd: 2026-04-28
 status: gepubliceerd
-actie: twijfel
+actie: behouden
 type: artikel
 thema: gebiedsontwikkeling
 formaat: video
@@ -33,4 +33,5 @@ Voice over: Danique Bauer
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

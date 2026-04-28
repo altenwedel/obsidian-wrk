@@ -4,8 +4,8 @@ post_id: 4092
 slug: "blauwe-forenzen-fietsen-naar-werk"
 date: 2020-07-16
 laatst_gewijzigd: 2026-04-28
-status: gepubliceerd
-actie: twijfel
+status: verwijderd
+actie: depubliceren
 type: artikel
 thema: veiligheid
 formaat: video
@@ -58,4 +58,5 @@ Model: [Jeanet Martherus](https://www.linkedin.com/in/jeanet-dorothy-martherus-6
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

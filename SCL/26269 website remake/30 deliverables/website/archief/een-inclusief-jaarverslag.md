@@ -4,7 +4,7 @@ post_id: 4411
 slug: "een-inclusief-jaarverslag"
 date: 2020-07-16
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: inclusief
@@ -70,4 +70,5 @@ Design Irma Bannenberg
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,7 +4,7 @@ post_id: 4489
 slug: "begrijpelijk-over-kwaliteit"
 date: 2020-07-24
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: inclusief
@@ -37,4 +37,5 @@ Illustraties: [Rens Wegerif](https://www.linkedin.com/in/renswegerif/)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,7 +4,7 @@ post_id: 4509
 slug: "dudok-historische-wandeltocht-hilversum"
 date: 2020-09-17
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: participatie
@@ -46,4 +46,5 @@ Ontwerp: [SOS Design Studio](https://www.sosds.nl/) ([Sanne Schuijren](https://w
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

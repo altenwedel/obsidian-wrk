@@ -5,7 +5,7 @@ slug: "corona-communicatie-ouderen"
 date: 2021-01-28
 laatst_gewijzigd: 2026-04-28
 status: gepubliceerd
-actie: twijfel
+actie: behouden
 type: referentie
 thema: gezondheid
 formaat: galerij
@@ -36,4 +36,5 @@ Illustraties: Claudia Dominguez
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

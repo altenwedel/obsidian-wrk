@@ -4,7 +4,7 @@ post_id: 4525
 slug: "champagne-voor-de-podiumkunsten"
 date: 2020-09-17
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: cultuur
@@ -37,4 +37,5 @@ Animatie: Claudia Dominguez
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

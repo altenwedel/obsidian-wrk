@@ -4,7 +4,7 @@ post_id: 4235
 slug: "entreegebied-gulden-winckel"
 date: 2020-07-02
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: participatie
@@ -39,4 +39,5 @@ Voice over: [Danique Bauer](https://daniquebauer.com/)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export
