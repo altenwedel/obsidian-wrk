@@ -4,7 +4,7 @@ post_id: 3814
 slug: "zo-werkt-de-waterslinger"
 date: 2019-06-30
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: gebiedsontwikkeling
@@ -40,4 +40,5 @@ Voice-casting: Stemzoeker (Marianne Dubois)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

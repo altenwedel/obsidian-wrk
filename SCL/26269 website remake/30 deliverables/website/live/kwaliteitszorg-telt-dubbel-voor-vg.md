@@ -34,4 +34,5 @@ Illustraties: [Bianca van Loon](https://www.biancavanloon.nl/)
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

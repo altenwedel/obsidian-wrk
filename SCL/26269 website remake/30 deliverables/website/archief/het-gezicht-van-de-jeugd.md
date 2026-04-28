@@ -4,7 +4,7 @@ post_id: 2999
 slug: "gezichtvandejeugd"
 date: 2018-02-25
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: inclusief
@@ -27,4 +27,5 @@ De animatie voor [Mijn Coach](https://www.lateral.nu/mijn-coach/) gaf gemeente a
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

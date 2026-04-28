@@ -5,7 +5,7 @@ slug: "meepraten"
 date: 2019-06-09
 laatst_gewijzigd: 2026-04-28
 status: gepubliceerd
-actie: twijfel
+actie: behouden
 type: artikel
 thema: participatie
 formaat: video
@@ -50,4 +50,5 @@ Web: [Diana Brandt](https://www.dianabrandt.nl/) ([Diana Brandt](https://www.lin
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

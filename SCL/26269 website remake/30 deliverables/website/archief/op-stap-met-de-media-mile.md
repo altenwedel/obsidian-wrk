@@ -4,7 +4,7 @@ post_id: 3853
 slug: "nieuw-leven-in-de-mediamile"
 date: 2019-11-02
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: participatie
@@ -50,4 +50,5 @@ Ontwerp: [SOS Design Studio](https://www.sosds.nl/) ([Sanne Schuijren](https://w
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

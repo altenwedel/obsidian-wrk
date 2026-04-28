@@ -4,7 +4,7 @@ post_id: 3061
 slug: "amsterdammers-over-de-javabrug"
 date: 2018-05-24
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: participatie
@@ -28,4 +28,5 @@ Concept & animatie: Sicko van Dijk
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

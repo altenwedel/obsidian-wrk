@@ -4,8 +4,8 @@ post_id: 3946
 slug: "vaccinatie-tegen-tuberculose"
 date: 2019-10-24
 laatst_gewijzigd: 2026-04-28
-status: gepubliceerd
-actie: twijfel
+status: verwijderd
+actie: depubliceren
 type: artikel
 thema: inclusief
 formaat: video
@@ -77,4 +77,5 @@ Vormgeving: [CO3](https://www.co3.org/works/meertalige-folder-tuberculosefonds) 
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

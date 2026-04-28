@@ -5,7 +5,7 @@ slug: "matty-heeft-mammy-nodig"
 date: 2020-06-06
 laatst_gewijzigd: 2026-04-28
 status: gepubliceerd
-actie: twijfel
+actie: behouden
 type: artikel
 thema: gezondheid
 formaat: video
@@ -38,4 +38,5 @@ Voice over: [Danique Bauer](https://daniquebauer.com/)
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

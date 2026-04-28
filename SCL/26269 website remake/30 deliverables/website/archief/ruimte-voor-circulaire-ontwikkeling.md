@@ -4,7 +4,7 @@ post_id: 3052
 slug: "c-beta"
 date: 2018-05-17
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: gebiedsontwikkeling
@@ -29,4 +29,5 @@ Concept & montage: Sicko van Dijk
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

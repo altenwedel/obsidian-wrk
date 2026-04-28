@@ -65,4 +65,5 @@ Art [Claudia Dominguez](https://www.linkedin.com/in/claudia-dominguez-vargas-7b4
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

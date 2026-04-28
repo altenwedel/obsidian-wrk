@@ -4,7 +4,7 @@ post_id: 3238
 slug: "live-is-leuk"
 date: 2018-12-20
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: cultuur
@@ -39,4 +39,5 @@ Web: [Diana Brandt](https://www.dianabrandt.nl/) ([Diana Brandt](https://www.lin
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

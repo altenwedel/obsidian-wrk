@@ -5,7 +5,7 @@ slug: "sophi-voor-de-ouders-van"
 date: 2020-04-24
 laatst_gewijzigd: 2026-04-28
 status: concept
-actie: depubliceren
+actie: behouden
 type: concept
 thema: inclusief
 formaat: galerij
@@ -42,4 +42,5 @@ Pick Our Brain (Veronique Werz, Silvie Warmerdam )
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

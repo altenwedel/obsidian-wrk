@@ -4,7 +4,7 @@ post_id: 3776
 slug: "de-fietsketting"
 date: 2019-05-19
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: veiligheid
@@ -42,4 +42,5 @@ Art: [Claudia Dominguez](https://www.linkedin.com/in/claudia-dominguez-vargas-7b
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

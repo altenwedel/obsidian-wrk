@@ -5,7 +5,7 @@ slug: "bram-vertelt-hoe-het-zit"
 date: 2018-10-04
 laatst_gewijzigd: 2026-04-28
 status: gepubliceerd
-actie: twijfel
+actie: behouden
 type: referentie
 thema: participatie
 formaat: video
@@ -42,4 +42,5 @@ Muziek: [Haim Mazar](https://www.linkedin.com/in/haim-mazar-65299734/)
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,8 +4,8 @@ post_id: 3093
 slug: "lookbook"
 date: 2018-06-01
 laatst_gewijzigd: 2026-04-28
-status: gepubliceerd
-actie: behouden
+status: verwijderd
+actie: depubliceren
 type: artikel
 thema: inclusief
 formaat: galerij
@@ -48,4 +48,5 @@ de trap op kunnen. Er zijn twee huiskamers waar wij met elkaar kunnen eten of wa
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

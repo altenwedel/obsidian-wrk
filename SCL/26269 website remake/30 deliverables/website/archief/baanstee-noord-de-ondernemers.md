@@ -4,7 +4,7 @@ post_id: 3125
 slug: "baanstee-noord-de-ondernemers"
 date: 2018-08-15
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: participatie
@@ -34,4 +34,5 @@ https://vimeo.com/281331286
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

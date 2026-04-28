@@ -4,7 +4,7 @@ post_id: 3823
 slug: "een-jaar-van-groei"
 date: 2019-07-06
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: inclusief
@@ -48,4 +48,5 @@ Fotografie: [Yasmijn Tan](https://www.yasmijntan.com/)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,7 +4,7 @@ post_id: 3906
 slug: "ruimtelijk-raamwerk-m4h"
 date: 2019-12-16
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: participatie
@@ -37,4 +37,5 @@ Voice over: Danique Bauer
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

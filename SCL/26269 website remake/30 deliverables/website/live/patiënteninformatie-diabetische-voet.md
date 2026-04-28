@@ -5,7 +5,7 @@ slug: "diabetische-voet"
 date: 2020-04-21
 laatst_gewijzigd: 2026-04-28
 status: concept
-actie: depubliceren
+actie: behouden
 type: concept
 thema: inclusief
 formaat: video
@@ -61,4 +61,5 @@ Design: CO3 (Irma Bannenberg)
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

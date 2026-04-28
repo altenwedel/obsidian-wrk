@@ -4,7 +4,7 @@ post_id: 4070
 slug: "hou-vol-kerckebosch"
 date: 2020-04-22
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -35,4 +35,5 @@ Concept: [Lateral](https://www.lateral.nu/) ([Sicko van Dijk](https://www.link
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

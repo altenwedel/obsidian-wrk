@@ -5,7 +5,7 @@ slug: "schulddienstverlening"
 date: 2019-11-14
 laatst_gewijzigd: 2026-04-28
 status: gepubliceerd
-actie: twijfel
+actie: behouden
 type: artikel
 thema: inclusief
 formaat: video
@@ -39,4 +39,5 @@ Voice over: [Danique Bauer](https://daniquebauer.com/)
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

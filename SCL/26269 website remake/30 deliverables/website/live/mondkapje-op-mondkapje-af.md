@@ -5,7 +5,7 @@ slug: "mondkapje-op-mondkapje-af"
 date: 2020-05-14
 laatst_gewijzigd: 2026-04-28
 status: concept
-actie: depubliceren
+actie: behouden
 type: concept
 thema: gezondheid
 formaat: galerij
@@ -33,4 +33,5 @@ Illustraties en design: Lateral (Claudia Dominguez)
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,7 +4,7 @@ post_id: 3116
 slug: "brugje-om-einde"
 date: 2018-09-06
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: veiligheid
@@ -28,4 +28,5 @@ Art & Concept: [Sicko van Dijk](https://www.linkedin.com/in/sickoatze/) & [Wil
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

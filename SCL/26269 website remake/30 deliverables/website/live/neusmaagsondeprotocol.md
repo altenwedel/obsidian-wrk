@@ -5,7 +5,7 @@ slug: "neusmaagsondeprotocol"
 date: 2018-11-25
 laatst_gewijzigd: 2026-04-28
 status: gepubliceerd
-actie: twijfel
+actie: behouden
 type: artikel
 thema: gezondheid
 formaat: video
@@ -39,4 +39,5 @@ Reageer
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,8 +4,8 @@ post_id: 3043
 slug: "napk-activiteitenverslag-2017"
 date: 2018-05-16
 laatst_gewijzigd: 2026-04-28
-status: gepubliceerd
-actie: behouden
+status: verwijderd
+actie: depubliceren
 type: referentie
 thema: cultuur
 formaat: video
@@ -33,4 +33,5 @@ Illustraties: Claudia Dominguez
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

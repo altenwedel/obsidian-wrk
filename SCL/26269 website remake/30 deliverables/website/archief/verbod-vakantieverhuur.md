@@ -4,7 +4,7 @@ post_id: 4065
 slug: "verbod-vakantieverhuur"
 date: 2020-04-24
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -37,4 +37,5 @@ Voice over: [Danique Bauer](https://daniquebauer.com/)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

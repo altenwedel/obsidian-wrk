@@ -5,7 +5,7 @@ slug: "mijn-werk"
 date: 2019-01-04
 laatst_gewijzigd: 2026-04-28
 status: gepubliceerd
-actie: twijfel
+actie: behouden
 type: referentie
 thema: inclusief
 formaat: video
@@ -39,4 +39,5 @@ Illustraties: Claudia Dominguez
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

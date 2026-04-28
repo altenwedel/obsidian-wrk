@@ -4,7 +4,7 @@ post_id: 2972
 slug: "anton-de-komplein"
 date: 2018-03-19
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: participatie
@@ -26,4 +26,5 @@ Concept & montage: Sicko van Dijk
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

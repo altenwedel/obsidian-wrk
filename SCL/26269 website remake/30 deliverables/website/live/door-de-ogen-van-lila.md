@@ -5,7 +5,7 @@ slug: "door-de-ogen-van-lila"
 date: 2019-10-22
 laatst_gewijzigd: 2026-04-28
 status: gepubliceerd
-actie: twijfel
+actie: behouden
 type: artikel
 thema: inclusief
 formaat: video
@@ -38,4 +38,5 @@ Voice-casting: Stemzoeker (Marianne Dubois)
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

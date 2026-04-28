@@ -4,7 +4,7 @@ post_id: 3967
 slug: "groeten-uit-noord-wij-k"
 date: 2019-12-18
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: participatie
@@ -39,4 +39,5 @@ Art: [Claudia Dominguez](https://www.linkedin.com/in/claudia-dominguez-vargas-7
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

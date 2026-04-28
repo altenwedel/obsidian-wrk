@@ -5,7 +5,7 @@ slug: "buurt-coach-werk"
 date: 2019-01-04
 laatst_gewijzigd: 2026-04-28
 status: concept
-actie: depubliceren
+actie: behouden
 type: concept
 thema: inclusief
 formaat: video
@@ -39,4 +39,5 @@ Illustraties: Claudia Dominguez
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

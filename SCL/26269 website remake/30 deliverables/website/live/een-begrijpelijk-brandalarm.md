@@ -5,7 +5,7 @@ slug: "brandalarm"
 date: 2018-12-06
 laatst_gewijzigd: 2026-04-28
 status: gepubliceerd
-actie: twijfel
+actie: behouden
 type: artikel
 thema: veiligheid
 formaat: galerij
@@ -62,4 +62,5 @@ Design: [Willy Sengers](https://willysengers.nl/)
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

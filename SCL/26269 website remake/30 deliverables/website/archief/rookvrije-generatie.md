@@ -4,8 +4,8 @@ post_id: 3250
 slug: "rookvrije-generatie"
 date: 2019-01-12
 laatst_gewijzigd: 2026-04-28
-status: gepubliceerd
-actie: twijfel
+status: verwijderd
+actie: depubliceren
 type: artikel
 thema: gezondheid
 formaat: video
@@ -37,4 +37,5 @@ Voice-casting: [Stemzoeker](https://stemzoeker.nl/) ([Marianne Dubois](https://w
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -5,7 +5,7 @@ slug: "zorg-en-ondersteuning-regelen-we-samen"
 date: 2018-02-24
 laatst_gewijzigd: 2026-04-28
 status: concept
-actie: depubliceren
+actie: behouden
 type: concept
 thema: inclusief
 formaat: afbeelding
@@ -25,4 +25,5 @@ Illustraties: Claudia Dominguez
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,8 +4,8 @@ post_id: 3203
 slug: "metoo"
 date: 2018-06-13
 laatst_gewijzigd: 2026-04-28
-status: gepubliceerd
-actie: twijfel
+status: verwijderd
+actie: depubliceren
 type: artikel
 thema: cultuur
 formaat: galerij
@@ -40,4 +40,5 @@ Techniek: [Diana Brandt](https://www.dianabrandt.nl/)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export
