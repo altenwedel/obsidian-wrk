@@ -14,7 +14,7 @@ laatste_update: 2026-04-28
 
 Website remake en contentstrategie voor Studio Claro. De website transformeert van portfolio-showcase naar kennisplatform met "sterartikelen" die 30 jaar expertise in inclusieve communicatie bewijzen. Elk artikel volgt de structuur haak → context → aanpak → resultaat → inzicht en is geschreven voor communicatieprofessionals, over de eindgebruiker.
 
-Het project omvat het herschrijven van bestaande website-artikelen, het schrijven van nieuwe sterartikelen en de productie van promotiemateriaal (video, stickers, social media). De contentstrategie wordt aangestuurd vanuit het Claude online project SCL 25208, met de MASTERPROMPT, redactionele gids en publicatiegids als bronbestanden (GitHub-sync: altenwedel/SCL-26208-content-studioclaro).
+Het project omvat het herschrijven van bestaande website-artikelen, het schrijven van nieuwe sterartikelen en de productie van promotiemateriaal (video, stickers, social media). De contentstrategie wordt aangestuurd vanuit het Claude online project SCL 25208, met de MASTERPROMPT, redactionele gids en publicatiegids als bronbestanden (GitHub-sync: altenwedel/SCL-26208-content-studioclaro). 
 
 ## Te doen
 
