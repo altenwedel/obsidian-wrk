@@ -4,7 +4,7 @@ post_id: 4992
 slug: "museumspel"
 date: 2015-02-12
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -30,4 +30,5 @@ Montage: Sicko van Dijk
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

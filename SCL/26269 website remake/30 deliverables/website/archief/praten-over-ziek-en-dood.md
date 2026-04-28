@@ -4,8 +4,8 @@ post_id: 4612
 slug: "boekje-over-ziek-en-dood"
 date: 2013-06-10
 laatst_gewijzigd: 2026-04-28
-status: gepubliceerd
-actie: twijfel
+status: verwijderd
+actie: depubliceren
 type: artikel
 thema: inclusief
 formaat: standaard
@@ -40,4 +40,5 @@ Bekijk ook:
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

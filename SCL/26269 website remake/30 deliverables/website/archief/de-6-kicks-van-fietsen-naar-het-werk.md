@@ -4,7 +4,7 @@ post_id: 4973
 slug: "de-6-kicks-van-fietsen-naar-het-werk"
 date: 2013-07-14
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -30,4 +30,5 @@ Hoe communiceer je vooral de positieve effecten van fietsen naar het werk. Veel 
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,7 +4,7 @@ post_id: 4980
 slug: "b-riders-intertraffic-2014-nomination"
 date: 2014-03-23
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -31,4 +31,5 @@ samenvatting: "Video//player.vimeo.com/video/91104701?title=0&byline=0&portrait=
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

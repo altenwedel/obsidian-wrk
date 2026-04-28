@@ -4,7 +4,7 @@ post_id: 4948
 slug: "presentatie-valkeburg"
 date: 2012-11-27
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -29,4 +29,5 @@ Video intro voor informatieavond.
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

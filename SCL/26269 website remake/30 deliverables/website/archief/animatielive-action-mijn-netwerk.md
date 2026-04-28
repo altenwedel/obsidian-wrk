@@ -4,7 +4,7 @@ post_id: 1290
 slug: "animatie-mijn-netwerk"
 date: 2014-04-08
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -31,4 +31,5 @@ Art: Lateral (Claudia Dominguez)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

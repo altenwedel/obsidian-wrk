@@ -5,7 +5,7 @@ slug: "illustraties-lesboek-medezeggenschap-een-huis-voor-de-dieren"
 date: 2015-05-12
 laatst_gewijzigd: 2026-04-28
 status: gepubliceerd
-actie: twijfel
+actie: behouden
 type: referentie
 thema: overig
 formaat: standaard
@@ -28,4 +28,5 @@ Realisatie: Sicko van Dijk
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden voor herschrijven
 - **2026-04-28** — Geïmporteerd uit WordPress export

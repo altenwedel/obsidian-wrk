@@ -4,8 +4,8 @@ post_id: 1897
 slug: "woonwaard-speelt-portefeuillespel-met-stakeholders"
 date: 2015-04-15
 laatst_gewijzigd: 2026-04-28
-status: concept
-actie: depubliceren
+status: gepubliceerd
+actie: behouden
 type: concept
 thema: overig
 formaat: standaard
@@ -29,4 +29,5 @@ Woningcorporatie Woonwaard in Alkmaar wilde in gesprek met haar stakeholders, m
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden voor herschrijven
 - **2026-04-28** — Geïmporteerd uit WordPress export

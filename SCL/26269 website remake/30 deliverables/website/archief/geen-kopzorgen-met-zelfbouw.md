@@ -4,7 +4,7 @@ post_id: 4995
 slug: "geenkopzorg"
 date: 2015-03-16
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -36,4 +36,5 @@ Design: [Sicko van Dijk](https://lateral.nu/)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,7 +4,7 @@ post_id: 1872
 slug: "website-kopstelling-voor-kop-west"
 date: 2015-04-10
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -31,4 +31,5 @@ Realisatie*: Lateral (Sicko van Dijk)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

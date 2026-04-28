@@ -4,7 +4,7 @@ post_id: 1326
 slug: "b-riders-online-fietscoach"
 date: 2013-09-05
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -32,4 +32,5 @@ Online Fietscoach extra instructie.
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

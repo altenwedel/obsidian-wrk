@@ -4,7 +4,7 @@ post_id: 4983
 slug: "op-weg-naar-nul"
 date: 2014-09-08
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -31,4 +31,5 @@ Creatie: Lateral (Sicko van Dijk, Claudia Dominguez)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

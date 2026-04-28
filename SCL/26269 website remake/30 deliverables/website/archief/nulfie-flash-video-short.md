@@ -4,7 +4,7 @@ post_id: 1460
 slug: "fb-campaign-video-flash"
 date: 2014-06-16
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -26,4 +26,5 @@ Concept: Lateral (Sicko van Dijk)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

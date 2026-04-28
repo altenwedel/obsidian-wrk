@@ -4,7 +4,7 @@ post_id: 1740
 slug: "app-update-voor-b-riders"
 date: 2015-05-26
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -23,4 +23,5 @@ De app voor B-Riders verdiende in 2015 een update. Beaumont ontwikkelde een nieu
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

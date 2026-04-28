@@ -4,7 +4,7 @@ post_id: 1758
 slug: "376-keer-meedoen-met-het-museumspel"
 date: 2015-03-23
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: cultuur
@@ -33,4 +33,5 @@ Animatie & Editing: Sicko van Dijk
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

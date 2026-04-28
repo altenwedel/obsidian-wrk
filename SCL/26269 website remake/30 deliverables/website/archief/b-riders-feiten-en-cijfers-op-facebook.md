@@ -4,7 +4,7 @@ post_id: 1770
 slug: "b-riders-feiten-en-cijfers-op-facebook"
 date: 2015-06-15
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -29,4 +29,5 @@ samenvatting: "De Provincie Noord Brabant houdt de aandacht vast van forenzenfie
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

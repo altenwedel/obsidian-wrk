@@ -4,7 +4,7 @@ post_id: 1797
 slug: "windpark-drentse-monden"
 date: 2014-06-14
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -30,4 +30,5 @@ Realisatie*: Lateral (Sicko van Dijk)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

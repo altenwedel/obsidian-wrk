@@ -4,7 +4,7 @@ post_id: 1734
 slug: "b-riders-ride-again"
 date: 2015-06-04
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -29,4 +29,5 @@ B-Riders zijn Brabanders die de auto laten staan en de fiets pakken naar hun wer
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

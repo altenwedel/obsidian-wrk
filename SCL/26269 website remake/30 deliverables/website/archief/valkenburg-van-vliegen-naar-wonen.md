@@ -4,7 +4,7 @@ post_id: 4990
 slug: "valkenburg-van-vliegen-naar-wonen"
 date: 2015-01-28
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -27,4 +27,5 @@ Creatie: Lateral (Sicko van Dijk)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

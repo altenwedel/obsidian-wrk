@@ -4,7 +4,7 @@ post_id: 1804
 slug: "de-bedoeling-raadgeversspel"
 date: 2014-08-20
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -32,4 +32,5 @@ Technische realisatie*: Lateral (Sicko van Dijk)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,8 +4,8 @@ post_id: 7003
 slug: "werk-aan-de-wijk-voor-pre-wonen"
 date: 2013-05-12
 laatst_gewijzigd: 2026-04-28
-status: gepubliceerd
-actie: twijfel
+status: verwijderd
+actie: depubliceren
 type: artikel
 thema: participatie
 formaat: video
@@ -42,4 +42,5 @@ Reageer
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,7 +4,7 @@ post_id: 4943
 slug: "wijnwijs-in-60-seconden"
 date: 2013-05-20
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -52,4 +52,5 @@ Kurken en doppen. Daar gaat het over in aflevering 5.
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

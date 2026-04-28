@@ -4,7 +4,7 @@ post_id: 1322
 slug: "wonen-en-leven-de-wintertuin"
 date: 2014-02-28
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -29,4 +29,5 @@ Art: Lateral (Claudia Dominguez)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

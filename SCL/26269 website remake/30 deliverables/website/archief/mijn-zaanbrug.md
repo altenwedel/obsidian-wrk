@@ -4,7 +4,7 @@ post_id: 4986
 slug: "mijnzaanbrug"
 date: 2014-12-17
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -28,4 +28,5 @@ Concept: [Sicko van Dijk](https://lateral.nu/)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

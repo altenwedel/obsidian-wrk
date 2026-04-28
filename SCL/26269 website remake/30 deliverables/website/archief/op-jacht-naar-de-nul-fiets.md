@@ -4,7 +4,7 @@ post_id: 1011
 slug: "op-jacht-naar-de-nul-fiets"
 date: 2013-10-12
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -28,4 +28,5 @@ Illustratie: Lateral ([Claudia Dominguez Vargas](https://www.behance.net/DeepInd
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

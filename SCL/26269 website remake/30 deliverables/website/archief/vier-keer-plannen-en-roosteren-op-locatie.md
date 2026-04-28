@@ -4,7 +4,7 @@ post_id: 2201
 slug: "plannen-en-roosteren-op-locatie"
 date: 2014-07-31
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -37,4 +37,5 @@ Concept: [Rob Pieters](https://www.linkedin.com/profile/view?id=28026948&authTyp
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

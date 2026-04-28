@@ -4,7 +4,7 @@ post_id: 1844
 slug: "ed-voelt-leven-uit-zijn-handen-glippen"
 date: 2014-07-29
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -38,4 +38,5 @@ Copy: Lateral (Sicko van Dijk)
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

@@ -4,7 +4,7 @@ post_id: 4945
 slug: "eetlokaal-lt"
 date: 2013-06-19
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -56,4 +56,5 @@ Ik ben Shalom
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

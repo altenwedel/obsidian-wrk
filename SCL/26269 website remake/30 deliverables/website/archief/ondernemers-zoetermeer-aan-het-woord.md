@@ -4,7 +4,7 @@ post_id: 1793
 slug: "ondernemers-zoetermeer-aan-het-woord"
 date: 2015-02-05
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -28,4 +28,5 @@ Realisatie*: Sicko van Dijk
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

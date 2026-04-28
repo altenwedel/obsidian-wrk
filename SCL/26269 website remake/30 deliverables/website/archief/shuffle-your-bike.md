@@ -4,7 +4,7 @@ post_id: 4946
 slug: "shuffle-bike"
 date: 2013-03-05
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -28,4 +28,5 @@ Video intro voor bijeenkomst over fietsveiligheid
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

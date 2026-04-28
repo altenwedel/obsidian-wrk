@@ -4,7 +4,7 @@ post_id: 1494
 slug: "oud-west"
 date: 2014-07-08
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -21,4 +21,5 @@ samenvatting: "!10457965_10152291486517736_3081754950556387955_nhttps://www.late
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

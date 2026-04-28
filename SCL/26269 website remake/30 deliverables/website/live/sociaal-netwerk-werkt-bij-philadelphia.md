@@ -4,8 +4,8 @@ post_id: 4991
 slug: "sociaal-netwerk"
 date: 2015-02-05
 laatst_gewijzigd: 2026-04-28
-status: concept
-actie: depubliceren
+status: gepubliceerd
+actie: behouden
 type: concept
 thema: overig
 formaat: standaard
@@ -30,4 +30,5 @@ Voice Over: [Jet Putter](https://www.jetputter.nl/)
 
 ## Log
 
+- **2026-04-28** — Gemarkeerd als behouden voor herschrijven
 - **2026-04-28** — Geïmporteerd uit WordPress export

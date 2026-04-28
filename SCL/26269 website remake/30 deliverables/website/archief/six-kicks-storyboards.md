@@ -4,7 +4,7 @@ post_id: 4979
 slug: "six-kicks-storyboards"
 date: 2013-07-13
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -30,4 +30,5 @@ Storyboards voor "De 6 kicks van fietsen naar het werk".
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

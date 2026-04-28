@@ -4,7 +4,7 @@ post_id: 4978
 slug: "het-beste-uit-jezelf"
 date: 2013-11-12
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -30,4 +30,5 @@ Kijk hier voor de final edit op de website van [Stichting Philadelphia Zorg](htt
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

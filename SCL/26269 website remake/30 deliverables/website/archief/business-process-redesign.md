@@ -4,7 +4,7 @@ post_id: 4975
 slug: "business-process-redesign"
 date: 2013-12-12
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -47,4 +47,5 @@ Stichting Philadelphia wilde in een paar minuten uitleggen hoe de ondersteunende
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

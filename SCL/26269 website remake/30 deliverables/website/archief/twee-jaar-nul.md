@@ -4,7 +4,7 @@ post_id: 4976
 slug: "twee-jaar-nul-80210320"
 date: 2013-12-14
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -31,4 +31,5 @@ Provincie Noord Brabant wilde in twee minuten laten zien welke acties er in 2012
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

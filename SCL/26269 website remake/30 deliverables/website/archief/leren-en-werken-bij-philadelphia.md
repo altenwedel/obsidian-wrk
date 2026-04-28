@@ -4,7 +4,7 @@ post_id: 4942
 slug: "leren-en-werken-bij-philadelphia"
 date: 2013-07-05
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -32,4 +32,5 @@ Stichting Philadelphia wilde in een paar minuten uitleggen hoe het Leren & Werke
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export

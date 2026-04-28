@@ -7,7 +7,7 @@ laatst_gewijzigd: 2026-04-28
 status: gepubliceerd
 actie: behouden
 type: artikel
-thema: overig
+thema: inclusief
 formaat: standaard
 vimeo: false
 klant: ""
@@ -49,4 +49,5 @@ Tijdens de trainingsdagen kregen de medewerkers zelf de mogelijkheid om een trai
 
 ## Log
 
+- **2026-04-28** — Status hersteld naar behouden (Dit vind ik ervan)
 - **2026-04-28** — Geïmporteerd uit WordPress export

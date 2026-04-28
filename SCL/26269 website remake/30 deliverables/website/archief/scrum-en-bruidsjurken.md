@@ -4,7 +4,7 @@ post_id: 4939
 slug: "scrum-en-bruidsjurken"
 date: 2013-07-10
 laatst_gewijzigd: 2026-04-28
-status: concept
+status: verwijderd
 actie: depubliceren
 type: concept
 thema: overig
@@ -59,4 +59,5 @@ Illustraties: Lateral ([Claudia Dominguez Vargas](https://www.behance.net/DeepIn
 
 ## Log
 
+- **2026-04-28** — Verwijderd uit WordPress
 - **2026-04-28** — Geïmporteerd uit WordPress export
