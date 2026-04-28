@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCL/26269 website remake/30 deliverables/website/website.md",
+                "file": "SCL/26269 website remake/30 deliverables/website/vimeo-check.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "website"
+              "title": "vimeo-check"
             }
           }
         ]
@@ -207,8 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "affec8c40e509fea",
+  "active": "70f67c1108527cde",
   "lastOpenFiles": [
+    "SCL/26269 website remake/30 deliverables/website/website.md",
+    "SCL/26269 website remake/30 deliverables/website/vimeo-check.md",
     "SCL/26269 website remake/30 deliverables/website/live/samen-beschermen-we-elkaar.md",
     "SCL/26269 website remake/30 deliverables/website/live/mondkapjes-op.md",
     "SCL/26269 website remake/30 deliverables/website/live/inclusief-klanttevredenheid-meten.md",
@@ -233,8 +235,6 @@
     "SCL/26269 website remake/30 deliverables/website/live/zorg-en-ondersteuning-regelen-we-samen.md",
     "SCL/26269 website remake/30 deliverables/website/live/lila-hoort-het-brandalarm.md",
     "SCL/26269 website remake/30 deliverables/website/archief/napk-activiteitenverslag-2017.md",
-    "SCL/26269 website remake/30 deliverables/website/archief/philadelphia-lookbooks.md",
-    "SCL/26269 website remake/30 deliverables/website/archief/metoo-standaard-dark-mode.md",
     "SCL/26269 website remake/30 deliverables/website/live",
     "SCL/26269 website remake/30 deliverables/website/archief",
     "SCL/26269 website remake/30 deliverables/website",
