@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VNC/26275 BWW Alkmaar/30 deliverables/30 deliverables.md",
+                "file": "000/000.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "30 deliverables"
+              "title": "000"
             }
           }
         ]
@@ -209,7 +209,21 @@
   },
   "active": "70f67c1108527cde",
   "lastOpenFiles": [
+    "VNC/26275 BWW Alkmaar/lit/00 Kennisbibliotheek BWW 26275.md",
+    "VNC/26275 BWW Alkmaar/lit/OPN-10 Handboek BWW.md",
+    "VNC/26275 BWW Alkmaar/lit/OPN-09 NPLW Handreiking Warmteprogramma.md",
+    "VNC/26275 BWW Alkmaar/lit/OPN-08 Handreiking Stakeholdersanalyse.md",
+    "VNC/26275 BWW Alkmaar/lit/OPN-07 WE-ME.md",
+    "VNC/26275 BWW Alkmaar/lit/OPN-06 BSR Leefstijlen.md",
+    "SCL/26269 website remake/26269 website remake.md",
+    "VNC/26275 BWW Alkmaar/lit/OPN-01 TNO-2019-P12006.md",
+    "VNC/26275 BWW Alkmaar/lit/OPN-02 TNO-2020-P12079.md",
+    "VNC/26275 BWW Alkmaar/lit/OPN-03 TNO-2020-P12094.md",
+    "VNC/26275 BWW Alkmaar/lit/OPN-04 TNO-2023-P12703.md",
+    "VNC/26275 BWW Alkmaar/lit/OPN-05 TNO-2026-R10501.md",
+    "VNC/26275 BWW Alkmaar/30 deliverables/30 deliverables.md",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/20 brondocumenten.md",
+    "VNC/26275 BWW Alkmaar/lit",
     "VNC/26275 BWW Alkmaar/26275 BWW Alkmaar.md",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/260226-running-notes-cher-spigt.md",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/260326-inventaris-blauwdruk-suzanne.md",
@@ -217,25 +231,12 @@
     "VNC/26275 BWW Alkmaar/20 brondocumenten/260422-blauwdruk-communicatie-buurtaanpak-suzanne.md",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/260423-verslag-portal-demo-earlybirds.md",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/260427-roadmap-deliverables-q2.md",
-    "VNC/26275 BWW Alkmaar/30 deliverables/30 deliverables.md",
     "SCL/26269 website remake/30 deliverables/website/vimeo-check.md",
     "VNC/26275 BWW Alkmaar/VNC 26275 BWW Alkmaar",
     "SCL/26269 website remake/30 deliverables/website/website.md",
     "SCL/26269 website remake/30 deliverables/website/live/samen-beschermen-we-elkaar.md",
     "SCL/26269 website remake/30 deliverables/website/live/mondkapjes-op.md",
     "SCL/26269 website remake/30 deliverables/website/live/inclusief-klanttevredenheid-meten.md",
-    "SCL/26269 website remake/30 deliverables/website/live/we-wonen-hier-allemaal.md",
-    "SCL/26269 website remake/30 deliverables/website/archief/betrek-bewoners-bij-de-selectie-van-publieke-kunst.md",
-    "SCL/26269 website remake/30 deliverables/website/archief/ready-for-take-off.md",
-    "SCL/26269 website remake/30 deliverables/website/archief/adaptive-amsterdam.md",
-    "SCL/26269 website remake/30 deliverables/website/archief/knooppunt-haarlem-nieuw-zuid.md",
-    "SCL/26269 website remake/30 deliverables/website/live/baanstee-noord-de-ondernemers-2.md",
-    "SCL/26269 website remake/30 deliverables/website/live/door-de-ogen-van-suzan.md",
-    "SCL/26269 website remake/30 deliverables/website/live/gemeentelijke-zorgpolis.md",
-    "SCL/26269 website remake/30 deliverables/website/live/patiënteninformatie-diabetische-voet.md",
-    "SCL/26269 website remake/30 deliverables/website/live/sophi-voor-de-ouders-van.md",
-    "SCL/26269 website remake/30 deliverables/website/live/mondkapje-op-mondkapje-af.md",
-    "SCL/26269 website remake/30 deliverables/website/archief/vaccinatie-tegen-tuberculose.md",
     "SCL/26269 website remake/30 deliverables/website/live",
     "SCL/26269 website remake/30 deliverables/website/archief",
     "SCL/26269 website remake/30 deliverables/website",
@@ -244,7 +245,6 @@
     "SCL/26269 website remake/90 templates",
     "SCL/26269 website remake/20 brondocumenten/notities",
     "SCL/26269 website remake/SCL 25208 promotie Studio Claro/depublicatielijst-studio-claro.xlsx",
-    "SCL/26269 website remake/20 brondocumenten/materiaal",
     "VRK/26277 subsidie aanvraag/30 deliverables/asset briefing/assets/color-card.svg"
   ]
 }

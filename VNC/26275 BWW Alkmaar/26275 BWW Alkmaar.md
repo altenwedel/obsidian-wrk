@@ -71,7 +71,7 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 
 ### Fundament en afstemming
 
-- [ ] Weekplanning Q2 uitwerken per week (week 18 t/m 26) #task #project/26275 📅 2026-05-01
+- [x] Weekplanning Q2 uitwerken per week (week 18 t/m 26) #task #project/26275 📅 2026-05-01 ✅ 2026-04-29
 - [ ] Stakeholderoverzicht v06 doorsturen naar Arja (via Cinar) #task #project/26275 📅 2026-05-01
 - [ ] Bestuurlijk commitment WUP en fasering afstemmen met Cinar — zie ⚠️ risico #task #project/26275 ⏫
 - [ ] Openstaande communicatierol gemeente (opvolger Suzanne) signaleren bij Cinar #task #project/26275

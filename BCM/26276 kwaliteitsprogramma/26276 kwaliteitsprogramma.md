@@ -20,10 +20,10 @@ Opdrachtgever is Linda Troost. Inhoudelijk klankbord is Simone Schouten, met Jac
 
 ## Te doen
 
-- [ ] Update Linda overlezen, drie verificatiepunten checken (Zeilschool-score, Leiderdorp-label, week 18-aanname) en verzendklaar maken #task #project/26276 📅 2026-04-27⏫ ⏳ 2026-04-27 
-- [ ] JSON-parsefout in beoordelingstool oplossen volgens diagnose (max_tokens 16000, prompt strakker, partial-parser) #task #project/26276 📅 2026-05-03
+- [x] Update Linda overlezen, drie verificatiepunten checken (Zeilschool-score, Leiderdorp-label, week 18-aanname) en verzendklaar maken #task #project/26276 ⏫ ⏳ 2026-04-27 📅 2026-04-27 ✅ 2026-04-29
+- [x] JSON-parsefout in beoordelingstool oplossen volgens diagnose (max_tokens 16000, prompt strakker, partial-parser) #task #project/26276 📅 2026-05-03 ✅ 2026-04-29
 - [ ] Beoordelingstool hertesten met Ooievaarshoek-plan #task #project/26276 📅 2026-05-03
-- [ ] Werkende link beoordelingstool naar Simone sturen #task #project/26276 📅 2026-05-03
+- [x] Werkende link beoordelingstool naar Simone sturen #task #project/26276 📅 2026-05-03 ✅ 2026-04-29
 - [ ] Drie tot vijf interne plannen door matrix v04 halen #task #project/26276 📅 2026-05-03
 - [ ] Externe plannen (Buhrs, De Wijde Blik) hertoetsen op v04 voor zuivere vergelijking #task #project/26276 📅 2026-05-10
 - [ ] Office@Work-check uitvoeren en verwerken in vervolgvoorstel #task #project/26276 📅 2026-05-10
