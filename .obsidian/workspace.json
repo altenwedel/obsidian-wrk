@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000/000.md",
+                "file": "GNM/25265 routekaart/00 project.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "000"
+              "title": "00 project"
             }
           }
         ]
@@ -209,6 +209,7 @@
   },
   "active": "70f67c1108527cde",
   "lastOpenFiles": [
+    "000/000.md",
     "VNC/26275 BWW Alkmaar/lit/00 Kennisbibliotheek BWW 26275.md",
     "VNC/26275 BWW Alkmaar/lit/OPN-10 Handboek BWW.md",
     "VNC/26275 BWW Alkmaar/lit/OPN-09 NPLW Handreiking Warmteprogramma.md",
@@ -236,7 +237,6 @@
     "SCL/26269 website remake/30 deliverables/website/website.md",
     "SCL/26269 website remake/30 deliverables/website/live/samen-beschermen-we-elkaar.md",
     "SCL/26269 website remake/30 deliverables/website/live/mondkapjes-op.md",
-    "SCL/26269 website remake/30 deliverables/website/live/inclusief-klanttevredenheid-meten.md",
     "SCL/26269 website remake/30 deliverables/website/live",
     "SCL/26269 website remake/30 deliverables/website/archief",
     "SCL/26269 website remake/30 deliverables/website",
