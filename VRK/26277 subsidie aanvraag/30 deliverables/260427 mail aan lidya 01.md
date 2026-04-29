@@ -24,47 +24,47 @@ Aangepast voorstel storyboard subsidieproces, na bespreking 23 april
 
 > Hallo Lidya,
 >
-> Hierbij ontvang je het aangepaste voorstel voor de animatie over het subsidieproces. De PowerPoint is bijgewerkt op basis van onze bespreking van 23 april en de aanvullende mails van Bart Zwagemaker. De schetsen die je in de slides ziet zijn werkschetsen van mijn hand, niet de definitieve illustraties. Onze illustrator Claudia Dominguez maakt die zodra de richting met je is afgestemd. Op die manier hoeft zij geen tijd te besteden aan polijstwerk dat misschien nog moet veranderen.
+> Hierbij het aangepaste voorstel. De PowerPoint is bijgewerkt op basis van onze bespreking en de mails van Bart. Ik heb de eerste werkschetsen er zelf bij gezet, zodat je de richting kunt zien. Onze illustrator Claudia Dominguez (haar naam was je naar gevraagd) maakt de definitieve illustraties zodra de richting met je is afgestemd.
 >
-> Wat is verwerkt in deze versie? Op hoofdlijnen:
+> Eén afweging om alvast te delen. Er was meer informatie bijgekomen. Daarna heb ik de voice-over tekst weer iets ingekort. We hebben nu circa 340 woorden en daarmee komen we tussen de 90 en 130 seconden uit. Voor de productiekosten maakt dit niet uit. Daarnaast is het een intern communicatiemiddel en hoeft het niet viraal te gaan. Als het strategisch belangrijk is dat we op of onder de 90 seconden uitkomen dan moeten we tekst schrappen.
 >
-> - De koersverandering naar twee werelden in beeld. We tonen nu zowel de GGD-kant als de financien-kant, met de F-subsidieadviseur als tweede personage. De partnership-boodschap loopt door tot en met het slot.
-> - Monitoring tijdens uitvoering, niet pas achteraf. Scene 7 maakt expliciet dat uren bijhouden en factureren tijdens het werk gebeurt.
-> - De officiele subsidieterminologie. In scene 11 verschijnen de zes formele termen die je in jouw bijlage 5 hebt staan, in dezelfde stijl met gele balken. De voice-over kadert ze als woordenboekje, zodat duidelijk is waarom ze in beeld komen.
-> - Verantwoorden in twee werelden. Scene 9 toont de informatieketen: GGD richting subsidieverstrekker, financien richting accountant. De kaders die je benoemde, subsidiekaders en financiele kaders, blijven expliciet in de voice-over.
-> - Slot als groepsbeeld met de mensen uit het veld erbij, om de keten van professionals naar baathebbenden zichtbaar te maken.
-> - Kleurpalet. Conform Bart's correctie is donkerblauw nu de basiskleur, met oranje als steunkleur voor de GGD-context. Geen paars meer als corporate kleur.
-> - Werktitel. We werken nu met "Subsidieregelen doe je zo!". Het woord "animatie" hebben we uit de titel gelaten zoals afgesproken.
+> Voor 7 mei werk ik een proefversie uit met een voorlopige voice-over opname. We gebruiken daarbij een AI-stem. De definitieve opname doet onze vaste stem-artiest Danique Bauer op 14 mei.
 >
-> Een belangrijke afweging die ik graag met je deel. De voice-over telt na inkorting circa 340 woorden. Dat komt neer op ongeveer 2 minuten en 15 seconden ingesproken tekst. We zaten oorspronkelijk op een format van 60 seconden, met ruimte naar 90 seconden. Met deze versie zitten we daar dus over.
->
-> Mijn voorstel is om het verhaal te laten zoals het nu is. De boodschappen die we willen overbrengen, namelijk eigenaarschap van het subsidieproces en de samenwerking met financien, hebben tijd nodig om te landen. Een te kort format dwingt ons om kaders weg te laten of te abstracteren, en dat doet afbreuk aan wat we juist willen bereiken. Het belangrijkste is gedragsverandering, niet de stopwatch.
->
-> Mocht je het format toch graag terug willen brengen naar 90 seconden, dan kunnen we daar samen naar kijken. Dan zou ik je een paar inhoudelijke keuzes voorleggen waar nog iets vanaf kan, zodat jij de regie houdt over wat blijft staan.
->
-> Voor de planning richting 7 mei: ik werk de animatie uit tot een proefversie en spreek zelf een tijdelijke voice-over in. Dat is voldoende voor de klankbordgroep om tempo, beeld en boodschap te beoordelen. De definitieve voice-over wordt op 14 mei opgenomen door Danique Bauer, onze vaste voice-over actrice. Tussen 7 en 14 mei verwerken we de feedback van de klankbordgroep in de definitieve tekst, zodat het inspreken nog kan meebewegen.
->
-> Een laatste punt, niet voor deze opdracht maar als idee voor later. Tijdens onze bespreking kwam ter sprake hoe deze animatie haar weg moet vinden in de organisatie. Wij denken graag mee over een korte implementatie-aanpak, bijvoorbeeld dat de animatie verplicht onderdeel wordt van het werkoverleg met terugrapportage door afdelingshoofden. Dat valt buiten de huidige scope, maar zou de gedragsverandering die we willen aanzienlijk verstevigen. Mocht je dit interessant vinden, dan kunnen we daar in een aparte sessie verder over praten.
->
-> Ik begrijp dat je deze week tot woensdag afwezig bent. Lees dit op je gemak. Een korte mail terug met je eerste reactie is voldoende, en als je iets wil bespreken bel ik je graag op een moment dat jou uitkomt.
+> We sturen ook de eerste schetsen mee van het hoofdkarakter en haar koffertje.
 >
 > Met vriendelijke groet,
 >
-> Sicko van Dijk
-> Studio Claro
+> Drs. Sicko A. van Dijk
+> svandijk@studioclaro.nl
+> +31 6 812 744 34
+>
+> KvK 84730633 | BTW NL863336826B01
+> Spaarnrijkstraat 56 | 2024 EK Haarlem
 
 ## Bijlagen om mee te sturen
 
 | Bestand | Toelichting |
 |---|---|
 | PowerPoint storyboard v02 | Aangepaste versie met bijgewerkte teksten en werkschetsen |
+| Eerste schetsen hoofdkarakter en koffertje | Karakterontwerp en het centrale rekwisiet, ter validatie van de visuele richting |
 
 ## Aandachtspunten voor verzenden
 
-- Naam Claudia Dominguez wordt voor het eerst expliciet genoemd in de mail (zoals door Lidya gevraagd in haar mail van 23 april).
-- De voorstel-tekst doet geen harde uitspraak over of de animatie definitief 2:15 mag worden. Het laat de keuze bij Lidya, met een voorzet van Sicko's kant.
-- De teaser over implementatie-aanpak is bewust luchtig en niet pushy. Lidya kan het oppikken of laten liggen.
-- De mail vraagt geen formele goedkeuring binnen een datum. Sicko's eigen planning rond 7 mei is wel duidelijk maar legt geen druk op Lidya.
+- Mailtekst telt circa 175 woorden. Lidya kan dit in anderhalve minuut lezen.
+- Eerste werkschetsen zitten in de PowerPoint, gemaakt door Sicko zelf. Daarnaast gaan losse karakterschetsen mee (hoofdkarakter en koffertje). Claudia's definitieve werk volgt.
+- Naam Claudia Dominguez wordt voor het eerst expliciet genoemd, zoals Lidya had gevraagd op 23 april.
+- Voor de proef van 7 mei wordt een voorlopige voice-over met AI-stem ingezet, niet een eigen scratch-opname. Snel realiseerbaar en consistent qua kwaliteit.
+- De duurkeuze ligt expliciet bij Lidya. De mail benoemt drie ankers: 90 tot 130 seconden is de huidige uitkomst, productiekosten veranderen niet, intern communicatiemiddel hoeft niet viraal. Als 90 seconden strategisch belangrijk is, schrappen we samen tekst.
+- De implementatie-aanpak teaser is geschrapt. Wordt later eventueel apart opgepakt.
+- Geen harde deadline aan Lidya. Sicko's eigen planning is duidelijk maar legt geen druk.
+
+## Versiehistorie van de mailtekst
+
+| Versie | Datum | Wijziging |
+|---|---|---|
+| Eerste concept | 2026-04-27 | Lange versie van circa 470 woorden met uitgebreide rehash van verwerkte feedback en duurvoorstel |
+| Tweede concept | 2026-04-27 | Ingekort tot circa 200 woorden, rehash geschrapt, duurvoorstel behouden, implementatie-teaser luchtig gehouden |
+| Derde concept (huidige) | 2026-04-27 | Eindversie door Sicko: implementatie-teaser geschrapt, AI-stem voor scratch genoemd, karakterschetsen als losse bijlage, duur geherformuleerd als range 90 tot 130 seconden met expliciete cost- en strategische framing |
 
 ## Bron
 

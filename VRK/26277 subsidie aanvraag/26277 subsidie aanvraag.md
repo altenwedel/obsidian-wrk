@@ -23,12 +23,12 @@ Status: project bevindt zich in fase 3 (productie). Storyboard v01 is op 23 apri
 - [x] Engelstalige assetbriefing voor Claudia per illustratie opstellen #task #project/26277 ✅ 2026-04-27
 - [ ] Aangepast voorstel naar Lidya sturen, met samenvatting verwerkte feedback en eenvoudige schetsen #task #project/26277 📅 2026-05-03
 - [ ] Naam Claudia (Dominguez) doorgeven aan Lidya #task #project/26277 📅 2026-05-03
-- [ ] Met Lidya afstemmen dat de animatie circa 2 min 15 sec wordt in plaats van 60-90 sec #task #project/26277 📅 2026-05-03
+- [ ] Met Lidya afstemmen dat de animatie 90-130 sec wordt in plaats van strikt 60-90 sec #task #project/26277 📅 2026-05-03
 - [x] Voice-over opname 14 mei reserveren bij Danique Bauer (reserve 19 mei) #task #project/26277 📅 2026-05-03 ✅ 2026-04-28
 - [ ] Foto GGD-adviseur (Lidya als referentie) verwerken in karakterontwerp #task #project/26277 📅 2026-05-03
 - [x] Foto's GGD-adviseur opslaan in `20 brondocumenten/260427-fotos-ggd-adviseur/assets/` #task #project/26277 ✅ 2026-04-27
 - [ ] Eventueel afstemming met Lidya plannen vóór 7 mei #task #project/26277 📅 2026-05-06
-- [ ] Scratch voice-over inspreken voor proefklankbordgroep #task #project/26277 📅 2026-05-06
+- [ ] Voorlopige voice-over met AI-stem genereren voor proefklankbordgroep #task #project/26277 📅 2026-05-06
 - [ ] Op 7 mei animatie tonen aan proefklankbordgroep (acht deelnemers) #task #project/26277 📅 2026-05-07
 - [ ] Definitieve voice-overtekst vaststellen met Lidya, na proef 7 mei #task #project/26277 📅 2026-05-12
 - [ ] Definitieve voice-over opnemen met Danique Bauer #task #project/26277 📅 2026-05-14

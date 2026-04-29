@@ -80,7 +80,7 @@ Twee hoofdboodschappen volgen uit het overleg en het interview met de subsidiead
 | 2 | Storyboard en ontwerp | Week 14-15 (maart-april 2026, gereed) |
 | 3 | Productie en animatie | Week 15-19 (april-mei 2026, lopend) |
 | Tussentijds overleg | Storyboard en illustraties bespreken met werkgroep | 23 april 2026 (uitgevoerd) |
-| Proefklankbordgroep | Acht deelnemers, tonen van de animatie met scratch voice-over door Sicko | 7 mei 2026 |
+| Proefklankbordgroep | Acht deelnemers, tonen van de animatie met voorlopige voice-over via AI-stem | 7 mei 2026 |
 | Voice-over opname | Definitieve voice-over door Danique Bauer, na verwerking feedback klankbordgroep | 14 mei 2026 (reserve: 19 mei) |
 | Vervolg klankbordgroep | Animatie met aanpassingen op basis van 7 mei en definitieve voice-over | 22 mei 2026 |
 | 4 | Correcties en verwerking | Week 19-22 (mei 2026) |
@@ -112,7 +112,7 @@ Op basis van de huisstijl (verkorte versie van 9 april 2026) en de feedback van 
 
 Project bevindt zich in fase 3 (productie). Storyboard v02 is op 27 april afgerond en intern gereviewd door Sicko. Belangrijkste wijzigingen ten opzichte van v01: monitoring tijdens uitvoering, twee werelden bij verantwoorden, F-subsidieadviseur als tweede personage, scene 4 met drie compartimenten van financiering, scene 11 met de zes formele termen uit Lidya's bijlage 5, slot als groepsbeeld met partnership-boodschap. Asset briefing voor Claudia is bijgewerkt op v01.
 
-Volgende mijlpaal is een aangepast voorstel aan Lidya voor 7 mei, met de wijzigingen op v02 en eenvoudige schetsen om de richting te valideren. Voor de proefklankbordgroep van 7 mei werken we met een scratch voice-over door Sicko. De definitieve voice-over wordt op 14 mei opgenomen door Danique Bauer.
+Volgende mijlpaal is een aangepast voorstel aan Lidya voor 7 mei, met de wijzigingen op v02 en eenvoudige werkschetsen plus losse karakterschetsen om de richting te valideren. De begeleidende mail aan Lidya staat klaar als concept. Voor de proefklankbordgroep van 7 mei werken we met een voorlopige voice-over via een AI-stem (geen eigen scratch). De definitieve voice-over wordt op 14 mei opgenomen door Danique Bauer.
 
 ## Open punten
 
@@ -121,16 +121,16 @@ Volgende mijlpaal is een aangepast voorstel aan Lidya voor 7 mei, met de wijzigi
 | 1 | Definitieve naam werkgroep navragen (Eigenaarschap of Leiderschap subsidieproces) | Sicko |
 | 2 | Definitieve schrijfwijze Lidya Ducro vaststellen | Sicko |
 | 3 | Naam Claudia Dominguez doorgeven aan Lidya | Sicko |
-| 4 | Foto's GGD-adviseur opslaan in `260427-fotos-ggd-adviseur/assets/` | Sicko |
+| 4 | ~~Foto's GGD-adviseur opslaan in `260427-fotos-ggd-adviseur/assets/`~~ Afgehandeld 27-04 | Sicko |
 | 5 | PowerPoint van het storyboard bijwerken naar v02 voor verzending Lidya en Claudia | Sicko |
-| 6 | Aangepast voorstel naar Lidya sturen, met samenvatting verwerkte feedback en eenvoudige schetsen | Sicko |
+| 6 | Aangepast voorstel naar Lidya sturen. Begeleidende mail is opgesteld als concept (zie [[30 deliverables/260427 mail aan lidya 01]]) | Sicko |
 | 7 | Werktitel "Subsidieregelen doe je zo!" definitief afstemmen met Lidya | Lidya |
-| 8 | Voice-over opname op 14 mei 2026 reserveren bij Danique Bauer (reserve 19 mei) | Sicko |
-| 9 | Scratch voice-over inspreken voor proefklankbordgroep 7 mei | Sicko |
+| 8 | ~~Voice-over opname op 14 mei 2026 reserveren bij Danique Bauer~~ Bevestigd, reserve 19 mei | Sicko |
+| 9 | Voorlopige voice-over met AI-stem genereren voor proefklankbordgroep 7 mei | Sicko |
 | 10 | Definitieve voice-overtekst vaststellen voor 14 mei opname (na proef 7 mei) | Sicko en Lidya |
 | 11 | Eventueel afstemming met Lidya plannen voor 7 mei | Lidya en Sicko |
 | 12 | Aparte sessie inplannen over implementatie- of communicatieplan rond de animatie. Idee: animatie verplicht onderdeel werkoverleg, terugrapportage door afdelingshoofden. Geparkeerd op 27-04-2026, op te pakken in latere sessie | Sicko |
-| 13 | Met Lidya afstemmen dat de animatie naar verwachting circa 2 minuten en 15 seconden wordt in plaats van 60 of 90 seconden. Reden: kaders en boodschap behouden, gedragsverandering staat voorop | Sicko |
+| 13 | Met Lidya afstemmen dat de animatie naar verwachting tussen 90 en 130 seconden wordt in plaats van strikt 60 of 90 seconden. Reden: kaders en boodschap behouden, gedragsverandering staat voorop. Geadresseerd in concept-mail | Sicko |
 
 ## Learnings, lopend
 
