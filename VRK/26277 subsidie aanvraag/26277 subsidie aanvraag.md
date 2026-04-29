@@ -19,13 +19,13 @@ Status: project bevindt zich in fase 3 (productie). Storyboard v01 is op 23 apri
 
 ## Te doen
 
-- [ ] Storyboard v02 in PowerPoint zetten voor verzending Lidya en Claudia #task #project/26277 📅 2026-05-03
+- [x] Storyboard v02 in PowerPoint zetten voor verzending Lidya en Claudia #task #project/26277 📅 2026-05-03 ✅ 2026-04-29
 - [x] Engelstalige assetbriefing voor Claudia per illustratie opstellen #task #project/26277 ✅ 2026-04-27
-- [ ] Aangepast voorstel naar Lidya sturen, met samenvatting verwerkte feedback en eenvoudige schetsen #task #project/26277 📅 2026-05-03
-- [ ] Naam Claudia (Dominguez) doorgeven aan Lidya #task #project/26277 📅 2026-05-03
-- [ ] Met Lidya afstemmen dat de animatie 90-130 sec wordt in plaats van strikt 60-90 sec #task #project/26277 📅 2026-05-03
+- [x] Aangepast voorstel naar Lidya sturen, met samenvatting verwerkte feedback en eenvoudige schetsen #task #project/26277 📅 2026-05-03 ✅ 2026-04-29
+- [x] Naam Claudia (Dominguez) doorgeven aan Lidya #task #project/26277 📅 2026-05-03 ✅ 2026-04-29
+- [x] Met Lidya afstemmen dat de animatie 90-130 sec wordt in plaats van strikt 60-90 sec #task #project/26277 📅 2026-05-03 ✅ 2026-04-29
 - [x] Voice-over opname 14 mei reserveren bij Danique Bauer (reserve 19 mei) #task #project/26277 📅 2026-05-03 ✅ 2026-04-28
-- [ ] Foto GGD-adviseur (Lidya als referentie) verwerken in karakterontwerp #task #project/26277 📅 2026-05-03
+- [x] Foto GGD-adviseur (Lidya als referentie) verwerken in karakterontwerp #task #project/26277 📅 2026-05-03 ✅ 2026-04-29
 - [x] Foto's GGD-adviseur opslaan in `20 brondocumenten/260427-fotos-ggd-adviseur/assets/` #task #project/26277 ✅ 2026-04-27
 - [ ] Eventueel afstemming met Lidya plannen vóór 7 mei #task #project/26277 📅 2026-05-06
 - [ ] Voorlopige voice-over met AI-stem genereren voor proefklankbordgroep #task #project/26277 📅 2026-05-06
