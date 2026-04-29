@@ -17,7 +17,28 @@ Graft-de Rijp is de pilotlocatie voor de BuurtWarmteWijzer (BWW), een traject va
 
 Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja de Waal (BMC) is de hoofdbegeleider in het veld en portaalbeheerder van de BWW-omgeving. Sicko van Dijk (Studio Claro / VONC) ondersteunt de communicatie en procesbegeleiding. Eline Burger (TheEarlybirds) is de vaste contactpersoon voor het BWW-portaal en de COLONY-tool. De wervingsfase loopt van mei tot en met juni 2026; de eerste werkgroepbijeenkomst is beoogd in week 23 (begin juni). De communicatieaanpak wordt ontwikkeld met het Michels canvas (12-componenten model) en vertaalt zich naar bewonersgerichte materialen onder de naam Warmteplan Graft-de Rijp.
 
-> ℹ️ **Personeel:** Chantal Blokpoel werkt niet meer bij VONC. Suzanne Leguijt (gemeente Alkmaar) is eveneens vertrokken. Er is geen opvolger voor de gemeentelijke communicatierol benoemd. Schrijf- en ontwerpcapaciteit moet Sicko zelf of extern organiseren.
+> ℹ️ **Personeel:** Chantal Blokpoel werkt niet meer bij VONC. Suzanne Leguijt (gemeente Alkmaar) is eveneens vertrokken. Cinar Kutlu is nu zelf aanspreekpunt voor communicatiebeleid en -accordering. Schrijf- en ontwerpcapaciteit moet Sicko zelf of extern organiseren.
+
+## Contactpersonen
+
+| Naam | Organisatie | Rol in project | Opmerking |
+|---|---|---|---|
+| **Cinar Kutlu** | Gemeente Alkmaar | Opdrachtgever, sr. omgevingsregisseur warmtetransitie | Accordeert alle communicatie. Eerder ~10 jaar bij gemeente Amsterdam. Geboren en getogen in Alkmaar. |
+| **Arja de Waal** | BMC (zelfstandig) | Onafhankelijk procesbegeleider, werkgroepbegeleider | Ervaring met RES-trajecten bij gemeenten (o.a. Heumen). Sterk in snel schakelen en betrokkenen centraal stellen. Aanbevolen door Jaap de Graaf (gem.secr. Heumen). |
+| **Daisy Hoogervorst** | Gemeente Alkmaar | Projectbegeleider (opvolger Cher Spigt) | Nieuw per april 2026. Achtergrond: HKU, financieel-administratief. Eerste mail 29-04-2026. |
+| **Eline Burger** | TheEarlybirds / BWW | Directeur en co-founder BWW en TheEarlybirds | Portaaldemo's, instructiesessies, technische vragen BWW/COLONY. Achtergrond: CE Delft, Witteveen+Bos. BWW wordt ingezet door 10+ gemeenten. |
+| **Petra** | Gemeente Alkmaar | Eindverantwoordelijke Duurzaam Alkmaar | Alle communicatiemiddelen onder DA-vlag ter check bij haar. Beheert waarschijnlijk ook de website. Achternaam nog onbekend. |
+| **Emma van der Elst** | Gemeente Alkmaar | Contactpersoon participatie | Afstemming participatieluik vóór uitvoering. Cinar schakelt, Sicko in de loop. |
+| **Baris Kurkcu** | Gemeente Alkmaar | Beleidsadviseur warmtetransitie | — |
+| **Nikki Natzijl** | Fotograaf | Fotografieopdracht | Prijsopgave gevraagd. Focus op straatbeeld, niet op individuele woningen. |
+
+### Vertrokken
+
+| Naam | Was | Status |
+|---|---|---|
+| Suzanne Leguijt | Communicatieadviseur gemeente | Vertrokken. Blauwdruk overgedragen. |
+| Cher Spigt | Projectbegeleider gemeente (PMO) | Vertrokken. Vervangen door Daisy Hoogervorst. |
+| Chantal Blokpoel | VONC schrijf-/ontwerpcapaciteit | Niet meer bij VONC. |
 
 > ⚠️ **Risico — bestuurlijke inbedding:** Eline Burger (TheEarlybirds) signaleerde op 23 april dat de bestuurlijke inbedding bij gemeente Alkmaar intern "niet soepeltjes loopt". Risico: bewoners maken keuzes die later door gemeente worden teruggedraaid. Actie vereist bij Cinar Kutlu.
 
@@ -25,14 +46,14 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 
 ### Kritisch pad — wervingsmateriaal (deadline: begin mei)
 
-- [ ] Wervingsflyer Huiswerkcommissie: tekst + ontwerp #task #project/26275 📅 2026-05-05 ⏫
+- [x] Wervingsflyer Huiswerkcommissie: tekst + ontwerp #task #project/26275 ⏫ 📅 2026-05-05 ✅ 2026-04-29
 - [ ] Landingspagina tekst definitief aanleveren voor dorpsraadwebsite #task #project/26275 📅 2026-05-05 ⏫
 - [ ] Poster (raam + driehoeksbord): ontwerp op basis van Fonk-vormentaal #task #project/26275 📅 2026-05-09
 - [ ] Communicatieplan v07 definitief accorderen met Cinar #task #project/26275 📅 2026-05-01 ⏫
 
 ### Platformkennis — deze week (wk 18)
 
-- [ ] Portaaltoegang controleren — Arja zou Sicko toevoegen na 24-04 #task #project/26275 📅 2026-04-28 ⏫
+- [x] Portaaltoegang controleren — Arja zou Sicko toevoegen na 24-04 #task #project/26275 ⏫ 📅 2026-04-28 ✅ 2026-04-29
 - [ ] BWW-handboek stap 1–4 doorwerken in portaal #task #project/26275 📅 2026-05-02
 - [ ] Demo-omgeving zelf doorlopen (app-ervaring testen) #task #project/26275 📅 2026-05-02
 - [ ] NPLW-handreiking 2026 controleren tegen communicatiemiddelen #task #project/26275 📅 2026-05-09
@@ -113,8 +134,9 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 | Programmanaam | Duurzaam Alkmaar |
 | Projectnaam bewoners | Warmteplan Graft-de Rijp |
 | Werknaam werkgroep | Huiswerkcommissie |
-| Slogan | Warmteplan Graft-de Rijp — dat doen we samen |
+| Ondertitel | dat doen we samen |
 | Fundament | We laten niemand in de kou staan |
+| Vervallen payoff | ~~Mijn buurt, mijn huis, mijn keus~~ — verkeerde connotatie, niet meer gebruiken |
 | Corporate kleur | DA-groen #006E49 |
 | Lettertype | Roboto |
 | Verboden term | Gas / aardgasvrij — gebruik: toekomstbestendig verwarmen |
