@@ -26,7 +26,7 @@ De volgende onverwerkte bronbestanden staan in de Teams-folder (`not/` en `mat/`
 
 - VNC-notities (chronologisch): `not/VNC 260304*.txt` t/m `not/VNC 2604*.txt`
 - BWW-handboek: `mat/buurtwarmtewijzer_handboek.md`
-- Fonk communicatieconcept: `mat/Concept 2 Gemeente Alkmaar_BWW.md`
+- VONC communicatieconcept: `mat/Concept 2 Gemeente Alkmaar_BWW.md`
 - Energiecoöperatie Graft-de Rijp: `mat/Energie Coöperatie Graft - de Rijp.md`
 - Feedback-map Suzanne: `mat/feedback/` (7 bestanden)
 - NPLW-handreiking: `mat/markup/BWW_Graft_de_Rijp_learnings.md`
