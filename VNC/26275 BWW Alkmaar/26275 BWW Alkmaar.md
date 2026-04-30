@@ -3,7 +3,7 @@ type: oplegnotitie
 klant: VNC
 projectnummer: 26275
 status: actief
-laatste_update: 2026-04-27
+laatste_update: 2026-04-30
 risico: bestuurlijke inbedding gemeente Alkmaar intern onvoldoende
 ---
 
@@ -23,15 +23,15 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 
 | Naam | Organisatie | Rol in project | Opmerking |
 |---|---|---|---|
-| **Cinar Kutlu** | Gemeente Alkmaar | Opdrachtgever, sr. omgevingsregisseur warmtetransitie | Accordeert alle communicatie. Eerder ~10 jaar bij gemeente Amsterdam. Geboren en getogen in Alkmaar. |
+| **Cinar Kutlu** | Gemeente Alkmaar | Opdrachtgever, sr. omgevingsregisseur warmtetransitie | Accordeert alle communicatie. E-mail: CKutlu@alkmaar.nl, tel. 06 347 36 625. Werkdagen: ma-di-wo-do. Vakantie 11–15 mei 2026. |
 | **Arja de Waal** | BMC (zelfstandig) | Onafhankelijk procesbegeleider, werkgroepbegeleider | Ervaring met RES-trajecten bij gemeenten (o.a. Heumen). Sterk in snel schakelen en betrokkenen centraal stellen. Aanbevolen door Jaap de Graaf (gem.secr. Heumen). |
-| **Daisy Hoogervorst** | Gemeente Alkmaar | Projectbegeleider (opvolger Cher Spigt) | Nieuw per april 2026. Achtergrond: HKU, financieel-administratief. Eerste mail 29-04-2026. |
+| **Daisy Hoogervorst** | Gemeente Alkmaar | Projectbegeleider (opvolger Cher Spigt) | Nieuw per april 2026. E-mail: dhoogervorst@alkmaar.nl. Achtergrond: HKU, financieel-administratief. Eerste mail 29-04-2026. |
 | **Eline Burger** | TheEarlybirds / BWW | Directeur en co-founder BWW en TheEarlybirds | Portaaldemo's, instructiesessies, technische vragen BWW/COLONY. Achtergrond: CE Delft, Witteveen+Bos. BWW wordt ingezet door 10+ gemeenten. |
 | **Petra** | Gemeente Alkmaar | Eindverantwoordelijke Duurzaam Alkmaar | Alle communicatiemiddelen onder DA-vlag ter check bij haar. Beheert waarschijnlijk ook de website. Achternaam nog onbekend. |
 | **Emma van der Elst** | Gemeente Alkmaar | Contactpersoon participatie | Afstemming participatieluik vóór uitvoering. Cinar schakelt, Sicko in de loop. |
 | **Baris Kurkcu** | Gemeente Alkmaar | Beleidsadviseur warmtetransitie | — |
 | **Nikki Natzijl** | Fotograaf | Fotografieopdracht | Prijsopgave gevraagd. Focus op straatbeeld, niet op individuele woningen. |
-| **Delta3** | Gemeente Alkmaar (intern bureau) | Strategie, communicatie, design | Alle uitingen in gemeentelijke huisstijl lopen via Delta3. Briefing via formulier, kostenplaatsnummer verplicht. E-mail: account@delta3.nl, tel. 070 7890190. Drukwerk besteden zij uit aan ADC (contractpartner gemeente). Teksten aanleveren in Word, B1-niveau. Foto's 300dpi, los van tekst. |
+| **Delta3** | Gemeente Alkmaar (intern bureau) | Strategie, communicatie, design | Alle uitingen in gemeentelijke huisstijl lopen via Delta3. Briefing via formulier. **Kostenplaats: E560403 ovv SP564063.** E-mail: account@delta3.nl, tel. 070 7890190. Drukwerk via ADC (contractpartner gemeente). Teksten in Word/B1-niveau, foto's 300dpi los van tekst. |
 
 ### Vertrokken
 
@@ -50,7 +50,8 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 - [x] Wervingsflyer Huiswerkcommissie: tekst + ontwerp #task #project/26275 ⏫ 📅 2026-05-05 ✅ 2026-04-29
 - [ ] Landingspagina tekst definitief aanleveren voor dorpsraadwebsite #task #project/26275 📅 2026-05-05 ⏫
 - [ ] Poster (raam + driehoeksbord): ontwerp op basis van VONC-vormentaal #task #project/26275 📅 2026-05-09
-- [ ] Communicatieplan v07 definitief accorderen met Cinar #task #project/26275 📅 2026-05-01 ⏫
+- [x] Communicatieplan v08 geaccordeerd door Cinar #task #project/26275 📅 2026-05-01 ✅ 2026-04-30
+- [ ] Wervingsflyer v03 naar Delta3: voorkantfoto behouden, achterkant koffiekopje vervangen door illustraties typerende huizen Graft-de Rijp. Eerst check bij Petra. #task #project/26275 ⏫ 📅 2026-05-01
 
 ### Platformkennis — deze week (wk 18)
 
@@ -77,7 +78,7 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 - [ ] Bestuurlijk commitment WUP en fasering afstemmen met Cinar — zie ⚠️ risico #task #project/26275 ⏫
 - [ ] Openstaande communicatierol gemeente (opvolger Suzanne) signaleren bij Cinar #task #project/26275
 - [ ] Schrijf-/ontwerpcapaciteit regelen (Chantal en Suzanne niet meer beschikbaar) #task #project/26275 ⏫
-- [ ] Routing communicatiemiddelen in kaart brengen: wie levert wat aan, via Delta3 of VONC, wie accordeert, wie drukt? Kostenplaatsnummer regelen bij Cinar #task #project/26275 ⏫
+- [ ] Routing communicatiemiddelen in kaart brengen: wie levert wat aan, via Delta3 of VONC, wie accordeert, wie drukt? Kostenplaats: E560403 ovv SP564063 (ontvangen 30-04) #task #project/26275 ⏫
 
 ### Later (na werving)
 
@@ -123,9 +124,12 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 | 26 november 2025 | Offerte BMC/Arja de Waal ingediend |
 | Februari 2026 | Start Sicko als procesbegeleider |
 | 2 april 2026 | Communicatieplan v07 vastgesteld |
+| 30 april 2026 | Communicatieplan v08 geaccordeerd door Cinar |
 | 21 april 2026 | NPLW-leerkring communicatie Heerenveen (Sicko aanwezig) |
 | 23 april 2026 | Portaldemo met Eline Burger (TheEarlybirds) |
+| 30 april 2026 | Communicatieplan v08 akkoord Cinar. Kostenplaats Delta3 ontvangen (E560403) |
 | Wk 18–19 (28 apr–9 mei) | Wervingsmateriaal gereed: flyer, landingspagina, poster |
+| 11–15 mei 2026 | ⚠️ Vakantie Cinar — geen checks op teksten mogelijk |
 | **Mei 2026** | **Start wervingsfase Huiswerkcommissie — Arja de wijk in** |
 | **Week 23 (begin juni)** | **Beoogde eerste bijeenkomst werkgroep** |
 
