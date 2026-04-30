@@ -85,7 +85,7 @@ Eline schetst een oplopende intensiteit in drie ringen, die naadloos aansluit op
 Flyeren en aanbellen zijn pas zinvol in de laatste fase. Het portaal geeft inzicht in wie al heeft ingevuld — dat voorkomt onnodige bezoeken.
 
 **Extra middelen beschikbaar in het portaal:**
-- Drie korte filmpjes (bij lancering, twee tot vier weken erna, bij fase 2) — gemaakt met Fonk; te verspreiden via WhatsApp, Facebook, etc.
+- Drie korte filmpjes (bij lancering, twee tot vier weken erna, bij fase 2) — gemaakt met VONC; te verspreiden via WhatsApp, Facebook, etc.
 - Contentkalender (downloadbaar)
 - Activiteitenkalender en draaiboek
 - Voorbeeldbrieven (Gouda, Almere, Wijk bij Duurstede)

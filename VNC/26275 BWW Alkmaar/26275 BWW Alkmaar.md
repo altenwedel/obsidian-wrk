@@ -31,6 +31,7 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 | **Emma van der Elst** | Gemeente Alkmaar | Contactpersoon participatie | Afstemming participatieluik vóór uitvoering. Cinar schakelt, Sicko in de loop. |
 | **Baris Kurkcu** | Gemeente Alkmaar | Beleidsadviseur warmtetransitie | — |
 | **Nikki Natzijl** | Fotograaf | Fotografieopdracht | Prijsopgave gevraagd. Focus op straatbeeld, niet op individuele woningen. |
+| **Delta3** | Gemeente Alkmaar (intern bureau) | Strategie, communicatie, design | Alle uitingen in gemeentelijke huisstijl lopen via Delta3. Briefing via formulier, kostenplaatsnummer verplicht. E-mail: account@delta3.nl, tel. 070 7890190. Drukwerk besteden zij uit aan ADC (contractpartner gemeente). Teksten aanleveren in Word, B1-niveau. Foto's 300dpi, los van tekst. |
 
 ### Vertrokken
 
@@ -48,7 +49,7 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 
 - [x] Wervingsflyer Huiswerkcommissie: tekst + ontwerp #task #project/26275 ⏫ 📅 2026-05-05 ✅ 2026-04-29
 - [ ] Landingspagina tekst definitief aanleveren voor dorpsraadwebsite #task #project/26275 📅 2026-05-05 ⏫
-- [ ] Poster (raam + driehoeksbord): ontwerp op basis van Fonk-vormentaal #task #project/26275 📅 2026-05-09
+- [ ] Poster (raam + driehoeksbord): ontwerp op basis van VONC-vormentaal #task #project/26275 📅 2026-05-09
 - [ ] Communicatieplan v07 definitief accorderen met Cinar #task #project/26275 📅 2026-05-01 ⏫
 
 ### Platformkennis — deze week (wk 18)
@@ -76,6 +77,7 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 - [ ] Bestuurlijk commitment WUP en fasering afstemmen met Cinar — zie ⚠️ risico #task #project/26275 ⏫
 - [ ] Openstaande communicatierol gemeente (opvolger Suzanne) signaleren bij Cinar #task #project/26275
 - [ ] Schrijf-/ontwerpcapaciteit regelen (Chantal en Suzanne niet meer beschikbaar) #task #project/26275 ⏫
+- [ ] Routing communicatiemiddelen in kaart brengen: wie levert wat aan, via Delta3 of VONC, wie accordeert, wie drukt? Kostenplaatsnummer regelen bij Cinar #task #project/26275 ⏫
 
 ### Later (na werving)
 

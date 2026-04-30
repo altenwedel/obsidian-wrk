@@ -26,9 +26,9 @@ Belangrijk onderscheid: de **startbrief met QR-codes** (voor alle bewoners, om d
 
 | # | Deliverable | Wat het is | Afhankelijk van | Deadline |
 |---|---|---|---|---|
-| 1 | **Wervingsflyer** | A5/A4, tweezijdig. Wat is het Warmteplan, wat doet de Huiswerkcommissie, hoe meld je je aan. Inclusief: je hoeft geen techneut te zijn. | Communicatieplan v07, Fonk-vormentaal | Wk 19 |
+| 1 | **Wervingsflyer** | A5/A4, tweezijdig. Wat is het Warmteplan, wat doet de Huiswerkcommissie, hoe meld je je aan. Inclusief: je hoeft geen techneut te zijn. | Communicatieplan v07, VONC-vormentaal | Wk 19 |
 | 2 | **Landingspagina** | Tekst voor dorpsraadwebsite. Korte introductie + aanmeldmogelijkheid + contactgegevens. | Communicatieplan v07 | Wk 18–19 |
-| 3 | **Poster** | Raamposter voor bewoners + eventueel driehoeksbord. Visueel aantrekkelijk, herkenbaar beeld uit het gebied. | Fonk-vormentaal, foto's gebied | Wk 19–20 |
+| 3 | **Poster** | Raamposter voor bewoners + eventueel driehoeksbord. Visueel aantrekkelijk, herkenbaar beeld uit het gebied. | VONC-vormentaal, foto's gebied | Wk 19–20 |
 
 **Wat Arja meeneemt de wijk in:** flyer + mondeling verhaal + verwijzing naar landingspagina. De poster hangt op centrale plekken en bij ambassadeurs voor het raam.
 
