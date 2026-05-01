@@ -2,7 +2,7 @@
 type: index
 project: 26275
 onderwerp: Brondocumenten BWW Graft-de Rijp
-laatste_update: 2026-04-27
+laatste_update: 2026-05-01
 ---
 
 # 20 Brondocumenten
@@ -13,7 +13,7 @@ Brondocumenten voor het project BWW Graft-de Rijp (26275). Dit zijn notities, ve
 
 | Datum | Document | Onderwerp |
 |---|---|---|
-| 26-02-2026 | [[260226-running-notes-cher-spigt]] | Running notes kennismaking Sicko met Cher Spigt — oorspronkelijke projectopzet en tijdlijn |
+| 06-2025 t/m 03-2026 | [[250604-260319-running-notes-cher-spigt]] | Running notes tweewekelijks projectteamoverleg — 17 overleggen, incl. herstart januari 2026 |
 | 26-03-2026 | [[260326-inventaris-blauwdruk-suzanne]] | Inventarisatie feedback-map Suzanne Leguijt — 7 documenten beoordeeld op bruikbaarheid |
 | 13-04-2026 | [[260413-notities-marketresponse-bsr]] | Notities presentatie MarketResponse BSR-segmentatie en TU Delft Energy Twin |
 | 22-04-2026 | [[260422-blauwdruk-communicatie-buurtaanpak-suzanne]] | Analyse blauwdruk communicatie buurtaanpak (Suzanne Leguijt, Factor C-methode) |

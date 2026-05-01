@@ -6,9 +6,13 @@ aanwezig: Baris Kurkcu, Cinar Kutlu, Cher Spigt, Sicko van Dijk
 onderwerp: Kennismaking Sicko — running notes projectoverleg
 bron: "VNC 260304 verslag cher.txt (e-mail Cher Spigt, 4 maart 2026)"
 tags: [verslag, running-notes, kennismaking]
+status: vervangen
+vervangen_door: "[[250604-260319-running-notes-cher-spigt]]"
 ---
 
-# 260226 — Running notes projectoverleg BWW Graft-de Rijp
+# ~~260226 — Running notes projectoverleg BWW Graft-de Rijp~~
+
+> **Let op:** Dit verslag is geïntegreerd in [[250604-260319-running-notes-cher-spigt]] (het volledige running-notes-document). Gebruik dat bestand als bron.
 
 Verslag opgesteld door Cher Spigt (PMO POCITYF, gemeente Alkmaar). Verzonden per e-mail op 4 maart 2026 aan Sicko van Dijk, Cinar Kutlu, Baris Kurkcu en Arja de Waal. CC: Arnold Burger (TheEarlybirds).
 
