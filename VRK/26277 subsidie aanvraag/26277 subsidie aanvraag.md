@@ -27,7 +27,7 @@ Status: project bevindt zich in fase 3 (productie). Storyboard v01 is op 23 apri
 - [x] Voice-over opname 14 mei reserveren bij Danique Bauer (reserve 19 mei) #task #project/26277 📅 2026-05-03 ✅ 2026-04-28
 - [x] Foto GGD-adviseur (Lidya als referentie) verwerken in karakterontwerp #task #project/26277 📅 2026-05-03 ✅ 2026-04-29
 - [x] Foto's GGD-adviseur opslaan in `20 brondocumenten/260427-fotos-ggd-adviseur/assets/` #task #project/26277 ✅ 2026-04-27
-- [ ] Eventueel afstemming met Lidya plannen vóór 7 mei #task #project/26277 📅 2026-05-06
+- [x] Eventueel afstemming met Lidya plannen vóór 7 mei #task #project/26277 📅 2026-05-06 ✅ 2026-05-01
 - [ ] Voorlopige voice-over met AI-stem genereren voor proefklankbordgroep #task #project/26277 📅 2026-05-06
 - [ ] Op 7 mei animatie tonen aan proefklankbordgroep (acht deelnemers) #task #project/26277 📅 2026-05-07
 - [ ] Definitieve voice-overtekst vaststellen met Lidya, na proef 7 mei #task #project/26277 📅 2026-05-12

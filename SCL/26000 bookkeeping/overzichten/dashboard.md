@@ -1,8 +1,8 @@
-# Facturen Dashboard
+# Dashboard Studio Claro
 
 ---
 
-## Open
+## Actie nodig
 
 ```dataviewjs
 function eur(n) {
@@ -10,46 +10,102 @@ function eur(n) {
 }
 function kort(d) {
     if (!d) return "—";
-    if (typeof d === "string") return d.slice(5);
-    return String(d.month).padStart(2,'0') + "-" + String(d.day).padStart(2,'0');
+    if (typeof d === "string") { let p = d.split("-"); return p[2] + "-" + p[1]; }
+    return String(d.day).padStart(2,'0') + "-" + String(d.month).padStart(2,'0');
+}
+function dagen(d) {
+    let dt = typeof d === "string" ? new Date(d) : d.toJSDate();
+    return Math.floor((Date.now() - dt.getTime()) / 86400000);
+}
+
+const files = dv.pages().where(p => p.file.name.startsWith("facturen-") && p.facturen);
+let alle = [];
+for (let file of files) { for (let f of file.facturen) alle.push(f); }
+
+// Over termijn
+let over = alle.filter(f => (f.status === "openstaand" || f.status === "herinnering") && dagen(f.datum) > f.termijn);
+over.sort((a, b) => dagen(b.datum) - dagen(a.datum));
+
+// Bijna over termijn (binnen 5 dagen)
+let bijna = alle.filter(f => f.status === "openstaand" && dagen(f.datum) <= f.termijn && dagen(f.datum) >= f.termijn - 5);
+
+// Betaald zonder betaaldatum
+let geenDatum = alle.filter(f => f.status === "betaald" && (!f.betaaldatum || f.betaaldatum === ""));
+
+if (over.length > 0) {
+    dv.header(4, "Over betalingstermijn");
+    dv.table(["Factuur", "Datum", "Totaal", "Dagen over"],
+        over.map(f => [f.nr, kort(f.datum), eur(f.totaal), (dagen(f.datum) - f.termijn) + " dagen"])
+    );
+}
+
+if (bijna.length > 0) {
+    dv.header(4, "Bijna over termijn");
+    dv.table(["Factuur", "Datum", "Totaal", "Nog"],
+        bijna.map(f => [f.nr, kort(f.datum), eur(f.totaal), (f.termijn - dagen(f.datum)) + " dagen"])
+    );
+}
+
+if (geenDatum.length > 0) {
+    dv.header(4, "Betaald zonder betaaldatum");
+    dv.paragraph("Bij " + geenDatum.length + " facturen ontbreekt de betaaldatum. Dit vertekent de gemiddelde betaaltermijn.");
+}
+
+if (over.length === 0 && bijna.length === 0 && geenDatum.length === 0) {
+    dv.paragraph("Geen openstaande acties.");
+}
+```
+
+---
+
+## Liquiditeit
+
+```dataviewjs
+function eur(n) {
+    return '<span style="display:inline-block;width:100%;text-align:right">€ ' + n.toLocaleString('nl-NL', {minimumFractionDigits: 2, maximumFractionDigits: 2}) + '</span>';
+}
+function dagen(d) {
+    let dt = typeof d === "string" ? new Date(d) : d.toJSDate();
+    return Math.floor((Date.now() - dt.getTime()) / 86400000);
 }
 
 const files = dv.pages().where(p => p.file.name.startsWith("facturen-") && p.facturen);
 let open = [];
 for (let file of files) {
     for (let f of file.facturen) {
-        if (f.status === "openstaand" || f.status === "herinnering") {
-            open.push(f);
-        }
+        if (f.status === "openstaand" || f.status === "herinnering") open.push(f);
     }
 }
-open.sort((a, b) => dv.compare(a.datum, b.datum));
 
-if (open.length === 0) {
-    dv.paragraph("*Alles betaald!*");
+let totaalOpen = open.reduce((s, f) => s + f.totaal, 0);
+let teLaat = open.filter(f => dagen(f.datum) > f.termijn).reduce((s, f) => s + f.totaal, 0);
+let verwachtBinnen14 = open.filter(f => dagen(f.datum) <= f.termijn && f.termijn - dagen(f.datum) <= 14).reduce((s, f) => s + f.totaal, 0);
+let verwachtLater = open.filter(f => dagen(f.datum) <= f.termijn && f.termijn - dagen(f.datum) > 14).reduce((s, f) => s + f.totaal, 0);
+
+dv.table(["", ""], [
+    ["Totaal openstaand", eur(totaalOpen)],
+    ["Waarvan te laat", eur(teLaat)],
+    ["Verwacht binnen 14 dagen", eur(verwachtBinnen14)],
+    ["Verwacht later", eur(verwachtLater)],
+]);
+
+// Interpretatie
+let beoordeling;
+if (teLaat === 0 && totaalOpen < 5000) {
+    beoordeling = "**Rustig.** Geen achterstallige betalingen en het openstaande bedrag is beheersbaar.";
+} else if (teLaat > 0 && teLaat < 3000) {
+    beoordeling = "**Opletten.** Er staat een beperkt bedrag achterstallig open. Stuur een herinnering.";
+} else if (teLaat >= 3000 || totaalOpen > 15000) {
+    beoordeling = "**Actie nodig.** Het achterstallige bedrag is substantieel. Neem contact op met de betreffende klanten.";
 } else {
-    let totaal = open.reduce((sum, f) => sum + f.totaal, 0);
-    dv.table(
-        ["Factuur", "Datum", "Totaal", "⏱"],
-        open.map(f => {
-            let dagen;
-            if (typeof f.datum === "string") {
-                dagen = Math.floor((Date.now() - new Date(f.datum).getTime()) / 86400000);
-            } else {
-                dagen = Math.floor((Date.now() - f.datum.toJSDate().getTime()) / 86400000);
-            }
-            let late = dagen > f.termijn;
-            let status = late ? "🔴 " + (dagen - f.termijn) + "d over" : (dagen + "/" + f.termijn + "d");
-            return [f.nr, kort(f.datum), eur(f.totaal), status];
-        })
-    );
-    dv.paragraph(`**Totaal open: ${eur(totaal)}**`);
+    beoordeling = "**Opletten.** Houd de betalingen in de gaten.";
 }
+dv.paragraph(beoordeling);
 ```
 
 ---
 
-## Hoe gaat het met de zaak?
+## Omzet per maand
 
 ```dataviewjs
 function eur(n) {
@@ -58,101 +114,140 @@ function eur(n) {
 
 const thisYear = dv.page("facturen-2026");
 const lastYear = dv.page("facturen-2025");
-
-if (!thisYear || !thisYear.facturen) {
-    dv.paragraph("*Geen data voor huidig jaar.*");
-} else {
-    let facts = thisYear.facturen.filter(f => f.type !== "creditnota");
-    let totalExcl = facts.reduce((s, f) => s + f.subtotaal, 0);
-    let totalIncl = facts.reduce((s, f) => s + f.totaal, 0);
-    let openBedrag = facts.filter(f => f.status === "openstaand" || f.status === "herinnering").reduce((s, f) => s + f.totaal, 0);
-    let betaaldBedrag = facts.filter(f => f.status === "betaald").reduce((s, f) => s + f.totaal, 0);
+if (!thisYear || !thisYear.facturen) { dv.paragraph("*Geen data.*"); } else {
+    let maanden = ["jan", "feb", "mrt", "apr", "mei", "jun", "jul", "aug", "sep", "okt", "nov", "dec"];
+    let mOmzet = Array(12).fill(0);
+    let mOmzetVJ = Array(12).fill(0);
     
-    // Maanden verstreken (jan=1 t/m huidige maand)
-    let now = new Date();
-    let maanden = now.getMonth() + 1; // 1-indexed
-    let maandgemiddelde = totalExcl / maanden;
-    let prognoseJaar = maandgemiddelde * 12;
-    
-    // Vergelijking met vorig jaar
-    let lastYearTotal = 0;
-    let lastYearSamePeriod = 0;
-    if (lastYear && lastYear.facturen) {
-        let lyFacts = lastYear.facturen.filter(f => f.type !== "creditnota");
-        lastYearTotal = lyFacts.reduce((s, f) => s + f.subtotaal, 0);
-        lastYearSamePeriod = lyFacts.filter(f => {
-            let m = typeof f.datum === "string" ? parseInt(f.datum.split("-")[1]) : f.datum.month;
-            return m <= maanden;
-        }).reduce((s, f) => s + f.subtotaal, 0);
+    for (let f of thisYear.facturen) {
+        if (f.type === "creditnota") continue;
+        let m = (typeof f.datum === "string" ? parseInt(f.datum.split("-")[1]) : f.datum.month) - 1;
+        mOmzet[m] += f.subtotaal;
     }
     
-    let groei = lastYearSamePeriod > 0 ? ((totalExcl - lastYearSamePeriod) / lastYearSamePeriod * 100) : 0;
-    let groeiIcon = groei >= 0 ? "📈" : "📉";
+    if (lastYear && lastYear.facturen) {
+        for (let f of lastYear.facturen) {
+            if (f.type === "creditnota") continue;
+            let m = (typeof f.datum === "string" ? parseInt(f.datum.split("-")[1]) : f.datum.month) - 1;
+            mOmzetVJ[m] += f.subtotaal;
+        }
+    }
     
-    // Klantconcentratie
+    let now = new Date();
+    let huidigeMaand = now.getMonth(); // 0-indexed
+    let actieveMaanden = huidigeMaand + 1;
+    let totaal = mOmzet.reduce((s, v) => s + v, 0);
+    let gemiddelde = totaal / actieveMaanden;
+    let max = Math.max(...mOmzet.filter((v, i) => i <= huidigeMaand));
+    
+    // Tekstuele staafjes
+    function balk(waarde, maximum) {
+        if (maximum === 0) return "";
+        let len = Math.round((waarde / maximum) * 20);
+        return "█".repeat(len) + "░".repeat(20 - len);
+    }
+    
+    let rows = [];
+    for (let i = 0; i <= huidigeMaand; i++) {
+        let delta = mOmzetVJ[i] > 0 ? ((mOmzet[i] - mOmzetVJ[i]) / mOmzetVJ[i] * 100) : 0;
+        let deltaStr = mOmzetVJ[i] > 0 ? ((delta >= 0 ? "+" : "") + delta.toFixed(0) + "%") : "—";
+        rows.push([maanden[i], balk(mOmzet[i], max), eur(mOmzet[i]), deltaStr]);
+    }
+    rows.push(["**gem.**", "", eur(gemiddelde), ""]);
+    
+    dv.table(["Maand", "", "Excl. BTW", "vs 2025"], rows);
+    
+    // Koersbeoordeling
+    let totaalVJzp = mOmzetVJ.slice(0, actieveMaanden).reduce((s, v) => s + v, 0);
+    let koers = totaalVJzp > 0 ? ((totaal - totaalVJzp) / totaalVJzp * 100) : 0;
+    let prognose = gemiddelde * 12;
+    
+    if (koers >= 5) {
+        dv.paragraph("**Op koers.** De omzet ligt " + koers.toFixed(0) + "% hoger dan dezelfde periode vorig jaar. Jaarprognose: " + eur(prognose) + ".");
+    } else if (koers >= -5) {
+        dv.paragraph("**Stabiel.** De omzet is vergelijkbaar met vorig jaar (" + (koers >= 0 ? "+" : "") + koers.toFixed(0) + "%). Jaarprognose: " + eur(prognose) + ".");
+    } else {
+        dv.paragraph("**Onder koers.** De omzet ligt " + Math.abs(koers).toFixed(0) + "% lager dan vorig jaar. Jaarprognose: " + eur(prognose) + ". Overweeg of dit een tijdelijke dip is of bijsturing nodig is.");
+    }
+}
+```
+
+---
+
+## Klantafhankelijkheid
+
+```dataviewjs
+function eur(n) {
+    return '<span style="display:inline-block;width:100%;text-align:right">€ ' + n.toLocaleString('nl-NL', {minimumFractionDigits: 2, maximumFractionDigits: 2}) + '</span>';
+}
+
+const file = dv.page("facturen-2026");
+if (!file || !file.facturen) { dv.paragraph("*Geen data.*"); } else {
     let klanten = {};
-    for (let f of facts) {
+    for (let f of file.facturen) {
+        if (f.type === "creditnota") continue;
         if (!klanten[f.klant]) klanten[f.klant] = 0;
         klanten[f.klant] += f.subtotaal;
     }
-    let topKlant = Object.entries(klanten).sort((a,b) => b[1] - a[1])[0];
-    let concentratie = topKlant ? (topKlant[1] / totalExcl * 100) : 0;
+    let total = Object.values(klanten).reduce((s, v) => s + v, 0);
+    let sorted = Object.entries(klanten).sort((a, b) => b[1] - a[1]);
     
-    // Gemiddelde betaaltermijn (werkelijke dagen)
-    let betaaldeFacts = thisYear.facturen.filter(f => f.betaaldatum && f.betaaldatum !== "");
-    let gemTermijn = 0;
-    if (betaaldeFacts.length > 0) {
-        let totDagen = 0;
-        for (let f of betaaldeFacts) {
-            let facDatum = typeof f.datum === "string" ? new Date(f.datum) : f.datum.toJSDate();
-            let betDatum = typeof f.betaaldatum === "string" ? new Date(f.betaaldatum) : f.betaaldatum.toJSDate();
-            totDagen += Math.floor((betDatum - facDatum) / 86400000);
-        }
-        gemTermijn = Math.round(totDagen / betaaldeFacts.length);
-    }
-
-    dv.header(4, "Kerngetallen 2026");
-    dv.table(["", ""], [
-        ["Omzet YTD (excl. BTW)", eur(totalExcl)],
-        ["Maandgemiddelde", eur(maandgemiddelde)],
-        ["Jaarprognose (x12)", eur(prognoseJaar)],
-        [groeiIcon + " t.o.v. 2025 (zelfde periode)", (groei >= 0 ? "+" : "") + groei.toFixed(1) + "%"],
-        ["Openstaand", eur(openBedrag)],
-        ["Gem. betaaltermijn", gemTermijn + " dagen"],
-    ]);
-
-    dv.header(4, "Risico-indicatoren");
-    let risicoItems = [];
-    if (concentratie > 60) {
-        risicoItems.push("⚠️ **Klantconcentratie:** " + topKlant[0] + " is " + concentratie.toFixed(0) + "% van je omzet");
-    }
-    if (openBedrag > maandgemiddelde * 1.5) {
-        risicoItems.push("⚠️ **Openstaand bedrag** is meer dan 1,5x je maandgemiddelde");
-    }
-    if (gemTermijn > 30) {
-        risicoItems.push("⚠️ **Trage betalers:** gemiddeld " + gemTermijn + " dagen — overweeg herinneringen");
-    }
+    // Top 3
+    let top3 = sorted.slice(0, 3);
+    let top3Aandeel = top3.reduce((s, k) => s + k[1], 0) / total * 100;
     
-    let gezondItems = [];
-    if (concentratie <= 60) {
-        gezondItems.push("✅ Klantspreiding is gezond (" + concentratie.toFixed(0) + "% bij grootste klant)");
-    }
-    if (groei > 0) {
-        gezondItems.push("✅ Omzet groeit t.o.v. vorig jaar");
-    }
-    if (gemTermijn <= 30) {
-        gezondItems.push("✅ Betalingen komen gemiddeld binnen " + gemTermijn + " dagen");
-    }
+    dv.table(["Klant", "Omzet excl. BTW", "Aandeel"],
+        sorted.map(([klant, bedrag]) => [klant, eur(bedrag), (bedrag/total*100).toFixed(0) + "%"])
+    );
     
-    if (risicoItems.length > 0) dv.paragraph(risicoItems.join("\n\n"));
-    if (gezondItems.length > 0) dv.paragraph(gezondItems.join("\n\n"));
+    // Interpretatie
+    let topAandeel = sorted[0][1] / total * 100;
+    let topNaam = sorted[0][0];
+    
+    if (topAandeel > 70) {
+        dv.paragraph("**Hoog risico.** " + topNaam + " vertegenwoordigt " + topAandeel.toFixed(0) + "% van de omzet. Als deze klant wegvalt, ontstaat direct een probleem. Actief werken aan diversificatie is verstandig.");
+    } else if (topAandeel > 50) {
+        dv.paragraph("**Aandachtspunt.** " + topNaam + " is goed voor " + topAandeel.toFixed(0) + "% van de omzet. Dat is een stevige afhankelijkheid. Probeer de andere klantrelaties te versterken.");
+    } else {
+        dv.paragraph("**Gezonde spreiding.** De grootste klant (" + topNaam + ") vertegenwoordigt " + topAandeel.toFixed(0) + "% van de omzet. Geen directe zorg.");
+    }
+}
+```
 
-    // Vergelijking vorig jaar
-    if (lastYearTotal > 0) {
-        dv.header(4, "Jaarvergelijking");
-        dv.table(["", "2025 (heel jaar)", "2026 (t/m nu)", "Prognose 2026"], [
-            ["Omzet excl. BTW", eur(lastYearTotal), eur(totalExcl), eur(prognoseJaar)],
-        ]);
+---
+
+## Werksoort
+
+```dataviewjs
+function eur(n) {
+    return '<span style="display:inline-block;width:100%;text-align:right">€ ' + n.toLocaleString('nl-NL', {minimumFractionDigits: 2, maximumFractionDigits: 2}) + '</span>';
+}
+
+const file = dv.page("facturen-2026");
+if (!file || !file.facturen) { dv.paragraph("*Geen data.*"); } else {
+    let types = {};
+    for (let f of file.facturen) {
+        let t = f.type || "overig";
+        if (!types[t]) types[t] = {subtotaal: 0, count: 0};
+        types[t].subtotaal += f.subtotaal;
+        types[t].count++;
+    }
+    let total = Object.values(types).reduce((s, t) => s + t.subtotaal, 0);
+    
+    let labels = {"werkzaamheden": "Werkzaamheden", "onkosten": "Onkosten", "gemengd": "Gemengd", "creditnota": "Creditnota", "overig": "Overig"};
+    let rows = Object.entries(types)
+        .sort((a, b) => b[1].subtotaal - a[1].subtotaal)
+        .map(([type, data]) => [labels[type] || type, eur(data.subtotaal), (data.subtotaal/total*100).toFixed(0) + "%", data.count]);
+    
+    dv.table(["Type", "Excl. BTW", "Aandeel", "Facturen"], rows);
+    
+    let werkPct = (types["werkzaamheden"]?.subtotaal || 0) / total * 100;
+    let onkPct = (types["onkosten"]?.subtotaal || 0) / total * 100;
+    
+    if (werkPct > 70) {
+        dv.paragraph("Het overgrote deel van de omzet komt uit inhoudelijk werk. De doorbelaste kosten zijn relatief beperkt.");
+    } else if (onkPct > 30) {
+        dv.paragraph("Een aanzienlijk deel (" + onkPct.toFixed(0) + "%) bestaat uit doorbelaste onkosten. Check of de marge daarop voldoende is.");
     }
 }
 ```
@@ -167,9 +262,7 @@ function eur(n) {
 }
 
 const file = dv.page("facturen-2026");
-if (!file || !file.facturen) {
-    dv.paragraph("*Geen data.*");
-} else {
+if (!file || !file.facturen) { dv.paragraph("*Geen data.*"); } else {
     let q = {1: 0, 2: 0, 3: 0, 4: 0};
     let qCount = {1: 0, 2: 0, 3: 0, 4: 0};
     for (let f of file.facturen) {
@@ -194,39 +287,77 @@ if (!file || !file.facturen) {
 
 ---
 
-## Per klant
+## Maandnotitie
 
-```dataviewjs
-function eur(n) {
-    return '<span style="display:inline-block;width:100%;text-align:right">€ ' + n.toLocaleString('nl-NL', {minimumFractionDigits: 2, maximumFractionDigits: 2}) + '</span>';
-}
+Vul hieronder per maand kort in. Kost twee minuten, levert veel op als je later terugkijkt.
 
-const file = dv.page("facturen-2026");
-if (!file || !file.facturen) {
-    dv.paragraph("*Geen data.*");
-} else {
-    let klanten = {};
-    for (let f of file.facturen) {
-        if (f.type === "creditnota") continue;
-        if (!klanten[f.klant]) klanten[f.klant] = {subtotaal: 0, count: 0};
-        klanten[f.klant].subtotaal += f.subtotaal;
-        klanten[f.klant].count++;
-    }
-    let total = Object.values(klanten).reduce((s, k) => s + k.subtotaal, 0);
-    let rows = Object.entries(klanten)
-        .sort((a, b) => b[1].subtotaal - a[1].subtotaal)
-        .map(([klant, data]) => [klant, eur(data.subtotaal), (data.subtotaal/total*100).toFixed(0) + "%", data.count]);
-    
-    dv.table(["Klant", "Omzet excl. BTW", "Aandeel", "Facturen"], rows);
-}
-```
+### Januari
+- **Wat valt op?**
+- **Waar stuur ik op?**
+- **Actie komende maand:**
+
+### Februari
+- **Wat valt op?**
+- **Waar stuur ik op?**
+- **Actie komende maand:**
+
+### Maart
+- **Wat valt op?**
+- **Waar stuur ik op?**
+- **Actie komende maand:**
+
+### April
+- **Wat valt op?**
+- **Waar stuur ik op?**
+- **Actie komende maand:**
+
+### Mei
+- **Wat valt op?**
+- **Waar stuur ik op?**
+- **Actie komende maand:**
+
+### Juni
+- **Wat valt op?**
+- **Waar stuur ik op?**
+- **Actie komende maand:**
+
+### Juli
+- **Wat valt op?**
+- **Waar stuur ik op?**
+- **Actie komende maand:**
+
+### Augustus
+- **Wat valt op?**
+- **Waar stuur ik op?**
+- **Actie komende maand:**
+
+### September
+- **Wat valt op?**
+- **Waar stuur ik op?**
+- **Actie komende maand:**
+
+### Oktober
+- **Wat valt op?**
+- **Waar stuur ik op?**
+- **Actie komende maand:**
+
+### November
+- **Wat valt op?**
+- **Waar stuur ik op?**
+- **Actie komende maand:**
+
+### December
+- **Wat valt op?**
+- **Waar stuur ik op?**
+- **Actie komende maand:**
 
 ---
 
 ## Gebruik
 
-**Status bijwerken:** Open `facturen-2026.md`, pas in de frontmatter `status` aan naar `betaald` en vul `betaaldatum` in.
-
-**Nieuwe factuur:** Voeg een item toe aan de `facturen`-lijst in de frontmatter van het jaarbestand.
+**Maandelijks onderhoud (max 10 min):**
+1. Voeg nieuwe facturen toe aan de frontmatter van `facturen-2026.md`
+2. Werk betaalstatussen bij: `status: betaald` + `betaaldatum: YYYY-MM-DD`
+3. Vul desgewenst de maandnotitie in
 
 **Statuswaarden:** `openstaand` · `herinnering` · `betaald` · `verrekend`
