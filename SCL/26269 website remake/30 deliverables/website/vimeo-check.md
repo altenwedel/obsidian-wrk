@@ -35,7 +35,7 @@ Checklist voor het controleren van Vimeo-embeds in gepubliceerde berichten. Klik
 - [x] [Slimmer met je Energiedisplay](https://vimeo.com/759520701)
 - [x] [Sociaal Netwerk werkt bij Philadelphia](https://vimeo.com/118468639)
 - [x] [Stap voor stap energiearmoede aanpakken](https://vimeo.com/745716306)
-- [ ] [Stemmen in je eigen taal](https://vimeo.com/680805978)
+- [x] [Stemmen in je eigen taal](https://vimeo.com/680805978)
 - [ ] [Zand in de gang hoort erbij (1)](https://vimeo.com/952648182)
 - [ ] [Zand in de gang hoort erbij (2)](https://vimeo.com/952648199)
 - [ ] [Zand in de gang hoort erbij (3)](https://vimeo.com/952649307)
