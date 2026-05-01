@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCL/26000 bookkeeping/00 project.md",
+                "file": "SCL/26000 bookkeeping/30 deliverables/dashboard-facturen.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "00 project"
+              "title": "dashboard-facturen"
             }
           }
         ]
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "affec8c40e509fea",
+  "active": "70f67c1108527cde",
   "lastOpenFiles": [
+    "SCL/26000 bookkeeping/30 deliverables/facturen-2025.md",
+    "SCL/26000 bookkeeping/30 deliverables/facturen-2026.md",
+    "SCL/26000 bookkeeping/30 deliverables/dashboard-facturen.md",
+    "SCL/26000 bookkeeping/00 project.md",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/20 brondocumenten.md",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/20 brondocumenten.md.tmp.33200.1777627145171",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/250604-260319-running-notes-cher-spigt.md.tmp.33200.1777627109190",
@@ -236,9 +241,6 @@
     "VNC/26275 BWW Alkmaar/30 deliverables/30 deliverables.md",
     "VNC/26275 BWW Alkmaar/lit",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/260326-inventaris-blauwdruk-suzanne.md",
-    "VNC/26275 BWW Alkmaar/20 brondocumenten/260413-notities-marketresponse-bsr.md",
-    "VNC/26275 BWW Alkmaar/20 brondocumenten/260422-blauwdruk-communicatie-buurtaanpak-suzanne.md",
-    "VNC/26275 BWW Alkmaar/20 brondocumenten/260423-verslag-portal-demo-earlybirds.md",
     "SCL/26269 website remake/30 deliverables/website/live",
     "SCL/26269 website remake/30 deliverables/website/archief",
     "SCL/26269 website remake/30 deliverables/website",

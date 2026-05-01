@@ -3,11 +3,11 @@ klant: SCL
 projectnummer: 26000
 projectnaam: bookkeeping
 volledige_naam: SCL 26000 bookkeeping
-status: placeholder
+status: actief
 gestart: 
 projectleider: Sicko van Dijk
 teams_pad: SCL - 26000 bookkeeping
-tags: [project, placeholder]
+tags: [project, actief]
 ---
 
 # SCL 26000 bookkeeping
