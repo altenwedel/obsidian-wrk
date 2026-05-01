@@ -28,25 +28,50 @@ Depublicatielijst: `SCL 25208 promotie Studio Claro/depublicatielijst-studio-cla
 
 ## Te doen
 
-- [ ] Mario-warmtenet artikel herschrijven volgens sterartikelformat (haak → context → aanpak → resultaat → inzicht) #task #project/26269 📅 2026-05-05
+### Prio 1 — Fundament: positionering en eerste publicaties (mei 2026)
+
+Zonder scherpe positionering schrijf je artikelen zonder richting. Zonder gepubliceerde artikelen is er niets om te delen.
+
+- [ ] Methode-naam formuleren voor Studio Claro-aanpak (snijvlak inclusief + visueel + participatie) #task #project/26269 📅 2026-05-05 ⏫
+- [ ] Pharos analyseren en inpassen in concurrentie- en positioneringsstrategie (Cowork) #task #project/26269 📅 2026-05-05
+- [ ] Mario-warmtenet artikel herschrijven volgens sterartikelformat #task #project/26269 📅 2026-05-05
 - [ ] Leusden-in-Balans artikel (260126) finaliseren en publicatieklaar maken #task #project/26269 📅 2026-05-05
+- [ ] Publicatiegids WordPress-HTML toepassen op eerste finaal artikel #task #project/26269 📅 2026-05-10
+- [ ] Over-ons pagina herschrijven op basis van positioneringsstrategie #task #project/26269 📅 2026-05-15
+
+### Prio 2 — Doorpakken: meer content en inzicht in het speelveld (mei-juni 2026)
+
+De volgende artikelen publiceren en het concurrentie-inzicht verdiepen zodat de toon en SEO kloppen.
+
 - [ ] Edam-Volendam/gemeenteraad artikel (260127) finaliseren en publicatieklaar maken #task #project/26269 📅 2026-05-10
 - [ ] Participatie zonder valse start artikel (260105) finaliseren en publicatieklaar maken #task #project/26269 📅 2026-05-10
-- [ ] mario.docx opnieuw ophalen uit Teams (bestand geeft I/O-fout bij conversie, mogelijk corrupt) #task #project/26269
-- [x] Bestaande websitepagina's importeren als markdown in Obsidian vault ✅ 2026-05-01 #task #project/26269
-- [ ] Serious games verzamelartikel schrijven (portefeuillespel, museumspel, zeppelinspel, bouwkunde) #task #project/26269 📅 2026-06-01
+- [ ] Taalanalyse concurrenten opzetten: websites van 8-10 concurrenten analyseren op toon, woordkeuze, zinsbouw, CTA's en framing #task #project/26269 📅 2026-05-10 ⏫
 - [ ] "Inclusive design voor Mijn Geld en Zo" opbeefen en publiceren #task #project/26269 📅 2026-05-15
-- [ ] Thema "overig" verfijnen voor ~112 posts zonder goede classificatie #task #project/26269
-- [ ] Publicatiegids WordPress-HTML toepassen op eerste finaal artikel #task #project/26269
-- [ ] Artikelstatus-dashboard aanmaken in 80 dashboards/ (Dataview query: concept → review → gepubliceerd) #task #project/26269
-- [ ] Promotiemateriaal inventariseren: welke video's, stickers en social content zijn klaar, welke in productie #task #project/26269
-- [ ] GitHub-repo SCL-26208-content-studioclaro synchroniseren met Obsidian-werkbestanden #task #project/26269
-- [ ] Methode-naam formuleren voor Studio Claro-aanpak (snijvlak inclusief + visueel + participatie) #task #project/26269 📅 2026-05-05 ⏫
-- [ ] Over-ons pagina herschrijven op basis van positioneringsstrategie #task #project/26269 📅 2026-05-15
+- [ ] Concurrentielandschap verder uitzoeken: welke partijen missen er nog? #task #project/26269 📅 2026-05-15
 - [ ] SEO-basisinrichting: meta-data, interne links, alt-teksten, sitemap #task #project/26269 📅 2026-06-01
+
+### Prio 3 — Verbreden: nieuwe artikelen en distributie (juni-juli 2026)
+
+Pas aan de orde als prio 1 en 2 staan. Nieuwe content en kanalen.
+
+- [ ] Serious games verzamelartikel schrijven (portefeuillespel, museumspel, zeppelinspel, bouwkunde) #task #project/26269 📅 2026-06-01
 - [ ] LinkedIn-contentstrategie starten: per sterartikel een LinkedIn-post #task #project/26269 📅 2026-06-01
 - [ ] Twee nieuwe AI-sterartikelen schrijven (Groningen persona's, virtueel testpanel) #task #project/26269 📅 2026-07-01
 - [ ] Concurrentieanalyse verdiepen met SEO-tools (zoekvolumes, ranking) #task #project/26269
+
+### Huishouden — als het uitkomt
+
+Nuttig maar niet urgent. Oppakken wanneer er een rustig moment is.
+
+- [ ] mario.docx opnieuw ophalen uit Teams (bestand geeft I/O-fout bij conversie, mogelijk corrupt) #task #project/26269
+- [ ] Thema "overig" verfijnen voor ~112 posts zonder goede classificatie #task #project/26269
+- [ ] Artikelstatus-dashboard aanmaken in 80 dashboards/ (Dataview query: concept → review → gepubliceerd) #task #project/26269
+- [ ] Promotiemateriaal inventariseren: welke video's, stickers en social content zijn klaar, welke in productie #task #project/26269
+- [ ] GitHub-repo SCL-26208-content-studioclaro synchroniseren met Obsidian-werkbestanden #task #project/26269
+
+### Afgerond
+
+- [x] Bestaande websitepagina's importeren als markdown in Obsidian vault ✅ 2026-05-01 #task #project/26269
 
 ## Bestanden
 
@@ -116,3 +141,16 @@ De Teams-folder bevat naast documenten ook productiebestanden die niet naar mark
 
 Originele Teams-folder: `C:\Users\HP\Studio Claro\SCL - 26269 website remake`
 Claude online project: SCL 25208 promotie Studio Claro (GitHub: altenwedel/SCL-26208-content-studioclaro)
+
+## Sessielog
+
+**2026-05-01 20:00**
+- WordPress XML-export (236 posts) geïmporteerd als markdown in `30 deliverables/website/`
+- YAML-frontmatter per post: title, post_id, status, actie, thema, klant, vimeo, samenvatting
+- Mapstructuur: `live/` (92 berichten) en `archief/` (144 berichten)
+- Coverpagina `website.md` met 7 Dataview-tabellen
+- ~100 concepten verwijderd uit WordPress in 7 batches, Obsidian per batch bijgewerkt
+- Posts gered voor herschrijven: Woonwaard portefeuillespel, Sociaal Netwerk Philadelphia, Inclusive design Mijn Geld en Zo
+- Vimeo-checklist gemaakt en door gebruiker gecontroleerd (30 URLs, alle werkend)
+- Obsidian Git plugin geïnstalleerd, vault naar github.com/altenwedel/obsidian-wrk
+- Depublicatielijst als xlsx aangemaakt

@@ -60,6 +60,18 @@ Studio Claro beweegt zich op het snijvlak van drie domeinen. Per domein zijn er 
 | **Storytelling Studios** | Video voor overheid en zorg | B1-video, vergelijkbaar product maar smaller: alleen video, geen strategie of participatie |
 | **Animaties voor Gemeenten (Explainsalot)** | Uitleganimaties gemeenten | Directe concurrent op animatie, maar zonder inclusie-onderbouwing of participatie-ervaring |
 
+### Kennisorganisaties en expertisecentra
+
+| Organisatie | Kern | Relevantie voor Studio Claro |
+|---|---|---|
+| **Pharos** | Expertisecentrum gezondheidsverschillen, Utrecht | Ontwikkelt checklists, toolkits en beeldverhalen voor begrijpelijke zorgcommunicatie. Werkt aan "gezondheidsvaardige organisaties." Geen bureau maar kennisinstelling — potentiële partner en autoriteit in het domein. |
+| **Stichting Lezen en Schrijven** | Kennisorganisatie laaggeletterdheid | Beleidsbeïnvloeding, testpanels, Direct Duidelijk. Geen uitvoerend bureau. |
+| **Movisie** | Kennisinstituut sociaal domein | Checklists inclusieve communicatie, onderzoek toegankelijke dienstverlening. Geen bureau. |
+
+**Patroon:** Deze organisaties zijn geen concurrenten maar referentiepunten. Ze bepalen de standaarden en taal in het domein. Pharos is de meest relevante: hun focus op begrijpelijke zorgcommunicatie en beeldverhalen raakt direct aan wat Studio Claro doet, maar dan vanuit een kennispositie in plaats van een uitvoerende rol. Samenwerking of verwijzing is waarschijnlijker dan concurrentie.
+
+**Nog te analyseren:** Hoe past Pharos precies in de positioneringsstrategie? Mogelijke rollen: als kennisbron waar Studio Claro naar verwijst in sterartikelen, als partner bij gezondheidsprojecten, als validatie van de inclusie-aanpak.
+
 ## 3. Studio Claro benchmark: huidige positie
 
 ### Wat de website nu laat zien

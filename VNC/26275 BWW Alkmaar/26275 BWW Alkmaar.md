@@ -92,10 +92,10 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 - [x] Weekplanning Q2 uitwerken per week (week 18 t/m 26) #task #project/26275 📅 2026-05-01 ✅ 2026-04-29
 - [ ] Stakeholderoverzicht v06 doorsturen naar Arja (via Cinar) #task #project/26275 📅 2026-05-04
 - [ ] Bestuurlijk commitment WUP en fasering afstemmen met Cinar — zie ⚠️ risico #task #project/26275 ⏫
-- [ ] Openstaande communicatierol gemeente (opvolger Suzanne) signaleren bij Cinar #task #project/26275
-- [ ] Schrijf-/ontwerpcapaciteit regelen (Chantal en Suzanne niet meer beschikbaar) #task #project/26275 ⏫
+- [x] Openstaande communicatierol gemeente (opvolger Suzanne) signaleren bij Cinar #task #project/26275 ✅ 2026-05-01
+- [x] Schrijf-/ontwerpcapaciteit regelen (Chantal en Suzanne niet meer beschikbaar) #task #project/26275 ⏫ ✅ 2026-05-01
 - [ ] Routing communicatiemiddelen in kaart brengen: wie levert wat aan, via Delta3 of VONC, wie accordeert, wie drukt? Kostenplaats: E560403 ovv SP564063 (ontvangen 30-04) #task #project/26275 ⏫
-- [ ] Gezamenlijke werkomgeving inrichten op SharePoint — iedereen kan uploaden en samenwerken #task #project/26275 📅 2026-05-09
+- [x] Gezamenlijke werkomgeving inrichten op SharePoint — iedereen kan uploaden en samenwerken #task #project/26275 📅 2026-05-09 ✅ 2026-05-01
 
 ### Later (na werving)
 
