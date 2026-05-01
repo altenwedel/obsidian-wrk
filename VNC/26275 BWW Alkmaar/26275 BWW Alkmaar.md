@@ -31,7 +31,7 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 | **Emma van der Elst** | Gemeente Alkmaar | Contactpersoon participatie | Afstemming participatieluik vóór uitvoering. Cinar schakelt, Sicko in de loop. |
 | **Baris Kurkcu** | Gemeente Alkmaar | Beleidsadviseur warmtetransitie | — |
 | **Nikki Natzijl** | Fotograaf | Fotografieopdracht | Prijsopgave gevraagd. Focus op straatbeeld, niet op individuele woningen. |
-| **Delta3** | Gemeente Alkmaar (intern bureau) | Strategie, communicatie, design | Alle uitingen in gemeentelijke huisstijl lopen via Delta3. Briefing via formulier. **Kostenplaats: E560403 ovv SP564063.** E-mail: account@delta3.nl, tel. 070 7890190. Drukwerk via ADC (contractpartner gemeente). Teksten in Word/B1-niveau, foto's 300dpi los van tekst. |
+| **Delta3** | Gemeente Alkmaar (intern bureau) | Strategie, communicatie, design | Contactpersoon: Eric Salomons (Account). Alle uitingen in gemeentelijke huisstijl lopen via Delta3. Briefing via formulier. **Kostenplaats: E560403 ovv SP564063.** E-mail: account@delta3.nl, tel. 070 7890190. Drukwerk via ADC (contractpartner gemeente). Teksten in Word/B1-niveau, foto's 300dpi los van tekst. |
 
 ### Vertrokken
 
@@ -49,7 +49,7 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 
 - [x] Wervingsflyer Huiswerkcommissie: tekst + ontwerp #task #project/26275 ⏫ 📅 2026-05-05 ✅ 2026-04-29
 - [x] Wervingsflyer v03 naar Delta3: voorkantfoto behouden, achterkant koffiekopje vervangen door illustraties typerende huizen Graft-de Rijp. Eerst check bij Petra. #task #project/26275 ⏫ 📅 2026-05-01 ✅ 2026-05-01
-- [ ] Flyer ontwerp + druk (3000x) uitzetten bij Delta3 — Daisy in cc als vervolgcontactpersoon. Inkoopordernummer via Cinar. #task #project/26275 ⏫ 📅 2026-05-01
+- [x] Flyer ontwerp + druk (3000x) uitzetten bij Delta3 — Daisy in cc als vervolgcontactpersoon. Inkoopordernummer via Cinar. #task #project/26275 ⏫ 📅 2026-05-01 ✅ 2026-05-01
 - [ ] Poster ontwerp + druk (20x) meenemen in Delta3-uitvraag — Arja verspreidt bij buurthuizen, sportcentra etc. #task #project/26275 ⏫ 📅 2026-05-01
 - [ ] Flyer verspreiding wk 21: Daisy mailt ADC voor deur-aan-deur ongeadresseerd (Daisy gemaild 30-04, wacht op antwoord) #task #project/26275 📅 2026-05-18
 - [ ] Landingspagina alkmaar.nl/warmteplan-graftderijp: Cinar checkt bij online team of pagina van 'duurzaam' naar 'warmtetransitie' kan. Sicko levert tekst zodra routing helder is. #task #project/26275 📅 2026-05-09
