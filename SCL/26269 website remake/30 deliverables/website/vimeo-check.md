@@ -10,7 +10,7 @@ Checklist voor het controleren van Vimeo-embeds in gepubliceerde berichten. Klik
 
 ## Gepubliceerde posts met Vimeo (30 video's in 27 posts)
 
-- [ ] [Bram vertelt hoe het zit](https://vimeo.com/291297914)
+- [x] [Bram vertelt hoe het zit](https://vimeo.com/291297914)
 - [ ] [Buurt besluit over betaald parkeren](https://vimeo.com/514971390)
 - [ ] [De customer journey van Rijkswaterstaat](https://vimeo.com/138755738)
 - [ ] [De milieuzone komt naar Haarlem](https://vimeo.com/699573371)
