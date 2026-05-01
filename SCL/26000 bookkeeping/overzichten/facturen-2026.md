@@ -255,6 +255,18 @@ facturen:
   type: werkzaamheden
   status: openstaand
   betaaldatum: ''
+- nr: VAA 26-1203
+  datum: '2026-05-01'
+  klant: Veiligheidsregio Amsterdam-Amstelland
+  contact: Dick Kol
+  betreft: fotosessie Programma Weerbaarheid
+  subtotaal: 1050.0
+  btw: 220.5
+  totaal: 1270.5
+  termijn: 30
+  type: werkzaamheden
+  status: openstaand
+  betaaldatum: ''
 ---
 
 # Facturenoverzicht 2026
@@ -359,3 +371,7 @@ Rolling report. Factuurgegevens staan in de frontmatter; het dashboard leest ze 
 ### VNC 261202 — VONC Communicatie
 2026-05-01 | € 4,072.15 | 🔴 openstaand
 *BuurtWarmteWijzer Alkmaar (apr)*
+
+### VAA 26-1203 — Veiligheidsregio Amsterdam-Amstelland
+2026-05-01 | € 1,270.50 | 🔴 openstaand
+*fotosessie Programma Weerbaarheid*
