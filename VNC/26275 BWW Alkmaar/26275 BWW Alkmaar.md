@@ -15,7 +15,7 @@ risico: bestuurlijke inbedding gemeente Alkmaar intern onvoldoende
 
 Graft-de Rijp is de pilotlocatie voor de BuurtWarmteWijzer (BWW), een traject van gemeente Alkmaar (Duurzaam Alkmaar). Doel is een representatieve werkgroep — de 'Huiswerkcommissie' — op te zetten die zelf een wijkuitvoeringsplan (WUP) ontwikkelt voor de warmtetransitie. De aanpak moet repliceerbaar zijn voor andere Alkmaarse wijken.
 
-Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja de Waal (BMC) is de hoofdbegeleider in het veld en portaalbeheerder van de BWW-omgeving. Sicko van Dijk (Studio Claro / VONC) ondersteunt de communicatie en procesbegeleiding. Eline Burger (TheEarlybirds) is de vaste contactpersoon voor het BWW-portaal en de COLONY-tool. De wervingsfase loopt van mei tot en met juni 2026; de eerste werkgroepbijeenkomst is beoogd in week 23 (begin juni). De communicatieaanpak wordt ontwikkeld met het Michels canvas (12-componenten model) en vertaalt zich naar bewonersgerichte materialen onder de naam Warmteplan Graft-de Rijp.
+Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja de Waal (BMC) is de hoofdbegeleider in het veld en portaalbeheerder van de BWW-omgeving. Sicko van Dijk (Studio Claro / VONC) ondersteunt de communicatie en procesbegeleiding. Eline Burger (TheEarlybirds) is de vaste contactpersoon voor het BWW-portaal en de COLONY-tool. De wervingsfase loopt van mei tot en met juni 2026; de eerste werkgroepbijeenkomst is beoogd in week 24/25 (medio juni). De communicatieaanpak wordt ontwikkeld met het Michels canvas (12-componenten model) en vertaalt zich naar bewonersgerichte materialen onder de naam Warmteplan Graft-de Rijp. Het thema weerbaarheid bij stroomstoring biedt een koppelkans: de warmtetransitie wordt onderdeel van een bredere discussie over wat bewoners met hun huis willen doen. Cinar werkt intern aan een kernverhaal over de verhouding aardgasvrij/all-electric en netcongestie.
 
 > ℹ️ **Personeel:** Chantal Blokpoel werkt niet meer bij VONC. Suzanne Leguijt (gemeente Alkmaar) is eveneens vertrokken. Cinar Kutlu is nu zelf aanspreekpunt voor communicatiebeleid en -accordering. Schrijf- en ontwerpcapaciteit moet Sicko zelf of extern organiseren.
 
@@ -48,10 +48,14 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 ### Kritisch pad — wervingsmateriaal (deadline: begin mei)
 
 - [x] Wervingsflyer Huiswerkcommissie: tekst + ontwerp #task #project/26275 ⏫ 📅 2026-05-05 ✅ 2026-04-29
-- [ ] Landingspagina tekst definitief aanleveren voor dorpsraadwebsite #task #project/26275 📅 2026-05-05 ⏫
-- [ ] Poster (raam + driehoeksbord): ontwerp op basis van VONC-vormentaal #task #project/26275 📅 2026-05-09
-- [x] Communicatieplan v08 geaccordeerd door Cinar #task #project/26275 📅 2026-05-01 ✅ 2026-04-30
 - [x] Wervingsflyer v03 naar Delta3: voorkantfoto behouden, achterkant koffiekopje vervangen door illustraties typerende huizen Graft-de Rijp. Eerst check bij Petra. #task #project/26275 ⏫ 📅 2026-05-01 ✅ 2026-05-01
+- [ ] Flyer ontwerp + druk (3000x) uitzetten bij Delta3 — Daisy in cc als vervolgcontactpersoon. Inkoopordernummer via Cinar. #task #project/26275 ⏫ 📅 2026-05-01
+- [ ] Poster ontwerp + druk (20x) meenemen in Delta3-uitvraag — Arja verspreidt bij buurthuizen, sportcentra etc. #task #project/26275 ⏫ 📅 2026-05-01
+- [ ] Flyer verspreiding wk 21: Daisy mailt ADC voor deur-aan-deur ongeadresseerd (Daisy gemaild 30-04, wacht op antwoord) #task #project/26275 📅 2026-05-18
+- [ ] Landingspagina alkmaar.nl/warmteplan-graftderijp: Cinar checkt bij online team of pagina van 'duurzaam' naar 'warmtetransitie' kan. Sicko levert tekst zodra routing helder is. #task #project/26275 📅 2026-05-09
+- [x] Communicatieplan v08 geaccordeerd door Cinar #task #project/26275 📅 2026-05-01 ✅ 2026-04-30
+- [ ] Advertentie in kranten: Daisy meenemen in wijze van media-inkopen #task #project/26275 📅 2026-05-07
+- [ ] Social media aanpak uitwerken — Sicko komt hierop terug in wk 19 #task #project/26275 📅 2026-05-09
 
 ### Platformkennis — deze week (wk 18)
 
@@ -71,6 +75,18 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 
 - [ ] Teams-folder inventariseren: alle bestanden classificeren (actueel/achterhaald/archief) #task #project/26275 📅 2026-05-02 ⏫
 
+### Wervingsproces en aanmeldingen
+
+- [ ] Opzet antwoordtekst aanmeldingen Huiswerkcommissie leveren aan Daisy #task #project/26275 📅 2026-05-15
+- [ ] Daisy checkt bij Femke of er standaard privacytekst is voor bewaren gegevens #task #project/26275 📅 2026-05-07
+- [ ] Arja de wijk in met flyers/posters — werven werkgroepleden #task #project/26275 📅 2026-05-15
+
+### Weerbaarheid en koppelkans
+
+- [ ] Adviesmail aan Cinar: koppelkans weerbaarheid + warmtetransitie benoemen, voorstel gezamenlijk kernverhaal #task #project/26275 ⏫ 📅 2026-05-05
+- [ ] Presentatie werkgroep (juni): weerbaarheid opnemen in inleiding, afstemmen met Arja en Cinar #task #project/26275 📅 2026-06-01
+- [ ] Arja aansluiten bij afstemming kernverhaal aardgasvrij vs netcongestie (via Cinar) #task #project/26275 📅 2026-05-15
+
 ### Fundament en afstemming
 
 - [x] Weekplanning Q2 uitwerken per week (week 18 t/m 26) #task #project/26275 📅 2026-05-01 ✅ 2026-04-29
@@ -79,6 +95,7 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 - [ ] Openstaande communicatierol gemeente (opvolger Suzanne) signaleren bij Cinar #task #project/26275
 - [ ] Schrijf-/ontwerpcapaciteit regelen (Chantal en Suzanne niet meer beschikbaar) #task #project/26275 ⏫
 - [ ] Routing communicatiemiddelen in kaart brengen: wie levert wat aan, via Delta3 of VONC, wie accordeert, wie drukt? Kostenplaats: E560403 ovv SP564063 (ontvangen 30-04) #task #project/26275 ⏫
+- [ ] Gezamenlijke werkomgeving inrichten op SharePoint — iedereen kan uploaden en samenwerken #task #project/26275 📅 2026-05-09
 
 ### Later (na werving)
 
@@ -114,6 +131,7 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 | 26-03-2026 | [[260326-inventaris-blauwdruk-suzanne]] — Inventarisatie blauwdruk Suzanne Leguijt (feedback-map) |
 | 22-04-2026 | [[260422-blauwdruk-communicatie-buurtaanpak-suzanne]] — Blauwdruk communicatie buurtaanpak (Suzanne, Factor C) |
 | 27-04-2026 | [[260427-roadmap-deliverables-q2]] — Roadmap deliverables Q2 (week 18–26) |
+| 30-04-2026 | Afstemmingsoverleg C&P (Cinar, Sicko, Arja, Daisy) — acties wervingsmateriaal, weerbaarheid, SharePoint |
 
 ## Belangrijke data
 
@@ -128,10 +146,12 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 | 21 april 2026 | NPLW-leerkring communicatie Heerenveen (Sicko aanwezig) |
 | 23 april 2026 | Portaldemo met Eline Burger (TheEarlybirds) |
 | 30 april 2026 | Communicatieplan v08 akkoord Cinar. Kostenplaats Delta3 ontvangen (E560403) |
-| Wk 18–19 (28 apr–9 mei) | Wervingsmateriaal gereed: flyer, landingspagina, poster |
+| 30 april 2026 | Afstemmingsoverleg C&P: planning vastgelegd, weerbaarheid als koppelkans geïdentificeerd |
+| Wk 19 (5–9 mei) | Wervingsmateriaal gereed: flyer, landingspagina, poster |
 | 11–15 mei 2026 | ⚠️ Vakantie Cinar — geen checks op teksten mogelijk |
-| **Mei 2026** | **Start wervingsfase Huiswerkcommissie — Arja de wijk in** |
-| **Week 23 (begin juni)** | **Beoogde eerste bijeenkomst werkgroep** |
+| **Wk 20 (11–15 mei)** | **Arja eerste rondes in Graft-de Rijp** |
+| **Wk 21 (18–23 mei)** | **Al het materiaal bij de bewoners** |
+| **Week 24/25 (medio juni)** | **Beoogde eerste bijeenkomst werkgroep** |
 
 ## Visuele kern
 
