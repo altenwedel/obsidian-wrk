@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCL/26000 bookkeeping/30 deliverables/dashboard-facturen.md",
-                "mode": "preview",
-                "source": true
+                "file": "SCL/26000 bookkeeping/bronnen/bronnen.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "dashboard-facturen"
+              "title": "bronnen"
             }
           }
         ]
@@ -208,12 +208,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70f67c1108527cde",
+  "active": "affec8c40e509fea",
   "lastOpenFiles": [
+    "SCL/26000 bookkeeping/overzichten/overzichten.md",
+    "SCL/26000 bookkeeping/overzichten/dashboard.md",
+    "SCL/26000 bookkeeping/bronnen/bronnen.md",
+    "SCL/26000 bookkeeping/overzichten/facturen-2026.md",
+    "SCL/26000 bookkeeping/overzichten/facturen-2025.md",
+    "SCL/26000 bookkeeping/00 project.md",
+    "SCL/26000 bookkeeping/30 deliverables/dashboard-facturen.md",
+    "SCL/26000 bookkeeping/overzichten",
+    "SCL/26000 bookkeeping/bronnen",
     "SCL/26000 bookkeeping/30 deliverables/facturen-2025.md",
     "SCL/26000 bookkeeping/30 deliverables/facturen-2026.md",
-    "SCL/26000 bookkeeping/30 deliverables/dashboard-facturen.md",
-    "SCL/26000 bookkeeping/00 project.md",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/20 brondocumenten.md",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/20 brondocumenten.md.tmp.33200.1777627145171",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/250604-260319-running-notes-cher-spigt.md.tmp.33200.1777627109190",
@@ -235,17 +242,10 @@
     "VNC/26275 BWW Alkmaar/lit/OPN-07 WE-ME.md",
     "VNC/26275 BWW Alkmaar/lit/OPN-06 BSR Leefstijlen.md",
     "VNC/26275 BWW Alkmaar/lit/OPN-02 TNO-2020-P12079.md",
-    "VNC/26275 BWW Alkmaar/lit/OPN-03 TNO-2020-P12094.md",
-    "VNC/26275 BWW Alkmaar/lit/OPN-04 TNO-2023-P12703.md",
-    "VNC/26275 BWW Alkmaar/lit/OPN-05 TNO-2026-R10501.md",
-    "VNC/26275 BWW Alkmaar/30 deliverables/30 deliverables.md",
     "VNC/26275 BWW Alkmaar/lit",
-    "VNC/26275 BWW Alkmaar/20 brondocumenten/260326-inventaris-blauwdruk-suzanne.md",
     "SCL/26269 website remake/30 deliverables/website/live",
     "SCL/26269 website remake/30 deliverables/website/archief",
     "SCL/26269 website remake/30 deliverables/website",
-    "SCL/26269 website remake/20 brondocumenten/literatuur",
-    "README.md.tmp.52064.1777389863752",
     "VRK/26277 subsidie aanvraag/30 deliverables/asset briefing/assets/color-card.svg"
   ]
 }

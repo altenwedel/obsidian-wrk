@@ -14,7 +14,7 @@ facturen:
   termijn: 30
   type: onkosten
   status: betaald
-  betaaldatum: ''
+  betaaldatum: '2026-01-14'
 - nr: BCM 251181
   datum: '2026-01-13'
   klant: Beaumont Communicatie & Management
@@ -26,7 +26,7 @@ facturen:
   termijn: 30
   type: werkzaamheden
   status: betaald
-  betaaldatum: ''
+  betaaldatum: '2026-02-24'
 - nr: BCM 26-1182
   datum: '2026-01-14'
   klant: Beaumont Communicatie & Management
@@ -38,43 +38,43 @@ facturen:
   termijn: 30
   type: onkosten
   status: betaald
-  betaaldatum: ''
+  betaaldatum: '2026-02-24'
 - nr: GNM 261183
   datum: '2026-01-21'
   klant: Gemeente Nijmegen
   contact: Manon Brinkhoff
-  betreft: illustraties en flyer gemeenteraadsverkiezingen 2026
+  betreft: illustraties en flyer GR2026
   subtotaal: 1740.0
   btw: 365.4
   totaal: 2105.4
   termijn: 14
   type: gemengd
   status: betaald
-  betaaldatum: ''
+  betaaldatum: '2026-02-12'
 - nr: AMS 261184
   datum: '2026-01-22'
   klant: Gemeente Amsterdam
   contact: Laura Mönch
-  betreft: Flyer gemeenteraadsverkiezingen 2026
+  betreft: flyer GR2026
   subtotaal: 700.0
   btw: 147.0
   totaal: 847.0
   termijn: 14
   type: gemengd
   status: betaald
-  betaaldatum: ''
+  betaaldatum: '2026-02-11'
 - nr: AMS 261185
   datum: '2026-01-22'
   klant: Gemeente Amsterdam
   contact: Laura Mönch
-  betreft: Materiaal gemeenteraadsverkiezingen 2026
+  betreft: materiaal GR2026
   subtotaal: 180.0
   btw: 37.8
   totaal: 217.8
   termijn: 14
   type: werkzaamheden
   status: betaald
-  betaaldatum: ''
+  betaaldatum: '2026-02-10'
 - nr: BCM 26-1186
   datum: '2026-01-30'
   klant: Beaumont Communicatie & Management
@@ -86,30 +86,30 @@ facturen:
   termijn: 30
   type: onkosten
   status: betaald
-  betaaldatum: ''
+  betaaldatum: '2026-02-24'
 - nr: AMS 261187
   datum: '2026-02-09'
   klant: Gemeente Amsterdam
   contact: Laura Mönch
-  betreft: Flyer gemeenteraadsverkiezingen 2026
+  betreft: flyer GR2026 (2e)
   subtotaal: 700.0
   btw: 147.0
   totaal: 847.0
   termijn: 14
   type: gemengd
-  status: betaald
+  status: openstaand
   betaaldatum: ''
 - nr: AMS 261188
   datum: '2026-02-09'
   klant: Gemeente Amsterdam
   contact: Laura Mönch
-  betreft: Materiaal gemeenteraadsverkiezingen 2026
+  betreft: materiaal GR2026 (2e)
   subtotaal: 180.0
   btw: 37.8
   totaal: 217.8
   termijn: 14
   type: werkzaamheden
-  status: betaald
+  status: openstaand
   betaaldatum: ''
 - nr: BCM 261189
   datum: '2026-02-10'
@@ -122,7 +122,7 @@ facturen:
   termijn: 30
   type: werkzaamheden
   status: betaald
-  betaaldatum: ''
+  betaaldatum: '2026-03-10'
 - nr: GNM 261190
   datum: '2026-02-19'
   klant: Gemeente Nijmegen
@@ -134,19 +134,19 @@ facturen:
   termijn: 14
   type: werkzaamheden
   status: betaald
-  betaaldatum: ''
+  betaaldatum: '2026-02-26'
 - nr: VNC 261191
   datum: '2026-03-01'
   klant: VONC Communicatie
   contact: Joze Wiersma
-  betreft: BuurtWarmteWijzer Alkmaar (februari)
+  betreft: BuurtWarmteWijzer Alkmaar (feb)
   subtotaal: 463.8
   btw: 97.4
   totaal: 561.2
   termijn: 14
   type: werkzaamheden
   status: betaald
-  betaaldatum: ''
+  betaaldatum: '2026-03-31'
 - nr: BCM 26-1192
   datum: '2026-03-01'
   klant: Beaumont Communicatie & Management
@@ -158,7 +158,7 @@ facturen:
   termijn: 30
   type: onkosten
   status: betaald
-  betaaldatum: ''
+  betaaldatum: '2026-04-02'
 - nr: BCM 261193
   datum: '2026-03-11'
   klant: Beaumont Communicatie & Management
@@ -170,19 +170,19 @@ facturen:
   termijn: 30
   type: werkzaamheden
   status: betaald
-  betaaldatum: ''
+  betaaldatum: '2026-04-10'
 - nr: GLE 261194
   datum: '2026-03-27'
   klant: Gemeente Leiden
   contact: Menno Geltink
-  betreft: vormgeving en redactie flyers GR2026
+  betreft: flyers GR2026
   subtotaal: 1662.5
   btw: 349.13
   totaal: 2011.63
   termijn: 14
   type: gemengd
-  status: openstaand
-  betaaldatum: ''
+  status: betaald
+  betaaldatum: '2026-04-23'
 - nr: SCP 25199
   datum: '2026-04-02'
   klant: Stichting Client Support
@@ -193,13 +193,13 @@ facturen:
   totaal: 9462.2
   termijn: 14
   type: werkzaamheden
-  status: openstaand
-  betaaldatum: ''
+  status: betaald
+  betaaldatum: '2026-04-14'
 - nr: VNC 261196
   datum: '2026-04-12'
   klant: VONC Communicatie
   contact: Joze Wiersma
-  betreft: BuurtWarmteWijzer Alkmaar (maart)
+  betreft: BuurtWarmteWijzer Alkmaar (mrt)
   subtotaal: 3755.2
   btw: 788.59
   totaal: 4543.79
@@ -235,7 +235,7 @@ facturen:
   datum: '2026-04-20'
   klant: Beaumont Communicatie & Management
   contact: Arjati Atarzadeh
-  betreft: werkzaamheden maart 2026 (aanvullend)
+  betreft: werkzaamheden maart 2026 (aanvulling)
   subtotaal: 717.6
   btw: 150.7
   totaal: 868.3
@@ -267,121 +267,127 @@ facturen:
   type: onkosten
   status: openstaand
   betaaldatum: ''
+- nr: VNC 261202
+  datum: '2026-05-01'
+  klant: VONC Communicatie
+  contact: Joze Wiersma
+  betreft: BuurtWarmteWijzer Alkmaar (apr)
+  subtotaal: 3365.41
+  btw: 706.74
+  totaal: 4072.15
+  termijn: 14
+  type: werkzaamheden
+  status: openstaand
+  betaaldatum: ''
 ---
 
 # Facturenoverzicht 2026
 
-Dit bestand bevat alle facturen van Studio Claro BV uit 2026. De factuurgegevens in de frontmatter worden gebruikt door het dashboard via DataviewJS.
+Rolling report. Factuurgegevens staan in de frontmatter; het dashboard leest ze daar uit.
 
 
 ## Januari
 
 ### BCM 26-1180 — Beaumont Communicatie & Management
-**Datum:** 2026-01-01 | **Totaal:** € 721.15 | **Status:** 🟢 betaald
-*onkosten december 2025* — contact: Arjati Atarzadeh
+2026-01-01 | € 721.15 | 🟢 betaald → betaald 2026-01-14
+*onkosten december 2025*
 
 ### BCM 251181 — Beaumont Communicatie & Management
-**Datum:** 2026-01-13 | **Totaal:** € 8,466.08 | **Status:** 🟢 betaald
-*werkzaamheden december 2025* — contact: Arjati Atarzadeh
+2026-01-13 | € 8,466.08 | 🟢 betaald → betaald 2026-02-24
+*werkzaamheden december 2025*
 
 ### BCM 26-1182 — Beaumont Communicatie & Management
-**Datum:** 2026-01-14 | **Totaal:** € 93.05 | **Status:** 🟢 betaald
-*onkosten november 2025 (nagekomen)* — contact: Arjati Atarzadeh
+2026-01-14 | € 93.05 | 🟢 betaald → betaald 2026-02-24
+*onkosten november 2025 (nagekomen)*
 
 ### GNM 261183 — Gemeente Nijmegen
-**Datum:** 2026-01-21 | **Totaal:** € 2,105.40 | **Status:** 🟢 betaald
-*illustraties en flyer gemeenteraadsverkiezingen 2026* — contact: Manon Brinkhoff
+2026-01-21 | € 2,105.40 | 🟢 betaald → betaald 2026-02-12
+*illustraties en flyer GR2026*
 
 ### AMS 261184 — Gemeente Amsterdam
-**Datum:** 2026-01-22 | **Totaal:** € 847.00 | **Status:** 🟢 betaald
-*Flyer gemeenteraadsverkiezingen 2026* — contact: Laura Mönch
+2026-01-22 | € 847.00 | 🟢 betaald → betaald 2026-02-11
+*flyer GR2026*
 
 ### AMS 261185 — Gemeente Amsterdam
-**Datum:** 2026-01-22 | **Totaal:** € 217.80 | **Status:** 🟢 betaald
-*Materiaal gemeenteraadsverkiezingen 2026* — contact: Laura Mönch
+2026-01-22 | € 217.80 | 🟢 betaald → betaald 2026-02-10
+*materiaal GR2026*
 
 ### BCM 26-1186 — Beaumont Communicatie & Management
-**Datum:** 2026-01-30 | **Totaal:** € 9.74 | **Status:** 🟢 betaald
-*onkosten januari 2026* — contact: Arjati Atarzadeh
+2026-01-30 | € 9.74 | 🟢 betaald → betaald 2026-02-24
+*onkosten januari 2026*
 
 
 ## Februari
 
 ### AMS 261187 — Gemeente Amsterdam
-**Datum:** 2026-02-09 | **Totaal:** € 847.00 | **Status:** 🟢 betaald
-*Flyer gemeenteraadsverkiezingen 2026* — contact: Laura Mönch
+2026-02-09 | € 847.00 | 🔴 openstaand
+*flyer GR2026 (2e)*
 
 ### AMS 261188 — Gemeente Amsterdam
-**Datum:** 2026-02-09 | **Totaal:** € 217.80 | **Status:** 🟢 betaald
-*Materiaal gemeenteraadsverkiezingen 2026* — contact: Laura Mönch
+2026-02-09 | € 217.80 | 🔴 openstaand
+*materiaal GR2026 (2e)*
 
 ### BCM 261189 — Beaumont Communicatie & Management
-**Datum:** 2026-02-10 | **Totaal:** € 6,204.15 | **Status:** 🟢 betaald
-*werkzaamheden januari 2026* — contact: Arjati Atarzadeh
+2026-02-10 | € 6,204.15 | 🟢 betaald → betaald 2026-03-10
+*werkzaamheden januari 2026*
 
 ### GNM 261190 — Gemeente Nijmegen
-**Datum:** 2026-02-19 | **Totaal:** € 871.20 | **Status:** 🟢 betaald
-*verkiezingsspread De Brug GR2026* — contact: Manon Brinkhoff
+2026-02-19 | € 871.20 | 🟢 betaald → betaald 2026-02-26
+*verkiezingsspread De Brug GR2026*
 
 
 ## Maart
 
 ### VNC 261191 — VONC Communicatie
-**Datum:** 2026-03-01 | **Totaal:** € 561.20 | **Status:** 🟢 betaald
-*BuurtWarmteWijzer Alkmaar (februari)* — contact: Joze Wiersma
+2026-03-01 | € 561.20 | 🟢 betaald → betaald 2026-03-31
+*BuurtWarmteWijzer Alkmaar (feb)*
 
 ### BCM 26-1192 — Beaumont Communicatie & Management
-**Datum:** 2026-03-01 | **Totaal:** € 197.11 | **Status:** 🟢 betaald
-*onkosten februari 2026* — contact: Arjati Atarzadeh
+2026-03-01 | € 197.11 | 🟢 betaald → betaald 2026-04-02
+*onkosten februari 2026*
 
 ### BCM 261193 — Beaumont Communicatie & Management
-**Datum:** 2026-03-11 | **Totaal:** € 7,134.16 | **Status:** 🟢 betaald
-*werkzaamheden februari 2026* — contact: Arjati Atarzadeh
+2026-03-11 | € 7,134.16 | 🟢 betaald → betaald 2026-04-10
+*werkzaamheden februari 2026*
 
 ### GLE 261194 — Gemeente Leiden
-**Datum:** 2026-03-27 | **Totaal:** € 2,011.63 | **Status:** 🔴 openstaand
-*vormgeving en redactie flyers GR2026* — contact: Menno Geltink
+2026-03-27 | € 2,011.63 | 🟢 betaald → betaald 2026-04-23
+*flyers GR2026*
 
 
 ## April
 
 ### SCP 25199 — Stichting Client Support
-**Datum:** 2026-04-02 | **Totaal:** € 9,462.20 | **Status:** 🔴 openstaand
-*website ontwikkeling* — contact: Marjan Oudshoorn
+2026-04-02 | € 9,462.20 | 🟢 betaald → betaald 2026-04-14
+*website ontwikkeling*
 
 ### VNC 261196 — VONC Communicatie
-**Datum:** 2026-04-12 | **Totaal:** € 4,543.79 | **Status:** 🔴 openstaand
-*BuurtWarmteWijzer Alkmaar (maart)* — contact: Joze Wiersma
+2026-04-12 | € 4,543.79 | 🔴 openstaand
+*BuurtWarmteWijzer Alkmaar (mrt)*
 
 ### BCM 26-1197 — Beaumont Communicatie & Management
-**Datum:** 2026-04-14 | **Totaal:** € 111.96 | **Status:** 🔴 openstaand
-*onkosten maart 2026* — contact: Arjati Atarzadeh
+2026-04-14 | € 111.96 | 🔴 openstaand
+*onkosten maart 2026*
 
 ### BCM 261198 — Beaumont Communicatie & Management
-**Datum:** 2026-04-14 | **Totaal:** € 4,326.84 | **Status:** 🔴 openstaand
-*werkzaamheden maart 2026* — contact: Arjati Atarzadeh
+2026-04-14 | € 4,326.84 | 🔴 openstaand
+*werkzaamheden maart 2026*
 
 ### BCM 261199 — Beaumont Communicatie & Management
-**Datum:** 2026-04-20 | **Totaal:** € 868.30 | **Status:** 🔴 openstaand
-*werkzaamheden maart 2026 (aanvullend)* — contact: Arjati Atarzadeh
+2026-04-20 | € 868.30 | 🔴 openstaand
+*werkzaamheden maart 2026 (aanvulling)*
 
 ### AMC 26-1200 — Amsterdam UMC
-**Datum:** 2026-04-30 | **Totaal:** € 1,034.55 | **Status:** 🔴 openstaand
-*illustraties voetenboekje* — contact: Rosalie Huijsmans
+2026-04-30 | € 1,034.55 | 🔴 openstaand
+*illustraties voetenboekje*
 
 
 ## Mei
 
 ### BCM 26-1201 — Beaumont Communicatie & Management
-**Datum:** 2026-05-01 | **Totaal:** € 312.37 | **Status:** 🔴 openstaand
-*onkosten april 2026* — contact: Arjati Atarzadeh
+2026-05-01 | € 312.37 | 🔴 openstaand
+*onkosten april 2026*
 
-
----
-## Jaarsamenvatting
-- **Totaal excl. BTW:** € 42,284.69
-- **Totaal BTW:** € 8,879.79
-- **Totaal incl. BTW:** € 51,164.48
-- **Openstaand:** € 22,671.64
-- **Betaald:** € 28,492.84
-- **Aantal facturen:** 22
+### VNC 261202 — VONC Communicatie
+2026-05-01 | € 4,072.15 | 🔴 openstaand
+*BuurtWarmteWijzer Alkmaar (apr)*
