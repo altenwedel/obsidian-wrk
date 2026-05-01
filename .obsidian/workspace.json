@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VNC/26275 BWW Alkmaar/20 brondocumenten/20 brondocumenten.md",
+                "file": "SCL/26000 bookkeeping/00 project.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "20 brondocumenten"
+              "title": "00 project"
             }
           }
         ]
@@ -207,15 +207,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70f67c1108527cde",
+  "active": "affec8c40e509fea",
   "lastOpenFiles": [
+    "VNC/26275 BWW Alkmaar/20 brondocumenten/20 brondocumenten.md",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/20 brondocumenten.md.tmp.33200.1777627145171",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/250604-260319-running-notes-cher-spigt.md.tmp.33200.1777627109190",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/250604-260319-running-notes-cher-spigt.md",
     "VNC/26275 BWW Alkmaar/26275 BWW Alkmaar.md",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/260226-running-notes-cher-spigt.md",
     "VNC/26275 BWW Alkmaar/VNC 26275 BWW Alkmaar",
-    "VNC/26275 BWW Alkmaar/20 brondocumenten/20 brondocumenten.md",
     "SCL/26269 website remake/26269 website remake.md",
     "SCL/26269 website remake/30 deliverables/website/concept/260501-voetenboekje-amsterdam-umc.md",
     "SCL/26269 website remake/30 deliverables/website/concept",
@@ -244,7 +244,6 @@
     "SCL/26269 website remake/30 deliverables/website",
     "SCL/26269 website remake/20 brondocumenten/literatuur",
     "README.md.tmp.52064.1777389863752",
-    "SCL/26269 website remake/90 templates",
     "VRK/26277 subsidie aanvraag/30 deliverables/asset briefing/assets/color-card.svg"
   ]
 }
