@@ -51,7 +51,7 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 - [ ] Landingspagina tekst definitief aanleveren voor dorpsraadwebsite #task #project/26275 📅 2026-05-05 ⏫
 - [ ] Poster (raam + driehoeksbord): ontwerp op basis van VONC-vormentaal #task #project/26275 📅 2026-05-09
 - [x] Communicatieplan v08 geaccordeerd door Cinar #task #project/26275 📅 2026-05-01 ✅ 2026-04-30
-- [ ] Wervingsflyer v03 naar Delta3: voorkantfoto behouden, achterkant koffiekopje vervangen door illustraties typerende huizen Graft-de Rijp. Eerst check bij Petra. #task #project/26275 ⏫ 📅 2026-05-01
+- [x] Wervingsflyer v03 naar Delta3: voorkantfoto behouden, achterkant koffiekopje vervangen door illustraties typerende huizen Graft-de Rijp. Eerst check bij Petra. #task #project/26275 ⏫ 📅 2026-05-01 ✅ 2026-05-01
 
 ### Platformkennis — deze week (wk 18)
 
