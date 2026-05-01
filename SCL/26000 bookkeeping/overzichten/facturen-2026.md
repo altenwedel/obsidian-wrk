@@ -87,30 +87,6 @@ facturen:
   type: onkosten
   status: betaald
   betaaldatum: '2026-02-24'
-- nr: AMS 261187
-  datum: '2026-02-09'
-  klant: Gemeente Amsterdam
-  contact: Laura Mönch
-  betreft: flyer GR2026 (2e)
-  subtotaal: 700.0
-  btw: 147.0
-  totaal: 847.0
-  termijn: 14
-  type: gemengd
-  status: openstaand
-  betaaldatum: ''
-- nr: AMS 261188
-  datum: '2026-02-09'
-  klant: Gemeente Amsterdam
-  contact: Laura Mönch
-  betreft: materiaal GR2026 (2e)
-  subtotaal: 180.0
-  btw: 37.8
-  totaal: 217.8
-  termijn: 14
-  type: werkzaamheden
-  status: openstaand
-  betaaldatum: ''
 - nr: BCM 261189
   datum: '2026-02-10'
   klant: Beaumont Communicatie & Management
@@ -318,14 +294,6 @@ Rolling report. Factuurgegevens staan in de frontmatter; het dashboard leest ze 
 
 
 ## Februari
-
-### AMS 261187 — Gemeente Amsterdam
-2026-02-09 | € 847.00 | 🔴 openstaand
-*flyer GR2026 (2e)*
-
-### AMS 261188 — Gemeente Amsterdam
-2026-02-09 | € 217.80 | 🔴 openstaand
-*materiaal GR2026 (2e)*
 
 ### BCM 261189 — Beaumont Communicatie & Management
 2026-02-10 | € 6,204.15 | 🟢 betaald → betaald 2026-03-10

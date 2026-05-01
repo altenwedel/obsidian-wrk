@@ -50,7 +50,7 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 - [x] Wervingsflyer Huiswerkcommissie: tekst + ontwerp #task #project/26275 ⏫ 📅 2026-05-05 ✅ 2026-04-29
 - [x] Wervingsflyer v03 naar Delta3: voorkantfoto behouden, achterkant koffiekopje vervangen door illustraties typerende huizen Graft-de Rijp. Eerst check bij Petra. #task #project/26275 ⏫ 📅 2026-05-01 ✅ 2026-05-01
 - [x] Flyer ontwerp + druk (3000x) uitzetten bij Delta3 — Daisy in cc als vervolgcontactpersoon. Inkoopordernummer via Cinar. #task #project/26275 ⏫ 📅 2026-05-01 ✅ 2026-05-01
-- [ ] Poster ontwerp + druk (20x) meenemen in Delta3-uitvraag — Arja verspreidt bij buurthuizen, sportcentra etc. #task #project/26275 ⏫ 📅 2026-05-01
+- [ ] Poster ontwerp + druk (20x) meenemen in Delta3-uitvraag — Arja verspreidt bij buurthuizen, sportcentra etc. #task #project/26275 ⏫ 📅 2026-05-04
 - [ ] Flyer verspreiding wk 21: Daisy mailt ADC voor deur-aan-deur ongeadresseerd (Daisy gemaild 30-04, wacht op antwoord) #task #project/26275 📅 2026-05-18
 - [ ] Landingspagina alkmaar.nl/warmteplan-graftderijp: Cinar checkt bij online team of pagina van 'duurzaam' naar 'warmtetransitie' kan. Sicko levert tekst zodra routing helder is. #task #project/26275 📅 2026-05-09
 - [x] Communicatieplan v08 geaccordeerd door Cinar #task #project/26275 📅 2026-05-01 ✅ 2026-04-30
@@ -90,7 +90,7 @@ Opdrachtgever is Cinar Kutlu (gemeente Alkmaar, senior omgevingsregisseur). Arja
 ### Fundament en afstemming
 
 - [x] Weekplanning Q2 uitwerken per week (week 18 t/m 26) #task #project/26275 📅 2026-05-01 ✅ 2026-04-29
-- [ ] Stakeholderoverzicht v06 doorsturen naar Arja (via Cinar) #task #project/26275 📅 2026-05-01
+- [ ] Stakeholderoverzicht v06 doorsturen naar Arja (via Cinar) #task #project/26275 📅 2026-05-04
 - [ ] Bestuurlijk commitment WUP en fasering afstemmen met Cinar — zie ⚠️ risico #task #project/26275 ⏫
 - [ ] Openstaande communicatierol gemeente (opvolger Suzanne) signaleren bij Cinar #task #project/26275
 - [ ] Schrijf-/ontwerpcapaciteit regelen (Chantal en Suzanne niet meer beschikbaar) #task #project/26275 ⏫

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCL/26000 bookkeeping/bronnen/bronnen.md",
+                "file": "000/000.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bronnen"
+              "title": "000"
             }
           }
         ]
@@ -210,12 +210,15 @@
   },
   "active": "affec8c40e509fea",
   "lastOpenFiles": [
+    "VNC/26275 BWW Alkmaar/26275 BWW Alkmaar.md",
+    "SCL/26000 bookkeeping/26000 bookkeeping.md",
     "SCL/26000 bookkeeping/overzichten/overzichten.md",
-    "SCL/26000 bookkeeping/overzichten/dashboard.md",
+    "SCL/26269 website remake/30 deliverables/website/website.md",
+    "SCL/26269 website remake/26269 website remake.md",
     "SCL/26000 bookkeeping/bronnen/bronnen.md",
-    "SCL/26000 bookkeeping/overzichten/facturen-2026.md",
+    "SCL/26000 bookkeeping/overzichten/dashboard.md",
     "SCL/26000 bookkeeping/overzichten/facturen-2025.md",
-    "SCL/26000 bookkeeping/00 project.md",
+    "SCL/26000 bookkeeping/overzichten/facturen-2026.md",
     "SCL/26000 bookkeeping/30 deliverables/dashboard-facturen.md",
     "SCL/26000 bookkeeping/overzichten",
     "SCL/26000 bookkeeping/bronnen",
@@ -225,10 +228,8 @@
     "VNC/26275 BWW Alkmaar/20 brondocumenten/20 brondocumenten.md.tmp.33200.1777627145171",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/250604-260319-running-notes-cher-spigt.md.tmp.33200.1777627109190",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/250604-260319-running-notes-cher-spigt.md",
-    "VNC/26275 BWW Alkmaar/26275 BWW Alkmaar.md",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/260226-running-notes-cher-spigt.md",
     "VNC/26275 BWW Alkmaar/VNC 26275 BWW Alkmaar",
-    "SCL/26269 website remake/26269 website remake.md",
     "SCL/26269 website remake/30 deliverables/website/concept/260501-voetenboekje-amsterdam-umc.md",
     "SCL/26269 website remake/30 deliverables/website/concept",
     "000/000.md",
@@ -241,7 +242,6 @@
     "VNC/26275 BWW Alkmaar/lit/OPN-08 Handreiking Stakeholdersanalyse.md",
     "VNC/26275 BWW Alkmaar/lit/OPN-07 WE-ME.md",
     "VNC/26275 BWW Alkmaar/lit/OPN-06 BSR Leefstijlen.md",
-    "VNC/26275 BWW Alkmaar/lit/OPN-02 TNO-2020-P12079.md",
     "VNC/26275 BWW Alkmaar/lit",
     "SCL/26269 website remake/30 deliverables/website/live",
     "SCL/26269 website remake/30 deliverables/website/archief",
