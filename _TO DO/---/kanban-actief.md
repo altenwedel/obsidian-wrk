@@ -11,7 +11,7 @@ tags:
 
 # Kanban actief, vervangen
 
-> Dit bestand is vervangen door [[000|taken.md]] (Tasks-plug-in).
+> Dit bestand is vervangen door [[_TO DO|taken.md]] (Tasks-plug-in).
 >
 > De statische Kanban-aanpak (taken gedupliceerd op deze pagina én in de oplegnotitie) is vervangen door een dynamische Tasks-aanpak: taken leven één keer in de oplegnotitie en worden via queries op `taken.md` opgehaald, gefilterd en afgevinkt.
 >

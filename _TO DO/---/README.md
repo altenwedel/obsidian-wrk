@@ -13,7 +13,7 @@ Centrale overzichten over projecten heen. Project-specifieke dashboards staan in
 
 | Bestand | Doel |
 |---|---|
-| [[000]] | Centraal taakdashboard, dynamisch gevoed door de Tasks-plug-in. Toont vandaag, achterstallig, deze week, komende twee weken, per project, zonder deadline, en recent afgevinkt |
+| [[_TO DO]] | Centraal taakdashboard, dynamisch gevoed door de Tasks-plug-in. Toont vandaag, achterstallig, deze week, komende twee weken, per project, zonder deadline, en recent afgevinkt |
 | [[kanban-actief]] | Vervangen, kan via Verkenner weg. Was de eerste poging tot een statische Kanban; vervangen door `taken.md` |
 
 ## Werkwijze taakbeheer
