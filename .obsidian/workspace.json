@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VNC/26275 BWW Alkmaar/26275 BWW Alkmaar.md",
+                "file": "SCL/26000 bookkeeping/overzichten/overzichten.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26275 BWW Alkmaar"
+              "title": "overzichten"
             }
           }
         ]
@@ -210,15 +210,18 @@
   },
   "active": "70f67c1108527cde",
   "lastOpenFiles": [
+    "SCL/26000 bookkeeping/26000 bookkeeping.md",
+    "_TO DO/_TO DO.md",
+    "---/AMC/26261 voetenboekje/26261 voetenboekje.md",
+    "---",
+    "BCM/26276 kwaliteitsprogramma/80 dashboards/alle-beoordelingen.md",
+    "VNC/26275 BWW Alkmaar/26275 BWW Alkmaar.md",
     "SCL/26269 website remake/26269 website remake.md",
     "SCL/26269 website remake/30 deliverables/website/website.md",
     "SCL/26269 website remake/30 deliverables/website/archief/verkeerskaart-voor-niet-verkeerskundigen.md",
     "SCL/26269 website remake/30 deliverables/website/vimeo-check.md",
     "SCL/26269 website remake/30 deliverables/website/---/vimeo-check.md",
     "SCL/26269 website remake/30 deliverables/website/---",
-    "VNC/26275 BWW Alkmaar/26275 BWW Alkmaar.md",
-    "SCL/26000 bookkeeping/26000 bookkeeping.md",
-    "AMC/26261 voetenboekje/26261 voetenboekje.md",
     "SCL/26269 website remake/26269 website remake.md.tmp.46932.1777658342582",
     "SCL/26269 website remake/20 brondocumenten/literatuur/260428-concurrentieanalyse.md",
     "SCL/26269 website remake/30 deliverables/sterartikelen/260105-participatie-zonder-valse-start.md",
@@ -236,8 +239,6 @@
     "SCL/26269 website remake/30 deliverables/website/concept/260501-voetenboekje-amsterdam-umc.md",
     "SCL/26269 website remake/30 deliverables/website/live/zorg-en-ondersteuning-regelen-we-samen.md",
     "SCL/26269 website remake/30 deliverables/website/live/corona-communicatie-voor-ouderen.md",
-    "SCL/26269 website remake/30 deliverables/sterartikelen/260126-leusden-in-balans.md",
-    "SCL/26269 website remake/30 deliverables/sterartikelen/260127-edam-volendam-gemeenteraad.md",
     "SCL/26000 bookkeeping/overzichten",
     "SCL/26000 bookkeeping/bronnen",
     "VNC/26275 BWW Alkmaar/20 brondocumenten/20 brondocumenten.md.tmp.33200.1777627145171",
@@ -245,7 +246,6 @@
     "VNC/26275 BWW Alkmaar/VNC 26275 BWW Alkmaar",
     "SCL/26269 website remake/30 deliverables/website/concept",
     "VNC/26275 BWW Alkmaar/lit",
-    "SCL/26269 website remake/30 deliverables/website/live",
     "VRK/26277 subsidie aanvraag/30 deliverables/asset briefing/assets/color-card.svg"
   ]
 }
